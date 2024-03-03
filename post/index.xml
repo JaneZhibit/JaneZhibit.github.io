@@ -5,12 +5,52 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 03 Mar 2024 12:00:25 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Git</title>
+      <link>https://example.com/post/git/</link>
+      <pubDate>Sun, 03 Mar 2024 12:00:25 +0300</pubDate>
+      <guid>https://example.com/post/git/</guid>
+      <description>&lt;p&gt;Систем контроля версий существует много, они все имеют свои особенности, но в этой статье мы рассмотрим именно Git.&lt;/p&gt;
+&lt;p&gt;Эта система появилась в 2005 году, автор - Линус Торвальдс.&lt;/p&gt;
+&lt;p&gt;Git - бесплатная система контроля версий, отслеживающая все изменения, вносимые в файлы и сохраняющая их все в историю. Это распределнная система, поэтому изменения находятся и в общем хранилише, и на локальных устройствах.&lt;/p&gt;
+&lt;p&gt;Эта система появилась в 2005 году, автор - Линус Торвальдс.&lt;/p&gt;
+&lt;p&gt;С его помощью намного удобнее работать над одним проектом нескольким людям, так как легко контролировать все измения.&lt;/p&gt;
+&lt;p&gt;Итак, запишем основные плюсы данной системы&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Совместная работа&lt;/li&gt;
+&lt;li&gt;Отслеживание изменений&lt;/li&gt;
+&lt;li&gt;Резервное копирование&lt;/li&gt;
+&lt;li&gt;Хорошая совместимость с другими инструментами разработки&lt;/li&gt;
+&lt;li&gt;Удобный доступ к коду&lt;/li&gt;
+&lt;li&gt;Удобная работка с ветками&lt;/li&gt;
+&lt;li&gt;Безопасность&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Для работы с git необходимо знать базовые команды и установить его. После обычно надо пройти базовую аутентфикацию и уже продолжать работу.&lt;/p&gt;
+&lt;p&gt;Кроме того, говоря о git, стоит упомянуть и github.
+Это специально разработанный web-сервис, предназначенный для размещения репозиториев(проектов). С его помощью можно иметь доступ ко всем проектам независимо от того, где ты находишься.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week </title>
+      <link>https://example.com/post/my-week/</link>
+      <pubDate>Sun, 03 Mar 2024 11:58:04 +0300</pubDate>
+      <guid>https://example.com/post/my-week/</guid>
+      <description>&lt;p&gt;Прошедшая неделя была безумно насыщенной и разносторонней, причем как в плане учебы, так и в плане развлечений.&lt;/p&gt;
+&lt;p&gt;Если говорить про учебу, то я выполнила, точнее даже сказать доделала 4 лабораторных работы по дисциплинне Операционные системы, сдала и успешно защитила программу по Компьютерному практикуму, активно поработала на различных семинарах. Кроме того, у нас были интересные обсуждения по истории и много различных заданиц на английском и испанском языках. В общем очень продуктивно!&lt;/p&gt;
+&lt;p&gt;Помимо всего прочего, я записалась в школу вожатых. Не знаю правда насколько я смогу довести это до конца, но знания лишними все равно не будут.&lt;/p&gt;
+&lt;p&gt;Еще я успела встретиться с подругой и насладиться последними зимними днями на катке, поздравить маму с днем рождения, испечь ей восхитительные трубочки со сгущенкой и конечно же встретить весну прекрасными  букетами цветов.&lt;/p&gt;
+&lt;p&gt;Напоследок хочется сказать, что несмотря на всю мою продуктивность остается очень много дел и вдобавок я приболела, но мы не отчаиваемся и идем отдыхать и работать дальше!&lt;/p&gt;
+&lt;p&gt;Увидимся через неделю, с вами были Жибицкая&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Blog with Jupyter Notebooks!</title>
@@ -243,7 +283,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-584962137&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-862795143&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -253,7 +293,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-584962137&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-862795143&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
