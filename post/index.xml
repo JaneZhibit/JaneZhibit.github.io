@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Academic</title>
-    <link>https://example.com/post/</link>
-      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/post/</link>
+      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Mar 2024 22:01:36 +0300</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>https://example.com/post/</link>
+      <link>http://localhost:1313/post/</link>
     </image>
     
     <item>
       <title>Markdown</title>
-      <link>https://example.com/post/markdown/</link>
+      <link>http://localhost:1313/post/markdown/</link>
       <pubDate>Sat, 09 Mar 2024 22:01:36 +0300</pubDate>
-      <guid>https://example.com/post/markdown/</guid>
+      <guid>http://localhost:1313/post/markdown/</guid>
       <description>&lt;p&gt;Markdown - один из самых известных языков разметки, относится к группе облегченных языков, то есть он просто в восприятии и освоении, содержит в себе минимальный набор функций. Также этот язык совместим с огромным количеством редакторов.&lt;/p&gt;
-&lt;p&gt;Был разработан в 2004году Джоном Грубером.&lt;/p&gt;
+&lt;p&gt;Был разработан в 2004 году Джоном Грубером.&lt;/p&gt;
 &lt;p&gt;Итак, перечислим основные преимущества данного языка:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Универсальность
@@ -61,13 +61,14 @@
 ![название](путь к изображению){#сноска ширина}, сноска оформляется так: (рис. [-@сноска]).&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Кроме того, чтобы оформить код можно использовать(игнорировать )&lt;/p&gt;
+&lt;p&gt;Кроме того, чтобы оформить код можно использовать&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;`код` для строки кода&lt;/li&gt;
-&lt;li&gt;```код``` для блока кода&lt;/li&gt;
-&lt;li&gt;```название языка - для подсветки кода&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;код&lt;/code&gt; для строки кода&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;код&lt;/code&gt; для блока кода&lt;/li&gt;
+&lt;li&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;7&#34;&gt;
 &lt;li&gt;
@@ -83,10 +84,10 @@
     </item>
     
     <item>
-      <title>My 2nd week</title>
-      <link>https://example.com/post/my-2-week/</link>
+      <title>My 2 Week</title>
+      <link>http://localhost:1313/post/my-2-week/</link>
       <pubDate>Sat, 09 Mar 2024 22:01:07 +0300</pubDate>
-      <guid>https://example.com/post/my-2-week/</guid>
+      <guid>http://localhost:1313/post/my-2-week/</guid>
       <description>&lt;p&gt;Всем снова здравствуйте! Прошла ровно неделя и, за это время много чего приятного успело произойти, так что давайте входить в курс дела.&lt;/p&gt;
 &lt;p&gt;Итак, обо всем по порядку.&lt;/p&gt;
 &lt;p&gt;Начало недели было спокойным, я усиленно пыталась поправиться и старалась максимально восстановиться, так как конец обещал быть насыщенным.
@@ -100,9 +101,9 @@
     
     <item>
       <title>Git</title>
-      <link>https://example.com/post/git/</link>
+      <link>http://localhost:1313/post/git/</link>
       <pubDate>Sun, 03 Mar 2024 12:00:25 +0300</pubDate>
-      <guid>https://example.com/post/git/</guid>
+      <guid>http://localhost:1313/post/git/</guid>
       <description>&lt;p&gt;Систем контроля версий существует много, они все имеют свои особенности, но в этой статье мы рассмотрим именно Git.&lt;/p&gt;
 &lt;p&gt;Эта система появилась в 2005 году, автор - Линус Торвальдс.&lt;/p&gt;
 &lt;p&gt;Git - бесплатная система контроля версий, отслеживающая все изменения, вносимые в файлы и сохраняющая их все в историю. Это распределнная система, поэтому изменения находятся и в общем хранилише, и на локальных устройствах.&lt;/p&gt;
@@ -127,9 +128,9 @@
     
     <item>
       <title>My Week </title>
-      <link>https://example.com/post/my-week/</link>
+      <link>http://localhost:1313/post/my-week/</link>
       <pubDate>Sun, 03 Mar 2024 11:58:04 +0300</pubDate>
-      <guid>https://example.com/post/my-week/</guid>
+      <guid>http://localhost:1313/post/my-week/</guid>
       <description>&lt;p&gt;Прошедшая неделя была безумно насыщенной и разносторонней, причем как в плане учебы, так и в плане развлечений.&lt;/p&gt;
 &lt;p&gt;Если говорить про учебу, то я выполнила, точнее даже сказать доделала 4 лабораторных работы по дисциплинне Операционные системы, сдала и успешно защитила программу по Компьютерному практикуму, активно поработала на различных семинарах. Кроме того, у нас были интересные обсуждения по истории и много различных заданиц на английском и испанском языках. В общем очень продуктивно!&lt;/p&gt;
 &lt;p&gt;Помимо всего прочего, я записалась в школу вожатых. Не знаю правда насколько я смогу довести это до конца, но знания лишними все равно не будут.&lt;/p&gt;
@@ -141,9 +142,9 @@
     
     <item>
       <title>Blog with Jupyter Notebooks!</title>
-      <link>https://example.com/post/blog-with-jupyter/</link>
+      <link>http://localhost:1313/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/blog-with-jupyter/</guid>
+      <guid>http://localhost:1313/post/blog-with-jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -168,7 +169,7 @@
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp 400w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;https://example.com/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
+               src=&#34;http://localhost:1313/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
                width=&#34;601&#34;
                height=&#34;203&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -188,9 +189,9 @@
     
     <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>https://example.com/post/getting-started/</link>
+      <link>http://localhost:1313/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/getting-started/</guid>
+      <guid>http://localhost:1313/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -268,9 +269,9 @@
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>https://example.com/post/writing-technical-content/</link>
+      <link>http://localhost:1313/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/writing-technical-content/</guid>
+      <guid>http://localhost:1313/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -370,7 +371,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-169823475&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-835971426&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -380,7 +381,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-169823475&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-835971426&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
