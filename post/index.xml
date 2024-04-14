@@ -2,21 +2,126 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts | Academic</title>
-    <link>http://localhost:1313/post/</link>
-      <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/post/</link>
+      <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Mar 2024 22:01:36 +0300</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 14 Apr 2024 19:34:44 +0300</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
-      <link>http://localhost:1313/post/</link>
+      <link>https://example.com/post/</link>
     </image>
     
     <item>
+      <title>Презентация в Markdown</title>
+      <link>https://example.com/post/%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F-%D0%B2-markdown/</link>
+      <pubDate>Sun, 14 Apr 2024 19:34:44 +0300</pubDate>
+      <guid>https://example.com/post/%D0%BF%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%82%D0%B0%D1%86%D0%B8%D1%8F-%D0%B2-markdown/</guid>
+      <description>&lt;p&gt;В предыдущем посте было произведено знакомство с языком разметки Markdown. Там можно было узнать про его создание, синтаксис, особенности работы с ним и многое другое.&lt;/p&gt;
+&lt;p&gt;Этот пост является продолжением и посвящется более продвинутому использованию - созданию презентаций.&lt;/p&gt;
+&lt;p&gt;Базовые принципы:&lt;/p&gt;
+&lt;p&gt;Файл с презентацией должен иметь имя presentation.md и в первой строке указываем настройки презентации&lt;/p&gt;
+&lt;!-- center ... theme:white --&gt;
+&lt;p&gt;center - вертикальное центрирование содержимого слайдов;
+number - выводить номер слайда;
+code   - вставлять коды программ
+math   - вставлять математические формулы;
+plot   - вставлять графики функций;
+uml    - вставлять UML-диаграммы, интерфейсы пользователя и графы;
+speadsheet -  вставлять вычисляемые таблицы;
+board -  чертить &amp;ldquo;маркером&amp;rdquo; на слайде и рисовать мышкой на чёрной доске;
+audio - для каждого слайда в папке audio может быть указан звук;
+autoplay:10 - автоматический показ слайдов с указанной задержкой или по продолжительности звука;
+recorder -  записать звук во время лекции и скачать его по окончании;
+theme:white - начальная цветовая тема, можно сменить на другую при показе презентации, вместо white можно указать black, moon, sky и т.д.;
+960x700 - разрешение для презентации (по умолчанию 1600x900).
+Кодировка файла должна быть UTF-8 и для ввода необходим соответствующий редактор (редактор Far Manager, Notepad++).&lt;/p&gt;
+&lt;p&gt;Также, если необходимо преобразование презентации в другие форматы, то необходимо добавить соответсвующий код:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Использование LaTeX&lt;/li&gt;
+&lt;li&gt;Пакет для презентации: &lt;a href=&#34;https://ctan.org/pkg/beamer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;beamer&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Тема оформления: &lt;code&gt;metropolis&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;slide_level&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;m&#34;&gt;2&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;aspectratio&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;m&#34;&gt;169&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;section-titles&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;kc&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;theme&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;metropolis&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Кроме того, наверняка потребуется загрузить и указать в начале необходимые для работы шрифты. Я, например,рекомендую эти:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;mainfont: PT Serif&lt;/li&gt;
+&lt;li&gt;romanfont: PT Serif&lt;/li&gt;
+&lt;li&gt;sansfont: PT Sans&lt;/li&gt;
+&lt;li&gt;monofont: PT Mono&lt;/li&gt;
+&lt;li&gt;mainfontoptions: Ligatures=TeX&lt;/li&gt;
+&lt;li&gt;romanfontoptions: Ligatures=TeX&lt;/li&gt;
+&lt;li&gt;sansfontoptions: Ligatures=TeX,Scale=MatchLowercase
+monofontoptions: Scale=MatchLowercase,Scale=0.9&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Эти пункты необходимо добавить в первый отдел, где указываются все настройки.&lt;/p&gt;
+&lt;p&gt;Разделы в презентации вводятся с помощью &amp;mdash; на отдельной строке. Переход между разделами - стрелки влево-вправо.&lt;/p&gt;
+&lt;p&gt;Разделение на слайды внутри раздела - с помощью &amp;ndash;. Переход между разделами - стрелки вверх-вниз.&lt;/p&gt;
+&lt;p&gt;Последовательное листание всех слайдов - пробел.&lt;/p&gt;
+&lt;p&gt;Для заголовков слайдов используются хештеги(#). Количество - уровень заголовка по убыванию размера.&lt;/p&gt;
+&lt;p&gt;Синтаксис для форматирования текста сохраняется.
+Текст на слайдах можно разделять на несколько столбцов, выранивать по разным краям и не только.&lt;/p&gt;
+&lt;p&gt;Пример оформления слайда&lt;/p&gt;
+&lt;p&gt;:::::::::::::: {.columns align=center}
+::: {.column width=&amp;ldquo;70%&amp;rdquo;}&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Жибицкая Е.Д.&lt;/li&gt;
+&lt;li&gt;студент&lt;/li&gt;
+&lt;li&gt;Российский университет дружбы народов&lt;/li&gt;
+&lt;li&gt;&amp;lt;ссылка&amp;gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;:::
+::: {.column width=&amp;ldquo;30%&amp;rdquo;}&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  &gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;.%d0%b8%d0%b7%d0%be%d0%b1%d1%80%d0%b0%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5&#34; alt=&#34;&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;:::
+::::::::::::::&lt;/p&gt;
+&lt;p&gt;Итак, здесь была представлена краткая информация о том, что необходимо указать в файле, для создания презентации на языке разметки Markdown.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My-3-week</title>
+      <link>https://example.com/post/my-3-week/</link>
+      <pubDate>Sun, 14 Apr 2024 19:34:34 +0300</pubDate>
+      <guid>https://example.com/post/my-3-week/</guid>
+      <description>&lt;p&gt;Всем снова здравствуйте! Прошло достаточно много времени, но я вернулась с еще одним постом про мою жизнь.&lt;/p&gt;
+&lt;p&gt;Во-первых, как бы смешно это ни звучило, я в очередной раз потеряла голос. Видимо вселенная говорит, что лучше мне писать, а не говорить. Ну а я что, я смирюсь.&lt;/p&gt;
+&lt;p&gt;На самом деле произошло очень много всего. Из учебных достижений - я написала одну контрольную на максимальный балл, вторую просто хорошо, помогла своим одногруппникам, научилась рисовать фигуры в С++ и считать число пи до 100000 знаков. Еще я написала несколько докладов по истории, по английскому и пела песню на испанском.&lt;/p&gt;
+&lt;p&gt;Кроме этого, мы с сокурсниками прекрасно изучили часть центра Москвы, ходили на ВДНХ, гуляли по району, ели мороженное и усиленно радовались весне.&lt;/p&gt;
+&lt;p&gt;Со школой вожатых, к сожалению, у меня не сложилось из-за накладок в расписании, но я с радостью попробую еще раз в следующем году. Так же было бы здорово попасть на школу кураторов(мне кажется я была бы прекрасным наставником), но отбор там, конечно&amp;hellip;&lt;/p&gt;
+&lt;p&gt;На этом наверное все, пойду дальше не терять свой запас продуктивности и много много адоваться и работать.&lt;/p&gt;
+&lt;p&gt;С вами была Жибицкая Евгения, скоро увидимся&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Markdown</title>
-      <link>http://localhost:1313/post/markdown/</link>
+      <link>https://example.com/post/markdown/</link>
       <pubDate>Sat, 09 Mar 2024 22:01:36 +0300</pubDate>
-      <guid>http://localhost:1313/post/markdown/</guid>
+      <guid>https://example.com/post/markdown/</guid>
       <description>&lt;p&gt;Markdown - один из самых известных языков разметки, относится к группе облегченных языков, то есть он просто в восприятии и освоении, содержит в себе минимальный набор функций. Также этот язык совместим с огромным количеством редакторов.&lt;/p&gt;
 &lt;p&gt;Был разработан в 2004 году Джоном Грубером.&lt;/p&gt;
 &lt;p&gt;Итак, перечислим основные преимущества данного языка:&lt;/p&gt;
@@ -85,9 +190,9 @@
     
     <item>
       <title>My 2 Week</title>
-      <link>http://localhost:1313/post/my-2-week/</link>
+      <link>https://example.com/post/my-2-week/</link>
       <pubDate>Sat, 09 Mar 2024 22:01:07 +0300</pubDate>
-      <guid>http://localhost:1313/post/my-2-week/</guid>
+      <guid>https://example.com/post/my-2-week/</guid>
       <description>&lt;p&gt;Всем снова здравствуйте! Прошла ровно неделя и, за это время много чего приятного успело произойти, так что давайте входить в курс дела.&lt;/p&gt;
 &lt;p&gt;Итак, обо всем по порядку.&lt;/p&gt;
 &lt;p&gt;Начало недели было спокойным, я усиленно пыталась поправиться и старалась максимально восстановиться, так как конец обещал быть насыщенным.
@@ -101,9 +206,9 @@
     
     <item>
       <title>Git</title>
-      <link>http://localhost:1313/post/git/</link>
+      <link>https://example.com/post/git/</link>
       <pubDate>Sun, 03 Mar 2024 12:00:25 +0300</pubDate>
-      <guid>http://localhost:1313/post/git/</guid>
+      <guid>https://example.com/post/git/</guid>
       <description>&lt;p&gt;Систем контроля версий существует много, они все имеют свои особенности, но в этой статье мы рассмотрим именно Git.&lt;/p&gt;
 &lt;p&gt;Эта система появилась в 2005 году, автор - Линус Торвальдс.&lt;/p&gt;
 &lt;p&gt;Git - бесплатная система контроля версий, отслеживающая все изменения, вносимые в файлы и сохраняющая их все в историю. Это распределнная система, поэтому изменения находятся и в общем хранилише, и на локальных устройствах.&lt;/p&gt;
@@ -128,9 +233,9 @@
     
     <item>
       <title>My Week </title>
-      <link>http://localhost:1313/post/my-week/</link>
+      <link>https://example.com/post/my-week/</link>
       <pubDate>Sun, 03 Mar 2024 11:58:04 +0300</pubDate>
-      <guid>http://localhost:1313/post/my-week/</guid>
+      <guid>https://example.com/post/my-week/</guid>
       <description>&lt;p&gt;Прошедшая неделя была безумно насыщенной и разносторонней, причем как в плане учебы, так и в плане развлечений.&lt;/p&gt;
 &lt;p&gt;Если говорить про учебу, то я выполнила, точнее даже сказать доделала 4 лабораторных работы по дисциплинне Операционные системы, сдала и успешно защитила программу по Компьютерному практикуму, активно поработала на различных семинарах. Кроме того, у нас были интересные обсуждения по истории и много различных заданиц на английском и испанском языках. В общем очень продуктивно!&lt;/p&gt;
 &lt;p&gt;Помимо всего прочего, я записалась в школу вожатых. Не знаю правда насколько я смогу довести это до конца, но знания лишними все равно не будут.&lt;/p&gt;
@@ -142,9 +247,9 @@
     
     <item>
       <title>Blog with Jupyter Notebooks!</title>
-      <link>http://localhost:1313/post/blog-with-jupyter/</link>
+      <link>https://example.com/post/blog-with-jupyter/</link>
       <pubDate>Sat, 04 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/blog-with-jupyter/</guid>
+      <guid>https://example.com/post/blog-with-jupyter/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;from&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;IPython.core.display&lt;/span&gt; &lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;Image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;
@@ -169,7 +274,7 @@
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp 400w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_6b76da17c04a40aee4c1c633206f8065.webp 760w,
                /post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
-               src=&#34;http://localhost:1313/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
+               src=&#34;https://example.com/post/blog-with-jupyter/output_1_0_hu1e42f419f47ffd4b1ca9ef8f6670390a_11155_5a714abab5f53c70f7c38e19755638d3.webp&#34;
                width=&#34;601&#34;
                height=&#34;203&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -189,9 +294,9 @@
     
     <item>
       <title>Welcome to Hugo Blox Builder, the website builder for Hugo</title>
-      <link>http://localhost:1313/post/getting-started/</link>
+      <link>https://example.com/post/getting-started/</link>
       <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/getting-started/</guid>
+      <guid>https://example.com/post/getting-started/</guid>
       <description>&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kn&#34;&gt;import&lt;/span&gt; &lt;span class=&#34;nn&#34;&gt;libr&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s1&#34;&gt;&amp;#39;hello&amp;#39;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
@@ -269,9 +374,9 @@
     
     <item>
       <title>Writing technical content in Markdown</title>
-      <link>http://localhost:1313/post/writing-technical-content/</link>
+      <link>https://example.com/post/writing-technical-content/</link>
       <pubDate>Fri, 12 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/post/writing-technical-content/</guid>
+      <guid>https://example.com/post/writing-technical-content/</guid>
       <description>&lt;p&gt;Hugo Blox Builder is designed to give technical content creators a seamless experience. You can focus on the content and Wowchemy handles the rest.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Highlight your code snippets, take notes on math classes, and draw diagrams from textual representation.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;On this page, you&amp;rsquo;ll find some examples of the types of technical content that can be rendered with Wowchemy.&lt;/p&gt;
@@ -371,7 +476,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-734286951&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-963452781&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -381,7 +486,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-734286951&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-963452781&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
