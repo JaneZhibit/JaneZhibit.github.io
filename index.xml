@@ -37,60 +37,50 @@
       <link>https://example.com/post/topologies/</link>
       <pubDate>Fri, 24 May 2024 14:00:42 +0300</pubDate>
       <guid>https://example.com/post/topologies/</guid>
-      <description>&lt;p&gt;Сетевые топологии -  это размещение компьютеров и других устройств в сетях связи&lt;/p&gt;
-&lt;p&gt;С помощью топологии можно определить, как строится сеть, как взаимодействуют устройства и передаются данные. Правильно выбранная и построенная топология позволяет эффективно организовать работу сети и повысить ее надежность.&lt;/p&gt;
-&lt;p&gt;Тополгию также разделяют на физическую(расположение компьютеров в пространстве) и логическую(то, как между собой передаются данные)&lt;/p&gt;
+      <description>&lt;p&gt;Network topologies are the placement of computers and other devices in communication networks&lt;/p&gt;
+&lt;p&gt;Using topology, you can determine how a network is built, how devices interact and data is transferred. A correctly selected and constructed topology allows you to effectively organize the operation of the network and increase its reliability.&lt;/p&gt;
+&lt;p&gt;Topology is also divided into physical (the location of computers in space) and logical (how data is transferred between each other)&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;К физичеческой оранизации, например, относят сети,организованные в форме звезды, кольца, шины или  древовидной структуры.&lt;/li&gt;
-&lt;li&gt;К логической - формы клиента-сервера или пиринговые сети, где все устройства имеют равные возможности общения.&lt;/li&gt;
+&lt;li&gt;Physical organization, for example, includes networks organized in the form of a star, ring, bus or tree structure.&lt;/li&gt;
+&lt;li&gt;Logical - forms of client-server or peer-to-peer networks, where all devices have equal communication capabilities.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Важно отметить, что  сетевая топология может быть комбинацией различных физических и логических топологий&lt;/p&gt;
-&lt;p&gt;Основные понятия, относящиеся к данной теме&lt;/p&gt;
+&lt;p&gt;It is important to note that a network topology can be a combination of different physical and logical topologies&lt;/p&gt;
+&lt;p&gt;Basic concepts related to this topic&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Узел (Node):&lt;/li&gt;
+&lt;li&gt;Node:&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Узел представляет собой конкретное устройство или компьютер, подключенное к сети. Это может быть как сервер, так и клиентский компьютер, принтер или маршрутизатор.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;
-&lt;p&gt;ветвь сети - путь, соединяющий два смежных узла;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;оконечный узел - узел, расположенный в конце только одной ветви;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;промежуточный узел - узел, расположенный на концах более чем одной ветви;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;смежные узлы - узлы, соединенные, по крайней мере, одним путём, не содержащим никаких других узлов.&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;Соединение (Link):&lt;/p&gt;
-&lt;/li&gt;
+&lt;p&gt;A node is a specific device or computer connected to a network. This can be either a server or a client computer, printer or router.
+1. network branch - a path connecting two adjacent nodes;
+2. terminal node - a node located at the end of only one branch;
+3. intermediate node - a node located at the ends of more than one branch;
+4. adjacent nodes - nodes connected by at least one path that does not contain any other nodes.&lt;/p&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Connection (Link):&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Соединение представляет собой физическое соединение между узлами в сети. Это может быть проводное или беспроводное соединение.&lt;/p&gt;
+&lt;p&gt;A connection is a physical connection between nodes in a network. This can be a wired or wireless connection.&lt;/p&gt;
 &lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;Сетевое устройство (Network Device):&lt;/li&gt;
+&lt;li&gt;Network Device:&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Сетевое устройство — это оборудование, которое обеспечивает связь и передачу данных между узлами в сети. Примеры таких устройств: коммутатор (switch), маршрутизатор (router), мост (bridge), хаб (hub) и другие.&lt;/p&gt;
+&lt;p&gt;A network device is equipment that enables communication and data transfer between nodes on a network. Examples of such devices: switch, router, bridge, hub and others.&lt;/p&gt;
 &lt;ol start=&#34;4&#34;&gt;
-&lt;li&gt;Топология (Topology):&lt;/li&gt;
+&lt;li&gt;Topology:&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Топология определяет физическую структуру и связи между узлами в сети. Существуют разные виды топологий, такие как звезда, кольцо, шина, дерево и смешанная топология.&lt;/p&gt;
+&lt;p&gt;Topology defines the physical structure and connections between nodes in a network. There are different types of topologies such as star, ring, bus, tree and mixed topology.&lt;/p&gt;
 &lt;ol start=&#34;5&#34;&gt;
-&lt;li&gt;Передача данных:&lt;/li&gt;
+&lt;li&gt;Data transfer:&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Передача данных — это процесс обмена информацией между узлами в сети. Она может осуществляться по различным протоколам, таким как TCP/IP, Ethernet и другим.&lt;/p&gt;
+&lt;p&gt;Data transmission is the process of exchanging information between nodes in a network. It can be carried out using various protocols, such as TCP/IP, Ethernet and others.&lt;/p&gt;
 &lt;ol start=&#34;6&#34;&gt;
-&lt;li&gt;Сетевые адреса (IP-адреса):&lt;/li&gt;
+&lt;li&gt;Network addresses (IP addresses):&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Сетевые адреса используются для идентификации узлов в сети. Они позволяют адресовать и направлять данные между узлами. В Интернете распространены IP-адреса версии 4 (IPv4) и IP-адреса версии 6 (IPv6).
-Источник: &lt;a href=&#34;https://uchet-jkh.ru/i/setevaya-topologiya-opredelenie-i-struktura&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://uchet-jkh.ru/i/setevaya-topologiya-opredelenie-i-struktura&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Виды сетевых топологий:&lt;/p&gt;
+&lt;p&gt;Network addresses are used to identify nodes on a network. They allow you to address and route data between nodes. IP version 4 (IPv4) and IP version 6 (IPv6) addresses are common on the Internet.
+Source: &lt;a href=&#34;https://uchet-jkh.ru/i/setevaya-topologiya-opredelenie-i-struktura&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://uchet-jkh.ru/i/setevaya-topologiya-opredelenie-i-struktura&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Types of network topologies:&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Общая Шина&lt;/li&gt;
+&lt;li&gt;General Bus&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;В этом случае подключение и обмен данными производится через общий канал связи, называемый общей шиной(рис. [-@fig:001]).&lt;/li&gt;
+&lt;li&gt;In this case, the connection and data exchange is carried out through a common communication channel, called a common bus (Fig. [-@fig:001]).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
 
@@ -110,7 +100,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Шина&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Tire&#34; srcset=&#34;
                /post/topologies/image/1_hu85e70a2d01964a5fda10312cc077fd6d_2353_82ad1e2cced02e41cc6fb29c533b6c9b.webp 400w,
                /post/topologies/image/1_hu85e70a2d01964a5fda10312cc077fd6d_2353_9bef4aededee2316f5d444c5fe085903.webp 760w,
                /post/topologies/image/1_hu85e70a2d01964a5fda10312cc077fd6d_2353_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
@@ -120,14 +110,14 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 {#fig:001 width=70%}&lt;/p&gt;
-&lt;p&gt;Общая шина является очень распространенной топологией для локальных сетей. Передаваемая информация может распространяться в обе стороны. Применение общей шины снижает стоимость проводки и унифицирует подключение различных модулей.&lt;/p&gt;
-&lt;p&gt;Основными преимуществами такой схемы являются дешевизна и простота разводки кабеля по помещениям.&lt;/p&gt;
-&lt;p&gt;Самый серьезный недостаток общей шины заключается в ее низкой надежности: любой дефект кабеля или какого-нибудь из многочисленных разъемов полностью парализует всю сеть. Другим недостатком общей шины является ее невысокая производительность, так как при таком способе подключения в каждый момент времени только один компьютер может передавать данные в сеть. Поэтому пропускная способность канала связи всегда делится здесь между всеми узлами сети.&lt;/p&gt;
+&lt;p&gt;The public bus is a very common topology for local area networks. The transmitted information can be distributed in both directions. The use of a common bus reduces wiring costs and unifies the connection of various modules.&lt;/p&gt;
+&lt;p&gt;The main advantages of this scheme are the low cost and ease of cable distribution throughout the premises.&lt;/p&gt;
+&lt;p&gt;The most serious disadvantage of the common bus is its low reliability: any defect in the cable or any of the numerous connectors completely paralyzes the entire network. Another disadvantage of the shared bus is its low performance, since with this connection method only one computer at a time can transmit data to the network. Therefore, the communication channel bandwidth is always divided here between all network nodes.&lt;/p&gt;
 &lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Звезда&lt;/li&gt;
+&lt;li&gt;Star&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;В этом случае каждый компьютер подключается отдельным кабелем к общему устройству, называемому концентратором, который находится в центре сети(рис. [-@fig:002]).&lt;/li&gt;
+&lt;li&gt;In this case, each computer is connected by a separate cable to a common device called a hub, which is located in the center of the network (Fig. [-@fig:002]).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
 
@@ -147,7 +137,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Звезда&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Star&#34; srcset=&#34;
                /post/topologies/image/2_huea546b7a913d099464c5ef5aeae76955_1174_31fe3d8a3c10f945eb12a3a55bb89489.webp 400w,
                /post/topologies/image/2_huea546b7a913d099464c5ef5aeae76955_1174_34851f65e35881f210823c1eef90b178.webp 760w,
                /post/topologies/image/2_huea546b7a913d099464c5ef5aeae76955_1174_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
@@ -157,14 +147,14 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 {#fig:002 width=70%}&lt;/p&gt;
-&lt;p&gt;В функции концентратора входит направление передаваемой компьютером информации одному или всем остальным компьютерам сети.&lt;/p&gt;
-&lt;p&gt;Главное преимущество этой топологии перед общей шиной - существенно большая надежность. Любые неприятности с кабелем касаются лишь того компьютера, к которому этот кабель присоединен, и только неисправность концентратора может вывести из строя всю сеть. Кроме того, концентратор может играть роль интеллектуального фильтра информации, поступающей от узлов в сеть, и при необходимости блокировать запрещенные администратором передачи.&lt;/p&gt;
-&lt;p&gt;К недостаткам топологии типа звезда относится более высокая стоимость сетевого оборудования из-за необходимости приобретения концентратора. Кроме того, возможности по наращиванию количества узлов в сети ограничиваются количеством портов концентратора. В настоящее время иерархическая звезда является самым распространенным типом топологии связей как в локальных, так и глобальных сетях.&lt;/p&gt;
+&lt;p&gt;The function of a hub is to direct information transmitted by a computer to one or all other computers on the network.&lt;/p&gt;
+&lt;p&gt;The main advantage of this topology over a common bus is significantly greater reliability. Any problems with the cable affect only the computer to which this cable is connected, and only a malfunction of the hub can bring down the entire network. In addition, the hub can play the role of an intelligent filter of information coming from nodes on the network and, if necessary, block transmissions prohibited by the administrator.&lt;/p&gt;
+&lt;p&gt;The disadvantages of a star topology include the higher cost of network equipment due to the need to purchase a hub. In addition, the ability to increase the number of nodes in the network is limited by the number of hub ports. Currently, a hierarchical star is the most common type of connection topology in both local and global networks.&lt;/p&gt;
 &lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;Кольцо&lt;/li&gt;
+&lt;li&gt;Ring&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;В сетях с кольцевой топологией данные в сети передаются последовательно от одной станции к другой по кольцу, как правило, в одном направлении(рис. [-@fig:003]).&lt;/li&gt;
+&lt;li&gt;In networks with a ring topology, data in the network is transmitted sequentially from one station to another along the ring, usually in one direction (Fig. [-@fig:003]).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
 
@@ -184,7 +174,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Кольцо&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Ring&#34; srcset=&#34;
                /post/topologies/image/3_hud05615103342958926d96ff366e6d576_3694_4569ace58db3843388d3b877fafbab84.webp 400w,
                /post/topologies/image/3_hud05615103342958926d96ff366e6d576_3694_f70400b2e7cf9bbd3b7ebdf03843b57f.webp 760w,
                /post/topologies/image/3_hud05615103342958926d96ff366e6d576_3694_1200x1200_fit_q75_h2_lanczos_3.webp 1200w&#34;
@@ -194,12 +184,12 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 {#fig:003 width=70%}&lt;/p&gt;
-&lt;p&gt;Если компьютер распознает данные как предназначенные ему, то он копирует их себе во внутренний буфер. В сети с кольцевой топологией необходимо принимать специальные меры, чтобы в случае выхода из строя или отключения какой-либо станции не прервался канал связи между остальными станциями. Преимущество данной топологии - простота управления, недостаток - возможность отказа всей сети при сбое в канале между двумя узлами.&lt;/p&gt;
+&lt;p&gt;If the computer recognizes the data as intended for it, then it copies it to its internal buffer. In a network with a ring topology, it is necessary to take special measures so that in the event of an outage Troubleshooting or shutdown of any station did not interrupt the communication channel between other stations. The advantage of this topology is ease of management, the disadvantage is the possibility of failure of the entire network if there is a failure in the channel between two nodes.&lt;/p&gt;
 &lt;ol start=&#34;4&#34;&gt;
-&lt;li&gt;Ячеистая топология(или же частичная сетка, где каждый узел соединен с каждым)&lt;/li&gt;
+&lt;li&gt;Mesh topology (or partial mesh, where each node is connected to each other)&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;Для ячеистой топологии характерна схема соединения компьютеров, при которой физические линии связи установлены со всеми рядом стоящими компьютерами(рис. [-@fig:004]).&lt;/li&gt;
+&lt;li&gt;The mesh topology is characterized by a computer connection scheme in which physical communication lines are established with all adjacent computers (Fig. [-@fig:004]).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
 
@@ -219,7 +209,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Ячеистая топология&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Mesh topology&#34; srcset=&#34;
                /post/topologies/image/4_hu2e60b62a4a5899901e7d6f958f774a2a_24643_c4cd7da3e3852249494cea90c82cf8ed.webp 400w,
                /post/topologies/image/4_hu2e60b62a4a5899901e7d6f958f774a2a_24643_c655483d5e89f20788da25ea2be8fa5f.webp 760w,
                /post/topologies/image/4_hu2e60b62a4a5899901e7d6f958f774a2a_24643_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
@@ -229,13 +219,13 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 {#fig:004 width=70%}&lt;/p&gt;
-&lt;p&gt;В сети с ячеистой топологией непосредственно связываются только те компьютеры, между которыми происходит интенсивный обмен данными, а для обмена данными между компьютерами, не соединенными прямыми связями, используются транзитные передачи через промежуточные узлы. Ячеистая топология допускает соединение большого количества компьютеров и характерна, как правило, для глобальных сетей.&lt;/p&gt;
-&lt;p&gt;Достоинства данной топологии в ее устойчивости к отказам и перегрузкам, т.к. имеется несколько способов обойти отдельные узлы.&lt;/p&gt;
+&lt;p&gt;In a network with a mesh topology, only those computers between which intensive data exchange occurs are directly connected, and for data exchange between computers that are not directly connected, transit transmissions through intermediate nodes are used. The mesh topology allows the connection of a large number of computers and is typically characteristic of global networks.&lt;/p&gt;
+&lt;p&gt;The advantages of this topology are its resistance to failures and overloads, because There are several ways to bypass individual nodes.&lt;/p&gt;
 &lt;ol start=&#34;5&#34;&gt;
-&lt;li&gt;Смешанная топология&lt;/li&gt;
+&lt;li&gt;Mixed topology&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;В то время как небольшие сети, как правило, имеют типовую топологию, для крупных сетей характерно наличие произвольных связей между компьютерами. В таких сетях можно произвольно выделить отдельные подсети, имеющие типовую топологию, поэтому их называют сетями со смешанной топологией(рис. [-@fig:004]).&lt;/li&gt;
+&lt;li&gt;While small networks, as a rule, have a standard topology, large networks are characterized by the presence of arbitrary connections between computers. In such networks, individual subnetworks with a typical topology can be arbitrarily distinguished, which is why they are called networks with mixed topology (Fig. [-@fig:004]).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;
 
@@ -255,13 +245,13 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Смешанная топология&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Mixed topology&#34;
            src=&#34;https://example.com/post/topologies/image/5.gif&#34;
            loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 {#fig:005 width=70%}&lt;/p&gt;
-&lt;p&gt;Кроме того, существует и несколько других топологий сети, например - дерево.
-Такой тип топологии чаще всего используют при монтаже локальных сетей с небольшим количеством приборов, в основном при создании корпоративных коммутаторов. Совмещает довольно низкую стоимость и очень хорошее быстродействие. Особенно при комбинировании различных линий передач — сочетании медных и волоконных кабельных систем, и применении управляемых коммутаторов.&lt;/p&gt;
+&lt;p&gt;In addition, there are several other network topologies, for example, a tree.
+This type of topology is most often used when installing local networks with a small number of devices, mainly when creating corporate switches. Combines fairly low cost and very good performance. Especially when combining different transmission lines - a combination of copper and fiber cabling systems, and the use of managed switches.&lt;/p&gt;
 </description>
     </item>
     
@@ -282,30 +272,30 @@
     </item>
     
     <item>
-      <title>Языки программирования</title>
+      <title>Programming languages</title>
       <link>https://example.com/post/prgramming/</link>
       <pubDate>Sat, 20 Apr 2024 15:29:41 +0300</pubDate>
       <guid>https://example.com/post/prgramming/</guid>
-      <description>&lt;p&gt;К настоящему времени появилось огромное количество различных языков программирования. Некотоые из них родственны друг другу, некоторые имеют принципиальные отличия, но  у всех у них есть свои недостатки, и что самое главное, преимущества.&lt;/p&gt;
-&lt;p&gt;Все, конечно же, знают о языках Python, C#, C++, Java и JavaScript. Это одни из самых часто узнаваемых языков, которыми сейчас владеют многие.&lt;/p&gt;
-&lt;p&gt;Кажется, что именно их должны использовать ученые в своих исследованиях, но оказывается это не совсем так.&lt;/p&gt;
-&lt;p&gt;Как правило, упомянутые языки пригождаются в мобильной разработке, в анализе даннных, работе с браузером и других коммерческих разработках, а вот ученым часто нужно что-то другое.&lt;/p&gt;
+      <description>&lt;p&gt;By now, a huge number of different programming languages have appeared. Some of them are related to each other, some have fundamental differences, but they all have their own disadvantages, and most importantly, advantages.&lt;/p&gt;
+&lt;p&gt;Everyone, of course, knows about the languages Python, C#, C++, Java and JavaScript. These are some of the most commonly recognized languages that many people now speak.&lt;/p&gt;
+&lt;p&gt;It seems that they are the ones that scientists should use in their research, but it turns out that this is not entirely true.&lt;/p&gt;
+&lt;p&gt;As a rule, the mentioned languages are useful in mobile development, data analysis, working with the browser and other commercial developments, but scientists often need something else.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Конечно, Python  значительно облегчает жизнь, ведь к нему не только  уже написано огромное количество библиотек, но и его синтаксис также достаточно прост и понятен. Он помогает физкам, химикам,  математикам, биологам,и  экономистам в решении самых разных задач.&lt;/p&gt;
+&lt;p&gt;Of course, Python makes life much easier, because not only has a huge number of libraries already been written for it, but its syntax is also quite simple and understandable. It helps physicists, chemists, mathematicians, biologists, and economists in solving a variety of problems.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Fortran - первый высокоуровневый язык, который используют люди разных профессий. Он хрошо отлажен для математических вычислений и решения уравнений, актуален во многом для экономики и биологии.&lt;/p&gt;
+&lt;p&gt;Fortran is the first high-level language used by people of different professions. It is well-debugged for mathematical calculations and solving equations, and is relevant in many respects to economics and biology.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Julia берет лучшее из таких языков, как Python, Ruby, Lisp и R, сочетает это со скоростью языка C и включает привычную математическую нотацию, как в Matlab.
-Это  достаточно хороший для общего программирования язык и в то же время удивительный для конкретных дисциплин информатики, таких как машинное обучение, добыча данных, распределенные и параллельные вычисления. Одно из главных преимуществ Julia – скорость, сопоставимая с такими языками, как C, Rust, Lua и Go. Это объясняется тем, что он компилируется по принципу Just-In-Time (JIT).&lt;/p&gt;
+&lt;p&gt;Julia takes the best of languages like Python, Ruby, Lisp and R, combines it with the speed of C, and includes familiar math notation like Matlab.
+It is a good enough language for general programming and at the same time amazing for specific computer science disciplines such as machine learning, data mining, distributed and parallel computing. One of the main advantages of Julia is its speed, comparable to languages such as C, Rust, Lua and Go. This is because it is compiled using the Just-In-Time (JIT) principle.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;MATLAB – это запатентованный язык программирования, используемый миллионами инженеров и ученых для математических и статистических вычислений.Ученые, занимающиеся изучением данных, в основном используют этот язык для анализа данных и машинного обучения. Самое приятное – это то, что у вас есть все в одном рабочем пространстве. Он используется в основном в академических кругах, но все же это отличный выбор для создания глубокого фундамента концепций науки о данных. Единственным недостатком MATLAB является то, что это платное программное обеспечение, поэтому вы будете использовать этот язык в основном, если вы учитесь в университете или уже используете его на своей работе. Ознакомьтесь с официальным списком ресурсов MathWorks, чтобы начать обучение уже сегодня.&lt;/p&gt;
+&lt;p&gt;MATLAB is a proprietary programming language used by millions of engineers and scientists for mathematical and statistical computing. Data scientists primarily use this language for data analysis and machine learning. The best part is that you have everything in one workspace. It is used primarily in academic circles, but is still a great choice for building a deep foundation of data science concepts. The only downside of MATLAB is that it is a paid software, so you will use this language mainly if you are studying at university or already using it at your job. Check out the official list of MathWorks resources to get started today.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Как можно заметить, множество языков имеет свои особенности и важно понимать конкретно стоящую задачу, чтобы выбрать нужный язык и выполнить работу максимально эффективно.&lt;/p&gt;
+&lt;p&gt;As you can see, many languages have their own characteristics and it is important to understand the specific task at hand in order to choose the right language and complete the job as efficiently as possible.&lt;/p&gt;
 </description>
     </item>
     
@@ -435,69 +425,69 @@ monofontoptions: Scale=MatchLowercase,Scale=0.9&lt;/li&gt;
       <link>https://example.com/post/markdown/</link>
       <pubDate>Sat, 09 Mar 2024 22:01:36 +0300</pubDate>
       <guid>https://example.com/post/markdown/</guid>
-      <description>&lt;p&gt;Markdown - один из самых известных языков разметки, относится к группе облегченных языков, то есть он просто в восприятии и освоении, содержит в себе минимальный набор функций. Также этот язык совместим с огромным количеством редакторов.&lt;/p&gt;
-&lt;p&gt;Был разработан в 2004 году Джоном Грубером.&lt;/p&gt;
-&lt;p&gt;Итак, перечислим основные преимущества данного языка:&lt;/p&gt;
+      <description>&lt;p&gt;Markdown is one of the most famous markup languages; it belongs to the group of lightweight languages, that is, it is easy to understand and master, and contains a minimal set of functions. This language is also compatible with a huge number of editors.&lt;/p&gt;
+&lt;p&gt;It was developed in 2004 by John Gruber.&lt;/p&gt;
+&lt;p&gt;So, we list the main advantages of this language:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;Универсальность
-Возможность открыть в любом редакторе.&lt;/li&gt;
-&lt;li&gt;Простота
-Понятность и возможность быстрого освоения.&lt;/li&gt;
-&lt;li&gt;Легкая конвертируемость
-Легкий экспорт в множество форматов&lt;/li&gt;
+&lt;li&gt;Versatility
+Ability to open in any editor.&lt;/li&gt;
+&lt;li&gt;Simplicity
+Easy to understand and easy to learn.&lt;/li&gt;
+&lt;li&gt;Easy convertibility
+Easy export to many formats&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Знакомясь с Markdown, обязательно надо посмотреть на его синтаксис, базовые правила работв с ним.&lt;/p&gt;
+&lt;p&gt;When getting acquainted with Markdown, you should definitely look at its syntax and the basic rules for working with it.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;
-&lt;p&gt;Для работы с заголовками понадобиться символ #. Уровень заголовков регулируется за счет количества #.
-Для создания параграфа достаточно просто оставить пустую строку.&lt;/p&gt;
+&lt;p&gt;To work with headers, you need the # symbol. The level of headings is adjusted by the number of #.
+To create a paragraph, simply leave a blank line.&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Текст также может принимать разный вид.&lt;/p&gt;
+&lt;p&gt;The text can also take different forms.&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;Для курсивного текста можно использовать * или _ с обеих сторон: &lt;em&gt;пример&lt;/em&gt;, &lt;em&gt;пример&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;Для жирного текста можно использовать ** или __ с обеих сторон: &lt;strong&gt;пример&lt;/strong&gt;, &lt;strong&gt;пример&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Использование ~~ сделает текст зачеркнутым: &lt;del&gt;пример&lt;/del&gt;&lt;/li&gt;
+&lt;li&gt;For italic text you can use * or _ on both sides: &lt;em&gt;example&lt;/em&gt;, &lt;em&gt;example&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;For bold text you can use ** or __ on both sides: &lt;strong&gt;example&lt;/strong&gt;, &lt;strong&gt;example&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Using ~~ will make the text strikethrough: &lt;del&gt;example&lt;/del&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;
-&lt;p&gt;Для работы со списками можно использовать или -, или цифры, для создания уровней - добавлять 4 пробела в начало&lt;/p&gt;
+&lt;p&gt;To work with lists, you can use either - or numbers, to create levels - add 4 spaces to the beginning&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Ссылки можно оформить 2 способами:&lt;/p&gt;
+&lt;p&gt;Links can be created in 2 ways:&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;[Название](Сама ссылка)&lt;/p&gt;
+&lt;p&gt;[Title](Link itself)&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;&amp;lt;Ссылка&amp;gt;&lt;/p&gt;
+&lt;Link&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Картинки оформляются следующим образом:
-![название](путь к изображению){#сноска ширина}, сноска оформляется так: (рис. [-@сноска]).&lt;/p&gt;
+&lt;p&gt;Pictures are formatted as follows:
+![title](path to image){#footnote width}, the footnote is formatted like this: (fig. [-@footnote]).&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Кроме того, чтобы оформить код можно использовать&lt;/p&gt;
+&lt;p&gt;In addition, to format the code you can use&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;code&gt;код&lt;/code&gt; для строки кода&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;код&lt;/code&gt; для блока кода&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;code&lt;/code&gt; for a line of code&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;code&lt;/code&gt; for a block of code&lt;/li&gt;
 &lt;li&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;7&#34;&gt;
 &lt;li&gt;
-&lt;p&gt;Цитаты и их градация осуществялется за счет  символа &amp;gt; и его количества перед текстом&lt;/p&gt;
+&lt;p&gt;Quotes and their gradation are carried out using the symbol &amp;gt; and its number before the text&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Также есть возможность оформлять таблицы( столбцы отделяютя | , шапка - строкой &amp;mdash;-), чекбоксы [x] / []&lt;/p&gt;
+&lt;p&gt;It is also possible to design tables (columns separated by |, header by line &amp;mdash;-), checkboxes [x] / []&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Важно отметить, что здесь описаны не все возможности языка, а также  не все редакторы поддерживают все эти возможности, что необходимо учитывать при работе с ним.&lt;/p&gt;
-&lt;p&gt;Итак, в данной статье было произведено знакомство с облегченным языком разметки Markdown, были описаны его преимущества и основной синтаксис.&lt;/p&gt;
+&lt;p&gt;It is important to note that not all features of the language are described here, and not all editors support all these features, which must be taken into account when working with it.&lt;/p&gt;
+&lt;p&gt;So, in this article, we learned a little about the lightweight markdown language Markdown, its advantages and basic syntax.&lt;/p&gt;
 </description>
     </item>
     
@@ -522,25 +512,25 @@ monofontoptions: Scale=MatchLowercase,Scale=0.9&lt;/li&gt;
       <link>https://example.com/post/git/</link>
       <pubDate>Sun, 03 Mar 2024 12:00:25 +0300</pubDate>
       <guid>https://example.com/post/git/</guid>
-      <description>&lt;p&gt;Систем контроля версий существует много, они все имеют свои особенности, но в этой статье мы рассмотрим именно Git.&lt;/p&gt;
-&lt;p&gt;Эта система появилась в 2005 году, автор - Линус Торвальдс.&lt;/p&gt;
-&lt;p&gt;Git - бесплатная система контроля версий, отслеживающая все изменения, вносимые в файлы и сохраняющая их все в историю. Это распределнная система, поэтому изменения находятся и в общем хранилише, и на локальных устройствах.&lt;/p&gt;
-&lt;p&gt;Эта система появилась в 2005 году, автор - Линус Торвальдс.&lt;/p&gt;
-&lt;p&gt;С его помощью намного удобнее работать над одним проектом нескольким людям, так как легко контролировать все измения.&lt;/p&gt;
-&lt;p&gt;Итак, запишем основные плюсы данной системы&lt;/p&gt;
+      <description>&lt;p&gt;There are many version control systems, they all have their own characteristics, but in this article we will look at Git.&lt;/p&gt;
+&lt;p&gt;This system appeared in 2005, author - Linus Torvalds.&lt;/p&gt;
+&lt;p&gt;Git is a free version control system that tracks all changes made to files and stores them all in history. This is a distributed system, so changes are located both in the shared storage and on local devices.&lt;/p&gt;
+&lt;p&gt;This system appeared in 2005, author - Linus Torvalds.&lt;/p&gt;
+&lt;p&gt;With its help, it is much more convenient for several people to work on one project, since it is easy to control all changes.&lt;/p&gt;
+&lt;p&gt;So, let&amp;rsquo;s write down the main advantages of this system&lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;Совместная работа&lt;/li&gt;
-&lt;li&gt;Отслеживание изменений&lt;/li&gt;
-&lt;li&gt;Резервное копирование&lt;/li&gt;
-&lt;li&gt;Хорошая совместимость с другими инструментами разработки&lt;/li&gt;
-&lt;li&gt;Удобный доступ к коду&lt;/li&gt;
-&lt;li&gt;Удобная работка с ветками&lt;/li&gt;
-&lt;li&gt;Безопасность&lt;/li&gt;
+&lt;li&gt;Collaboration&lt;/li&gt;
+&lt;li&gt;Track changes&lt;/li&gt;
+&lt;li&gt;Backup&lt;/li&gt;
+&lt;li&gt;Good compatibility with other development tools&lt;/li&gt;
+&lt;li&gt;Convenient access to code&lt;/li&gt;
+&lt;li&gt;Convenient work with branches&lt;/li&gt;
+&lt;li&gt;Security&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Для работы с git необходимо знать базовые команды и установить его. После обычно надо пройти базовую аутентфикацию и уже продолжать работу.&lt;/p&gt;
-&lt;p&gt;Кроме того, говоря о git, стоит упомянуть и github.
-Это специально разработанный web-сервис, предназначенный для размещения репозиториев(проектов). С его помощью можно иметь доступ ко всем проектам независимо от того, где ты находишься.&lt;/p&gt;
-&lt;p&gt;Это была базовая информация о распреденной системе контроля версий Git, где мы узнали что это такое, зачем она нужна, основные ее преимущества и не только.&lt;/p&gt;
+&lt;p&gt;To work with git, you need to know the basic commands and install it. After that, you usually need to go through basic authentication and continue working.&lt;/p&gt;
+&lt;p&gt;Also, when talking about git, it&amp;rsquo;s worth mentioning github.
+This is a specially developed web service designed for hosting repositories (projects). With it you can have access to all projects no matter where you are.&lt;/p&gt;
+&lt;p&gt;This was basic information about the distributed version control system Git, where we learned what it is, why it is needed, its main advantages and more.&lt;/p&gt;
 </description>
     </item>
     
@@ -662,7 +652,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-453218976&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-274895163&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -672,7 +662,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-453218976&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-274895163&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -935,55 +925,7 @@ Crash --&gt; [*]
       <link>https://example.com/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       <guid>https://example.com/slides/example/</guid>
-      <description>&lt;h1 id=&#34;этапы-реализации-проекта&#34;&gt;Этапы реализации проекта&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo-themes&lt;/a&gt; |
-&lt;a href=&#34;https://github.com/JaneZhibit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;размещение-на-github-pages-заготовки-для-персонального-сайта&#34;&gt;Размещение на Github pages заготовки для персонального сайта.&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Установить необходимое программное обеспечение.&lt;/li&gt;
-&lt;li&gt;Скачать шаблон темы сайта.&lt;/li&gt;
-&lt;li&gt;Разместить его на хостинге git.&lt;/li&gt;
-&lt;li&gt;Установить параметр для URLs сайта.&lt;/li&gt;
-&lt;li&gt;Разместить заготовку сайта на Github pages.&lt;/li&gt;
-&lt;li&gt;Добавить к сайту данные о себе.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;добавление-данных&#34;&gt;Добавление данных.&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Разместить фотографию владельца сайта.&lt;/li&gt;
-&lt;li&gt;Разместить краткое описание владельца сайта (Biography).&lt;/li&gt;
-&lt;li&gt;Добавить информацию об интересах (Interests).&lt;/li&gt;
-&lt;li&gt;Добавить информацию от образовании (Education).&lt;/li&gt;
-&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
-&lt;li&gt;Добавить пост на тему по выбору:&lt;/li&gt;
-&lt;li&gt;Управление версиями. Git.&lt;/li&gt;
-&lt;li&gt;Непрерывная интеграция и непрерывное развертывание (CI/CD).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;добавление--к-сайту-достижений&#34;&gt;Добавление  к сайту достижений.&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Список достижений.&lt;/li&gt;
-&lt;li&gt;Добавить информацию о навыках (Skills).&lt;/li&gt;
-&lt;li&gt;Добавить информацию об опыте (Experience).&lt;/li&gt;
-&lt;li&gt;Добавить информацию о достижениях (Accomplishments).&lt;/li&gt;
-&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
-&lt;li&gt;Добавить пост на тему по выбору:&lt;/li&gt;
-&lt;li&gt;Легковесные языки разметки.&lt;/li&gt;
-&lt;li&gt;Языки разметки. LaTeX.&lt;/li&gt;
-&lt;li&gt;Язык разметки Markdown.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;добавление-к-сайту-ссылок-на-научные-и-библиометрические-ресурсы&#34;&gt;Добавление к сайту ссылок на научные и библиометрические ресурсы.&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;Зарегистрироваться на соответствующих ресурсах и разместить на них ссылки на сайте:&lt;/li&gt;
-&lt;/ul&gt;
-&lt;ul&gt;
-&lt;li&gt;eLibrary : &lt;a href=&#34;https://elibrary.ru/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://elibrary.ru/;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Google Scholar : &lt;a href=&#34;https://scholar.google.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ORCID : &lt;a href=&#34;https://orcid.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://orcid.org/;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;Mendeley : &lt;a href=&#34;https://www.mendeley.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mendeley.com/;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;ResearchGate : &lt;a href=&#34;https://www.researchgate.net/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchgate.net/;&lt;/a&gt;&lt;/li&gt;
+      <description>&lt;ul&gt;
 &lt;li&gt;Academia.edu : &lt;a href=&#34;https://www.academia.edu/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.academia.edu/;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;arXiv : &lt;a href=&#34;https://arxiv.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/;&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;github : &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/&lt;/a&gt;.&lt;/li&gt;
@@ -998,21 +940,84 @@ Crash --&gt; [*]
 &lt;li&gt;Работа с библиографией.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;добавление-к-сайту-всех-остальных-элементов&#34;&gt;Добавление к сайту всех остальных элементов.&lt;/h2&gt;
+&lt;h1 id=&#34;project-implementation-stages&#34;&gt;Project implementation stages&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo-themes&lt;/a&gt; |
+&lt;a href=&#34;https://github.com/JaneZhibit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;posting-a-template-for-a-personal-website-on-github-pages&#34;&gt;Posting a template for a personal website on Github pages.&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Сделать записи для персональных проектов.&lt;/li&gt;
-&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
-&lt;li&gt;Добавить пост на тему по выбору.&lt;/li&gt;
-&lt;li&gt;Языки научного программирования.&lt;/li&gt;
+&lt;li&gt;Install the necessary software.&lt;/li&gt;
+&lt;li&gt;Download the website theme template.&lt;/li&gt;
+&lt;li&gt;Place it on git hosting.&lt;/li&gt;
+&lt;li&gt;Set parameter for site URLs.&lt;/li&gt;
+&lt;li&gt;Place the website template on Github pages.&lt;/li&gt;
+&lt;li&gt;Add information about yourself to the site.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;размещение-двуязычного-сайта-на-github&#34;&gt;Размещение двуязычного сайта на Github.&lt;/h2&gt;
+&lt;h2 id=&#34;adding-data&#34;&gt;Adding data.&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Сделать поддержку английского и русского языков.&lt;/li&gt;
-&lt;li&gt;Разместить элементы сайта на обоих языках.&lt;/li&gt;
-&lt;li&gt;Разместить контент на обоих языках.&lt;/li&gt;
-&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
-&lt;li&gt;Добавить пост на тему по выбору (на двух языках).&lt;/li&gt;
+&lt;li&gt;Post a photo of the site owner.&lt;/li&gt;
+&lt;li&gt;Place a brief description of the site owner (Biography).&lt;/li&gt;
+&lt;li&gt;Add information about interests (Interests).&lt;/li&gt;
+&lt;li&gt;Add information from Education.&lt;/li&gt;
+&lt;li&gt;Make a post about the past week.&lt;/li&gt;
+&lt;li&gt;Add a post on a topic of your choice:&lt;/li&gt;
+&lt;li&gt;Version management. Git.&lt;/li&gt;
+&lt;li&gt;Continuous integration and continuous deployment (CI/CD).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;adding-achievements-to-the-site&#34;&gt;Adding achievements to the site.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;List of achievements.&lt;/li&gt;
+&lt;li&gt;Add information about skills.&lt;/li&gt;
+&lt;li&gt;Add information about experience.&lt;/li&gt;
+&lt;li&gt;Add information about achievements (Accomplishments).&lt;/li&gt;
+&lt;li&gt;Make a post about the past week.&lt;/li&gt;
+&lt;li&gt;Add a post on a topic of your choice:&lt;/li&gt;
+&lt;li&gt;Lightweight markup languages.&lt;/li&gt;
+&lt;li&gt;Markup languages. LaTeX.&lt;/li&gt;
+&lt;li&gt;Markdown markup language.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;adding-links-to-scientific-and-bibliometric-resources-to-the-site&#34;&gt;Adding links to scientific and bibliometric resources to the site.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Register on the relevant resources and place links to them on the site:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;eLibrary: &lt;a href=&#34;https://elibrary.ru/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://elibrary.ru/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google Scholar: &lt;a href=&#34;https://scholar.google.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ORCID: &lt;a href=&#34;https://orcid.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://orcid.org/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mendeley: &lt;a href=&#34;https://www.mendeley.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mendeley.com/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ResearchGate: &lt;a href=&#34;https://www.researchgate.net/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchgate.net/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Academia.edu: &lt;a href=&#34;https://www.academia.edu/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.academia.edu/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;arXiv: &lt;a href=&#34;https://arxiv.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;github: &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Make a post about the past week.&lt;/li&gt;
+&lt;li&gt;Add a post on a topic of your choice:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Report preparation.&lt;/li&gt;
+&lt;li&gt;Creation of presentations.&lt;/li&gt;
+&lt;li&gt;Working with bibliography.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;adding-all-other-elements-to-the-site&#34;&gt;Adding all other elements to the site.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Make notes for personal projects.&lt;/li&gt;
+&lt;li&gt;Make a post about the past week.&lt;/li&gt;
+&lt;li&gt;Add a post on a topic of your choice.&lt;/li&gt;
+&lt;li&gt;Scientific programming languages.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;hosting-a-bilingual-website-on-github&#34;&gt;Hosting a bilingual website on Github.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Make support for English and Russian languages.&lt;/li&gt;
+&lt;li&gt;Place site elements in both languages.&lt;/li&gt;
+&lt;li&gt;Post content in both languages.&lt;/li&gt;
+&lt;li&gt;Make a post about the past week.&lt;/li&gt;
+&lt;li&gt;Add a post on a topic of your choice (in two languages).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
 </description>
