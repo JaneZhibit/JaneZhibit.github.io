@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Slides | Academic</title>
+    <link>https://example.com/ru/slides/</link>
+      <atom:link href="https://example.com/ru/slides/index.xml" rel="self" type="application/rss+xml" />
+    <description>Slides</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Slides</title>
+      <link>https://example.com/ru/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/slides/example/</guid>
+      <description>&lt;h1 id=&#34;этапы-реализации-проекта&#34;&gt;Этапы реализации проекта&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-themes&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo-themes&lt;/a&gt; |
+&lt;a href=&#34;https://github.com/JaneZhibit&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;размещение-на-github-pages-заготовки-для-персонального-сайта&#34;&gt;Размещение на Github pages заготовки для персонального сайта.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Установить необходимое программное обеспечение.&lt;/li&gt;
+&lt;li&gt;Скачать шаблон темы сайта.&lt;/li&gt;
+&lt;li&gt;Разместить его на хостинге git.&lt;/li&gt;
+&lt;li&gt;Установить параметр для URLs сайта.&lt;/li&gt;
+&lt;li&gt;Разместить заготовку сайта на Github pages.&lt;/li&gt;
+&lt;li&gt;Добавить к сайту данные о себе.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;добавление-данных&#34;&gt;Добавление данных.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Разместить фотографию владельца сайта.&lt;/li&gt;
+&lt;li&gt;Разместить краткое описание владельца сайта (Biography).&lt;/li&gt;
+&lt;li&gt;Добавить информацию об интересах (Interests).&lt;/li&gt;
+&lt;li&gt;Добавить информацию от образовании (Education).&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:&lt;/li&gt;
+&lt;li&gt;Управление версиями. Git.&lt;/li&gt;
+&lt;li&gt;Непрерывная интеграция и непрерывное развертывание (CI/CD).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;добавление--к-сайту-достижений&#34;&gt;Добавление  к сайту достижений.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Список достижений.&lt;/li&gt;
+&lt;li&gt;Добавить информацию о навыках (Skills).&lt;/li&gt;
+&lt;li&gt;Добавить информацию об опыте (Experience).&lt;/li&gt;
+&lt;li&gt;Добавить информацию о достижениях (Accomplishments).&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:&lt;/li&gt;
+&lt;li&gt;Легковесные языки разметки.&lt;/li&gt;
+&lt;li&gt;Языки разметки. LaTeX.&lt;/li&gt;
+&lt;li&gt;Язык разметки Markdown.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;добавление-к-сайту-ссылок-на-научные-и-библиометрические-ресурсы&#34;&gt;Добавление к сайту ссылок на научные и библиометрические ресурсы.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Зарегистрироваться на соответствующих ресурсах и разместить на них ссылки на сайте:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;eLibrary : &lt;a href=&#34;https://elibrary.ru/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://elibrary.ru/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Google Scholar : &lt;a href=&#34;https://scholar.google.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://scholar.google.com/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ORCID : &lt;a href=&#34;https://orcid.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://orcid.org/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Mendeley : &lt;a href=&#34;https://www.mendeley.com/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.mendeley.com/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ResearchGate : &lt;a href=&#34;https://www.researchgate.net/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.researchgate.net/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Academia.edu : &lt;a href=&#34;https://www.academia.edu/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.academia.edu/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;arXiv : &lt;a href=&#34;https://arxiv.org/;&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://arxiv.org/;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;github : &lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://github.com/&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ul&gt;
+&lt;li&gt;Оформление отчёта.&lt;/li&gt;
+&lt;li&gt;Создание презентаций.&lt;/li&gt;
+&lt;li&gt;Работа с библиографией.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;добавление-к-сайту-всех-остальных-элементов&#34;&gt;Добавление к сайту всех остальных элементов.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Сделать записи для персональных проектов.&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору.&lt;/li&gt;
+&lt;li&gt;Языки научного программирования.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;размещение-двуязычного-сайта-на-github&#34;&gt;Размещение двуязычного сайта на Github.&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Сделать поддержку английского и русского языков.&lt;/li&gt;
+&lt;li&gt;Разместить элементы сайта на обоих языках.&lt;/li&gt;
+&lt;li&gt;Разместить контент на обоих языках.&lt;/li&gt;
+&lt;li&gt;Сделать пост по прошедшей неделе.&lt;/li&gt;
+&lt;li&gt;Добавить пост на тему по выбору (на двух языках).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

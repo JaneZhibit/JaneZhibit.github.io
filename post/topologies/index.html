@@ -1,0 +1,1704 @@
+<!DOCTYPE html>
+<!-- This site was created with Hugo Blox. https://hugoblox.com -->
+<!-- Last Published: May 24, 2024 --><html lang="en-us" >
+
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  
+  
+  
+    <meta name="generator" content="Hugo Blox Builder 5.9.7" />
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+  
+  
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  
+
+  
+  
+  
+    
+      
+      <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700&display=swap" media="print" onload="this.media='all'">
+    
+  
+
+  
+  
+
+  
+  
+
+  
+
+  <link rel="stylesheet" href="/css/vendor-bundle.min.26c458e6907dc03073573976b7f4044e.css" media="print" onload="this.media='all'">
+
+  
+  
+  
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1.9.4/css/academicons.min.css" integrity="sha512-IW0nhlW5MgNydsXJO40En2EoCkTTjZhI3yuODrZIc8cQ4h1XcF53PsqDHa09NqnkXuIe0Oiyyj171BqZFwISBw==" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+    
+    
+    
+      
+      
+    
+    
+    
+
+    
+    
+    
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.css" integrity="" crossorigin="anonymous" media="print" onload="this.media='all'">
+    
+
+    
+
+    
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+        
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+      
+      
+
+      
+      
+
+      
+    
+  
+
+  
+  
+  
+  
+  
+  
+  <link rel="stylesheet" href="/css/wowchemy.f6689966c0a10712f95f034011917db0.css" />
+
+  
+  
+  
+
+  
+  
+  
+  
+  
+  
+  
+    
+    
+    <link rel="stylesheet" href="/css/libs/chroma/github-light.min.css" title="hl-light" media="print" onload="this.media='all'" >
+    <link rel="stylesheet" href="/css/libs/chroma/dracula.min.css" title="hl-dark" media="print" onload="this.media='all'" disabled>
+  
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+  <meta name="author" content="Евгения Жибицкая" />
+
+
+
+
+
+  
+
+<meta name="description" content="Сетевые топологии - это размещение компьютеров и других устройств в сетях связи
+С помощью топологии можно определить, как строится сеть, как взаимодействуют устройства и передаются данные. Правильно выбранная и построенная топология позволяет эффективно организовать работу сети и повысить ее надежность." />
+
+
+
+  <link rel="alternate" hreflang="ru" href="https://example.com/ru/post/topologies/" />
+
+<link rel="alternate" hreflang="en-us" href="https://example.com/post/topologies/" />
+<link rel="canonical" href="https://example.com/post/topologies/" />
+
+
+
+  <link rel="manifest" href="/manifest.webmanifest" />
+
+
+
+<link rel="icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png" />
+<link rel="apple-touch-icon" type="image/png" href="/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_180x180_fill_lanczos_center_3.png" />
+
+<meta name="theme-color" content="#1565c0" />
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+
+
+
+<meta property="twitter:card" content="summary" />
+
+  <meta property="twitter:site" content="@GetResearchDev" />
+  <meta property="twitter:creator" content="@GetResearchDev" />
+<meta property="twitter:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" />
+
+
+
+  
+
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="Academic" />
+<meta property="og:url" content="https://example.com/post/topologies/" />
+<meta property="og:title" content="Topologies in UNIX | Academic" />
+<meta property="og:description" content="Сетевые топологии - это размещение компьютеров и других устройств в сетях связи
+С помощью топологии можно определить, как строится сеть, как взаимодействуют устройства и передаются данные. Правильно выбранная и построенная топология позволяет эффективно организовать работу сети и повысить ее надежность." /><meta property="og:image" content="https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png" /><meta property="og:locale" content="en-us" />
+
+  
+    <meta
+      property="article:published_time"
+      content="2024-05-24T14:00:42&#43;03:00"
+    />
+  
+  
+    <meta property="article:modified_time" content="2024-05-24T14:00:42&#43;03:00">
+  
+
+
+
+
+
+
+    
+
+
+
+
+
+
+  
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://example.com/post/topologies/"
+  },
+  "headline": "Topologies in UNIX",
+  
+  "datePublished": "2024-05-24T14:00:42+03:00",
+  "dateModified": "2024-05-24T14:00:42+03:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Евгения Жибицкая"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Academic",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "Сетевые топологии - это размещение компьютеров и других устройств в сетях связи\nС помощью топологии можно определить, как строится сеть, как взаимодействуют устройства и передаются данные. Правильно выбранная и построенная топология позволяет эффективно организовать работу сети и повысить ее надежность."
+}
+</script>
+
+  
+
+  
+
+
+
+
+  
+  
+  
+
+  
+  
+
+  
+
+
+  
+  <title>Topologies in UNIX | Academic</title>
+
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body id="top" data-spy="scroll" data-offset="70" data-target="#TableOfContents" class="page-wrapper   " data-wc-page-id="240433616cb24594bf4cf65934840c97" >
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <script src="/js/wowchemy-init.min.9e4214442a7711d35691acd58f6f6361.js"></script>
+
+  
+
+
+<aside class="search-modal" id="search">
+  <div class="container">
+    <section class="search-header">
+
+      <div class="row no-gutters justify-content-between mb-3">
+        <div class="col-6">
+          <h1>Search</h1>
+        </div>
+        <div class="col-6 col-search-close">
+          <a class="js-search" href="#" aria-label="Close"><i class="fas fa-times-circle text-muted" aria-hidden="true"></i></a>
+        </div>
+      </div>
+
+      <div id="search-box">
+        
+        <input name="q" id="search-query" placeholder="Search..." autocapitalize="off"
+        autocomplete="off" autocorrect="off" spellcheck="false" type="search" class="form-control"
+        aria-label="Search...">
+        
+      </div>
+
+      
+      
+
+      
+
+    </section>
+    <section class="section-search-results">
+
+      <div id="search-hits">
+        
+      </div>
+
+    </section>
+  </div>
+</aside>
+
+
+
+  <div class="page-header header--fixed">
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+<header>
+  <nav class="navbar navbar-expand-lg navbar-light compensate-for-scrollbar" id="navbar-main">
+    <div class="container-xl">
+
+      
+      <div class="d-none d-lg-inline-flex">
+        <a class="navbar-brand" href="/">Academic</a>
+      </div>
+      
+
+      
+      <button type="button" class="navbar-toggler" data-toggle="collapse"
+              data-target="#navbar-content" aria-controls="navbar-content" aria-expanded="false" aria-label="Toggle navigation">
+      <span><i class="fas fa-bars"></i></span>
+      </button>
+      
+
+      
+      <div class="navbar-brand-mobile-wrapper d-inline-flex d-lg-none">
+        <a class="navbar-brand" href="/">Academic</a>
+      </div>
+      
+
+      
+      
+      <div class="navbar-collapse main-menu-item collapse justify-content-start" id="navbar-content">
+
+        
+        <ul class="navbar-nav d-md-inline-flex">
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#about"><span>Home</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#posts"><span>Posts</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#projects"><span>Projects</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#talks"><span>Talks</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          </li>
+
+          
+          
+
+          
+
+          
+          
+          
+            
+          
+
+          
+
+          
+          
+          
+          
+
+          
+            
+              
+              
+            
+            
+              
+              
+              
+                
+              
+              
+            
+          
+
+          <li class="nav-item">
+            <a class="nav-link " href="/#contact"><span>Contact</span></a>
+          </li>
+
+          
+          
+
+        
+
+          
+        </ul>
+      </div>
+
+      <ul class="nav-icons navbar-nav flex-row ml-auto d-flex pl-md-2">
+
+        
+        
+          
+        
+
+        
+        
+        
+        <li class="nav-item">
+          <a class="nav-link js-search" href="#" aria-label="Search"><i class="fas fa-search" aria-hidden="true"></i></a>
+        </li>
+        
+
+        
+        
+        
+        <li class="nav-item dropdown theme-dropdown">
+          <a href="#" class="nav-link" data-toggle="dropdown" aria-haspopup="true" aria-label="Display preferences">
+            <i class="fas fa-moon" aria-hidden="true"></i>
+          </a>
+          <div class="dropdown-menu">
+            <a href="#" class="dropdown-item js-set-theme-light">
+              <span>Light</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-dark">
+              <span>Dark</span>
+            </a>
+            <a href="#" class="dropdown-item js-set-theme-auto">
+              <span>Automatic</span>
+            </a>
+          </div>
+        </li>
+        
+
+        
+        
+        <li class="nav-item dropdown i18n-dropdown">
+          <a href="#" class="nav-link " data-toggle="dropdown"
+             aria-haspopup="true" aria-label="Languages">
+            <i class="fas fa-globe mr-1" aria-hidden="true"></i></a>
+          <div class="dropdown-menu">
+            <div class="dropdown-item dropdown-item-active">
+              <span>English</span>
+            </div>
+            
+            <a class="dropdown-item" href="https://example.com/ru/post/topologies/">
+              <span>Русский</span>
+            </a>
+            
+          </div>
+        </li>
+        
+
+      </ul>
+
+    </div>
+  </nav>
+</header>
+
+
+  </div>
+
+  <div class="page-body">
+    
+    
+    
+
+    <article class="article">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+  
+  
+  
+<div class="article-container pt-3">
+  <h1>Topologies in UNIX</h1>
+
+  
+
+  
+    
+
+
+<div class="article-metadata">
+
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+      
+    
+    May 24, 2024
+  </span>
+  
+
+  
+
+  
+  <span class="middot-divider"></span>
+  <span class="article-reading-time">
+    4 min read
+  </span>
+  
+
+  
+  
+  
+  
+
+  
+  
+
+</div>
+
+    
+
+
+
+
+
+  
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style">
+      <p>Сетевые топологии -  это размещение компьютеров и других устройств в сетях связи</p>
+<p>С помощью топологии можно определить, как строится сеть, как взаимодействуют устройства и передаются данные. Правильно выбранная и построенная топология позволяет эффективно организовать работу сети и повысить ее надежность.</p>
+<p>Тополгию также разделяют на физическую(расположение компьютеров в пространстве) и логическую(то, как между собой передаются данные)</p>
+<ul>
+<li>К физичеческой оранизации, например, относят сети,организованные в форме звезды, кольца, шины или  древовидной структуры.</li>
+<li>К логической - формы клиента-сервера или пиринговые сети, где все устройства имеют равные возможности общения.</li>
+</ul>
+<p>Важно отметить, что  сетевая топология может быть комбинацией различных физических и логических топологий</p>
+<p>Основные понятия, относящиеся к данной теме</p>
+<ol>
+<li>Узел (Node):</li>
+</ol>
+<p>Узел представляет собой конкретное устройство или компьютер, подключенное к сети. Это может быть как сервер, так и клиентский компьютер, принтер или маршрутизатор.</p>
+<ol>
+<li>
+<p>ветвь сети - путь, соединяющий два смежных узла;</p>
+</li>
+<li>
+<p>оконечный узел - узел, расположенный в конце только одной ветви;</p>
+</li>
+<li>
+<p>промежуточный узел - узел, расположенный на концах более чем одной ветви;</p>
+</li>
+<li>
+<p>смежные узлы - узлы, соединенные, по крайней мере, одним путём, не содержащим никаких других узлов.</p>
+</li>
+<li>
+<p>Соединение (Link):</p>
+</li>
+</ol>
+<p>Соединение представляет собой физическое соединение между узлами в сети. Это может быть проводное или беспроводное соединение.</p>
+<ol start="3">
+<li>Сетевое устройство (Network Device):</li>
+</ol>
+<p>Сетевое устройство — это оборудование, которое обеспечивает связь и передачу данных между узлами в сети. Примеры таких устройств: коммутатор (switch), маршрутизатор (router), мост (bridge), хаб (hub) и другие.</p>
+<ol start="4">
+<li>Топология (Topology):</li>
+</ol>
+<p>Топология определяет физическую структуру и связи между узлами в сети. Существуют разные виды топологий, такие как звезда, кольцо, шина, дерево и смешанная топология.</p>
+<ol start="5">
+<li>Передача данных:</li>
+</ol>
+<p>Передача данных — это процесс обмена информацией между узлами в сети. Она может осуществляться по различным протоколам, таким как TCP/IP, Ethernet и другим.</p>
+<ol start="6">
+<li>Сетевые адреса (IP-адреса):</li>
+</ol>
+<p>Сетевые адреса используются для идентификации узлов в сети. Они позволяют адресовать и направлять данные между узлами. В Интернете распространены IP-адреса версии 4 (IPv4) и IP-адреса версии 6 (IPv6).
+Источник: <a href="https://uchet-jkh.ru/i/setevaya-topologiya-opredelenie-i-struktura" target="_blank" rel="noopener">https://uchet-jkh.ru/i/setevaya-topologiya-opredelenie-i-struktura</a></p>
+<p>Виды сетевых топологий:</p>
+<ol>
+<li>Общая Шина</li>
+</ol>
+<ul>
+<li>В этом случае подключение и обмен данными производится через общий канал связи, называемый общей шиной(рис. [-@fig:001]).</li>
+</ul>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Шина" srcset="
+               /post/topologies/image/1_hu85e70a2d01964a5fda10312cc077fd6d_2353_82ad1e2cced02e41cc6fb29c533b6c9b.webp 400w,
+               /post/topologies/image/1_hu85e70a2d01964a5fda10312cc077fd6d_2353_9bef4aededee2316f5d444c5fe085903.webp 760w,
+               /post/topologies/image/1_hu85e70a2d01964a5fda10312cc077fd6d_2353_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/post/topologies/image/1_hu85e70a2d01964a5fda10312cc077fd6d_2353_82ad1e2cced02e41cc6fb29c533b6c9b.webp"
+               width="388"
+               height="130"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+{#fig:001 width=70%}</p>
+<p>Общая шина является очень распространенной топологией для локальных сетей. Передаваемая информация может распространяться в обе стороны. Применение общей шины снижает стоимость проводки и унифицирует подключение различных модулей.</p>
+<p>Основными преимуществами такой схемы являются дешевизна и простота разводки кабеля по помещениям.</p>
+<p>Самый серьезный недостаток общей шины заключается в ее низкой надежности: любой дефект кабеля или какого-нибудь из многочисленных разъемов полностью парализует всю сеть. Другим недостатком общей шины является ее невысокая производительность, так как при таком способе подключения в каждый момент времени только один компьютер может передавать данные в сеть. Поэтому пропускная способность канала связи всегда делится здесь между всеми узлами сети.</p>
+<ol start="2">
+<li>Звезда</li>
+</ol>
+<ul>
+<li>В этом случае каждый компьютер подключается отдельным кабелем к общему устройству, называемому концентратором, который находится в центре сети(рис. [-@fig:002]).</li>
+</ul>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Звезда" srcset="
+               /post/topologies/image/2_huea546b7a913d099464c5ef5aeae76955_1174_31fe3d8a3c10f945eb12a3a55bb89489.webp 400w,
+               /post/topologies/image/2_huea546b7a913d099464c5ef5aeae76955_1174_34851f65e35881f210823c1eef90b178.webp 760w,
+               /post/topologies/image/2_huea546b7a913d099464c5ef5aeae76955_1174_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/post/topologies/image/2_huea546b7a913d099464c5ef5aeae76955_1174_31fe3d8a3c10f945eb12a3a55bb89489.webp"
+               width="243"
+               height="190"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+{#fig:002 width=70%}</p>
+<p>В функции концентратора входит направление передаваемой компьютером информации одному или всем остальным компьютерам сети.</p>
+<p>Главное преимущество этой топологии перед общей шиной - существенно большая надежность. Любые неприятности с кабелем касаются лишь того компьютера, к которому этот кабель присоединен, и только неисправность концентратора может вывести из строя всю сеть. Кроме того, концентратор может играть роль интеллектуального фильтра информации, поступающей от узлов в сеть, и при необходимости блокировать запрещенные администратором передачи.</p>
+<p>К недостаткам топологии типа звезда относится более высокая стоимость сетевого оборудования из-за необходимости приобретения концентратора. Кроме того, возможности по наращиванию количества узлов в сети ограничиваются количеством портов концентратора. В настоящее время иерархическая звезда является самым распространенным типом топологии связей как в локальных, так и глобальных сетях.</p>
+<ol start="3">
+<li>Кольцо</li>
+</ol>
+<ul>
+<li>В сетях с кольцевой топологией данные в сети передаются последовательно от одной станции к другой по кольцу, как правило, в одном направлении(рис. [-@fig:003]).</li>
+</ul>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Кольцо" srcset="
+               /post/topologies/image/3_hud05615103342958926d96ff366e6d576_3694_4569ace58db3843388d3b877fafbab84.webp 400w,
+               /post/topologies/image/3_hud05615103342958926d96ff366e6d576_3694_f70400b2e7cf9bbd3b7ebdf03843b57f.webp 760w,
+               /post/topologies/image/3_hud05615103342958926d96ff366e6d576_3694_1200x1200_fit_q75_h2_lanczos_3.webp 1200w"
+               src="/post/topologies/image/3_hud05615103342958926d96ff366e6d576_3694_4569ace58db3843388d3b877fafbab84.webp"
+               width="325"
+               height="155"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+{#fig:003 width=70%}</p>
+<p>Если компьютер распознает данные как предназначенные ему, то он копирует их себе во внутренний буфер. В сети с кольцевой топологией необходимо принимать специальные меры, чтобы в случае выхода из строя или отключения какой-либо станции не прервался канал связи между остальными станциями. Преимущество данной топологии - простота управления, недостаток - возможность отказа всей сети при сбое в канале между двумя узлами.</p>
+<ol start="4">
+<li>Ячеистая топология(или же частичная сетка, где каждый узел соединен с каждым)</li>
+</ol>
+<ul>
+<li>Для ячеистой топологии характерна схема соединения компьютеров, при которой физические линии связи установлены со всеми рядом стоящими компьютерами(рис. [-@fig:004]).</li>
+</ul>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Ячеистая топология" srcset="
+               /post/topologies/image/4_hu2e60b62a4a5899901e7d6f958f774a2a_24643_c4cd7da3e3852249494cea90c82cf8ed.webp 400w,
+               /post/topologies/image/4_hu2e60b62a4a5899901e7d6f958f774a2a_24643_c655483d5e89f20788da25ea2be8fa5f.webp 760w,
+               /post/topologies/image/4_hu2e60b62a4a5899901e7d6f958f774a2a_24643_1200x1200_fit_q75_h2_lanczos.webp 1200w"
+               src="/post/topologies/image/4_hu2e60b62a4a5899901e7d6f958f774a2a_24643_c4cd7da3e3852249494cea90c82cf8ed.webp"
+               width="392"
+               height="320"
+               loading="lazy" data-zoomable /></div>
+  </div></figure>
+{#fig:004 width=70%}</p>
+<p>В сети с ячеистой топологией непосредственно связываются только те компьютеры, между которыми происходит интенсивный обмен данными, а для обмена данными между компьютерами, не соединенными прямыми связями, используются транзитные передачи через промежуточные узлы. Ячеистая топология допускает соединение большого количества компьютеров и характерна, как правило, для глобальных сетей.</p>
+<p>Достоинства данной топологии в ее устойчивости к отказам и перегрузкам, т.к. имеется несколько способов обойти отдельные узлы.</p>
+<ol start="5">
+<li>Смешанная топология</li>
+</ol>
+<ul>
+<li>В то время как небольшие сети, как правило, имеют типовую топологию, для крупных сетей характерно наличие произвольных связей между компьютерами. В таких сетях можно произвольно выделить отдельные подсети, имеющие типовую топологию, поэтому их называют сетями со смешанной топологией(рис. [-@fig:004]).</li>
+</ul>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<figure  >
+  <div class="d-flex justify-content-center">
+    <div class="w-100" ><img alt="Смешанная топология"
+           src="/post/topologies/image/5.gif"
+           loading="lazy" data-zoomable /></div>
+  </div></figure>
+{#fig:005 width=70%}</p>
+<p>Кроме того, существует и несколько других топологий сети, например - дерево.
+Такой тип топологии чаще всего используют при монтаже локальных сетей с небольшим количеством приборов, в основном при создании корпоративных коммутаторов. Совмещает довольно низкую стоимость и очень хорошее быстродействие. Особенно при комбинировании различных линий передач — сочетании медных и волоконных кабельных систем, и применении управляемых коммутаторов.</p>
+
+    </div>
+
+    
+
+
+
+
+
+
+
+<div class="share-box">
+  <ul class="share">
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fexample.com%2Fpost%2Ftopologies%2F&amp;text=Topologies&#43;in&#43;UNIX" target="_blank" rel="noopener" class="share-btn-twitter" aria-label="twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fexample.com%2Fpost%2Ftopologies%2F&amp;t=Topologies&#43;in&#43;UNIX" target="_blank" rel="noopener" class="share-btn-facebook" aria-label="facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a href="mailto:?subject=Topologies%20in%20UNIX&amp;body=https%3A%2F%2Fexample.com%2Fpost%2Ftopologies%2F" target="_blank" rel="noopener" class="share-btn-email" aria-label="envelope">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https%3A%2F%2Fexample.com%2Fpost%2Ftopologies%2F&amp;title=Topologies&#43;in&#43;UNIX" target="_blank" rel="noopener" class="share-btn-linkedin" aria-label="linkedin-in">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="whatsapp://send?text=Topologies&#43;in&#43;UNIX%20https%3A%2F%2Fexample.com%2Fpost%2Ftopologies%2F" target="_blank" rel="noopener" class="share-btn-whatsapp" aria-label="whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https%3A%2F%2Fexample.com%2Fpost%2Ftopologies%2F&amp;title=Topologies&#43;in&#43;UNIX" target="_blank" rel="noopener" class="share-btn-weibo" aria-label="weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  <div class="media author-card content-widget-hr">
+    
+      
+      <a href="https://example.com/"><img class="avatar mr-3 avatar-circle" src="/authors/admin/avatar_hud8dcd99311f15cb73c2945642ffdd8f7_58129_270x270_fill_q75_lanczos_center.jpg" alt="Евгения Жибицкая"></a>
+    
+
+    <div class="media-body">
+      <h5 class="card-title"><a href="https://example.com/">Евгения Жибицкая</a></h5>
+      <h6 class="card-subtitle">student</h6>
+      <p class="card-text">Я люблю узнавать новое, всегда открыта к новым предложениям и вижу везде много всего прекрасного.</p>
+      <ul class="network-icon" aria-hidden="true">
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="/evgeniazhibitskaya@gmail.com" >
+        <i class="fas fa-envelope"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+      
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://github.com/JaneZhibit" target="_blank" rel="noopener">
+        <i class="fab fa-github"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://elibrary.ru/project_user_tools.asp" target="_blank" rel="noopener">
+        <i class="ai ai-doi"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://scholar.google.com/citations?view_op=new_profile&amp;hl=en" target="_blank" rel="noopener">
+        <i class="ai ai-google-scholar"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://orcid.org/my-orcid?orcid=0009-0005-1018-2092" target="_blank" rel="noopener">
+        <i class="ai ai-orcid"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.mendeley.com/search/" target="_blank" rel="noopener">
+        <i class="ai ai-mendeley"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.researchgate.net/" target="_blank" rel="noopener">
+        <i class="ai ai-researchgate"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://www.academia.edu/" target="_blank" rel="noopener">
+        <i class="ai ai-academia"></i>
+      </a>
+    </li>
+  
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    <li>
+      <a href="https://arxiv.org/user/" target="_blank" rel="noopener">
+        <i class="ai ai-arxiv"></i>
+      </a>
+    </li>
+  
+</ul>
+
+    </div>
+  </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</article>
+  </div>
+
+  <div class="page-footer">
+    
+    
+    <div class="container">
+      <footer class="site-footer">
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+  
+  
+    
+  
+  
+    
+  
+
+  
+
+  
+  <p class="powered-by copyright-license-text">
+    © 2024 Me. This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank">CC BY NC ND 4.0</a>
+  </p>
+  
+
+  <p class="powered-by footer-license-icons">
+    <a href="https://creativecommons.org/licenses/by-nc-nd/4.0" rel="noopener noreferrer" target="_blank" aria-label="Creative Commons">
+      <i class="fab fa-creative-commons fa-2x" aria-hidden="true"></i>
+      <i class="fab fa-creative-commons-by fa-2x" aria-hidden="true"></i>
+      
+        <i class="fab fa-creative-commons-nc fa-2x" aria-hidden="true"></i>
+      
+      
+        <i class="fab fa-creative-commons-nd fa-2x" aria-hidden="true"></i>
+      
+    </a>
+  </p>
+
+
+
+
+
+  <p class="powered-by">
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      Published with <a href="https://hugoblox.com/?utm_campaign=poweredby" target="_blank" rel="noopener">Hugo Blox Builder</a> — the free, <a href="https://github.com/HugoBlox/hugo-blox-builder" target="_blank" rel="noopener">open source</a> website builder that empowers creators.
+    
+  </p>
+</footer>
+
+    </div>
+    
+  </div>
+
+  
+
+
+<script src="/js/vendor-bundle.min.b2240102cb8b24bcbe037562ce2ea60a.js"></script>
+
+
+
+
+  
+
+  
+  
+
+  
+
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/leaflet@1.7.1/dist/leaflet.min.js" integrity="" crossorigin="anonymous"></script>
+
+
+
+
+
+
+
+
+  
+  <script id="search-hit-fuse-template" type="text/x-template">
+    <div class="search-hit" id="summary-{{key}}">
+      <div class="search-hit-content">
+        <div class="search-hit-name">
+          <a href="{{relpermalink}}">{{title}}</a>
+          <div class="article-metadata search-hit-type">{{type}}</div>
+          <p class="search-hit-description">{{snippet}}</p>
+        </div>
+      </div>
+    </div>
+  </script>
+  
+    <script src="https://cdn.jsdelivr.net/gh/krisk/Fuse@v3.2.1/dist/fuse.min.js" integrity="sha512-o38bmzBGX+hD3JHWUFCDA09btWaqrNmoJ3RXLlrysA7PP01Kgs4UlE4MhelE1v5dJR3+cxlR4qQlotsW7jKsnw==" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/gh/julmot/mark.js@8.11.1/dist/jquery.mark.min.js" integrity="sha512-mhbv5DqBMgrWL+32MmsDOt/OAvqr/cHimk6B8y/bx/xS88MVkYGPiVv2ixKVrkywF2qHplNRUvFsAHUdxZ3Krg==" crossorigin="anonymous"></script>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script id="page-data" type="application/json">{"use_headroom":true}</script>
+
+
+  <script src="/js/wowchemy-headroom.db4755770454eb63685f8de785c0a172.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+<script src="/en/js/wowchemy.min.7f5ebaff62ae468cff8bb3dd1337bb9b.js"></script>
+
+
+
+  <script src="/js/wowchemy-map.a26e9d2f7238ba5b868384f1c5bc6477.js" type="module"></script>
+
+
+
+
+  
+<div id="modal" class="modal fade" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Cite</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        
+        <pre><code></code></pre>
+      </div>
+      <div class="modal-footer">
+        <a class="btn btn-outline-primary my-1 js-copy-cite" href="#" target="_blank">
+          <i class="fas fa-copy"></i> Copy
+        </a>
+        <a class="btn btn-outline-primary my-1 js-download-cite" href="#" target="_blank">
+          <i class="fas fa-download"></i> Download
+        </a>
+        <div id="modal-error"></div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+  <script src="/js/wowchemy-publication.9c0e895144aef5a693008b5c5d450147.js" type="module"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
