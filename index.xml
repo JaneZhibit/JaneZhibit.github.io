@@ -41,7 +41,7 @@
 &lt;p&gt;Прохождение курса &amp;ldquo;Основы Linux&amp;rdquo; на платформе Stepik&lt;/p&gt;
 &lt;h1 id=&#34;выполнение&#34;&gt;Выполнение&lt;/h1&gt;
 &lt;p&gt;Здесь и далее представлены скриншоты, подтверждающие прохождение курса и демонстрирующие выполнение контрольных заданий&lt;/p&gt;
-&lt;p&gt;Чтобы узнать справку по команде, ознакомиться с принципами ее работы надо ввести man и название команды(рис. [-@fig:001]).&lt;/p&gt;
+&lt;p&gt;Чтобы узнать справку по команде, ознакомиться с принципами ее работы надо ввести man и название команды(рис. 001 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -71,7 +71,7 @@
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Для получения справки по командк ls надо ввести man ls
-(рис. [-@fig:002]).&lt;/p&gt;
+(рис. 002 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -100,7 +100,7 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Введя pwd, пользователь получает путь до своего местоположения в каталогах(рис. [-@fig:003]).&lt;/p&gt;
+&lt;p&gt;Введя pwd, пользователь получает путь до своего местоположения в каталогах(рис. 003 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -129,7 +129,7 @@
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Символ / нужен для обозначения начала пути файловой системы(рис. [-@fig:004]).&lt;/p&gt;
+&lt;p&gt;Символ / нужен для обозначения начала пути файловой системы(рис. 004 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -157,8 +157,8 @@
                height=&#34;400&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:004 width=70%}&lt;/p&gt;
-&lt;p&gt;С помощью утилиты ls можно посмотреть списко всего содержимого директории. Другие варианты этим функцмоналом не обладают(рис. [-@fig:005]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;С помощью утилиты ls можно посмотреть списко всего содержимого директории. Другие варианты этим функцмоналом не обладают(рис. 005 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -186,8 +186,8 @@
                height=&#34;359&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:005 width=70%}&lt;/p&gt;
-&lt;p&gt;Параметр -а позволяет увидеть всю информацию, даже скрытых файлов(рис. [-@fig:006]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Параметр -а позволяет увидеть всю информацию, даже скрытых файлов(рис. 006 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -215,8 +215,8 @@
                height=&#34;287&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:006 width=70%}&lt;/p&gt;
-&lt;p&gt;Ключ -а позволяет увидеть всю информацию, даже скрытых файлов(рис. [-@fig:007]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Ключ -а позволяет увидеть всю информацию, даже скрытых файлов(рис. 007 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -244,8 +244,8 @@
                height=&#34;287&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:007 width=70%}&lt;/p&gt;
-&lt;p&gt;Ключ  -р или же parent позволяет создавать сразу вложенные директории(рис. [-@fig:008]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Ключ  -р или же parent позволяет создавать сразу вложенные директории(рис. 008 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -273,8 +273,8 @@
                height=&#34;355&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:008 width=70%}&lt;/p&gt;
-&lt;p&gt;Находясь внутри директории, чтобы она создалась раньше необходимо прописать чуть более подробный путь, также используя ключ р(рис. [-@fig:009]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Находясь внутри директории, чтобы она создалась раньше необходимо прописать чуть более подробный путь, также используя ключ р(рис. 009 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -302,8 +302,8 @@
                height=&#34;358&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:009 width=70%}&lt;/p&gt;
-&lt;p&gt;Утилита file используется для определения типа файлов. Остальные команды нужны для удаления и создания файлов, просмотра содержимого (рис. [-@fig:010]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Утилита file используется для определения типа файлов. Остальные команды нужны для удаления и создания файлов, просмотра содержимого (рис. 010 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -331,8 +331,8 @@
                height=&#34;329&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:010 width=70%}&lt;/p&gt;
-&lt;p&gt;Утилита touch создает пустой файл, отсальные уоманды этим функционалом не обладают(рис. [-@fig:011]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Утилита touch создает пустой файл, отсальные уоманды этим функционалом не обладают(рис. 011 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -360,8 +360,8 @@
                height=&#34;328&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:011 width=70%}&lt;/p&gt;
-&lt;p&gt;Команда rm удаляет файлы навсегда, восстановить их невозможно(рис. [-@fig:012]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Команда rm удаляет файлы навсегда, восстановить их невозможно(рис. 012 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -389,8 +389,8 @@
                height=&#34;303&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:012 width=70%}&lt;/p&gt;
-&lt;p&gt;В данной ОС имена файлов зависят от регистра - файлы с маленькой и с большой буквы разные(рис. [-@fig:013]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;В данной ОС имена файлов зависят от регистра - файлы с маленькой и с большой буквы разные(рис. 013 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -418,8 +418,8 @@
                height=&#34;309&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:013 width=70%}&lt;/p&gt;
-&lt;p&gt;Ключ -r recursive необходим для выполнения копирования рекурсивно(рис. [-@fig:014]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Ключ -r recursive необходим для выполнения копирования рекурсивно(рис. 014 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -447,8 +447,8 @@
                height=&#34;403&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:014 width=70%}&lt;/p&gt;
-&lt;p&gt;Для полного удаления используем rf - recirsive and force(рис. [-@fig:015]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Для полного удаления используем rf - recirsive and force(рис. 015 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -476,8 +476,8 @@
                height=&#34;346&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:015 width=70%}&lt;/p&gt;
-&lt;p&gt;Вывести начальные строки позволяет комадна head. Это возможно сделать и по-другому, но с уточнениями(рис. [-@fig:016]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Вывести начальные строки позволяет комадна head. Это возможно сделать и по-другому, но с уточнениями(рис. 016 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -505,8 +505,8 @@
                height=&#34;326&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:016 width=70%}&lt;/p&gt;
-&lt;p&gt;Вывести конечные строки позволяет комадна head. Это возможно сделать и по-другому, но с более подробным синтаксисом(рис. [-@fig:017]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Вывести конечные строки позволяет комадна head. Это возможно сделать и по-другому, но с более подробным синтаксисом(рис. 017 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -534,8 +534,8 @@
                height=&#34;316&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:017 width=70%}&lt;/p&gt;
-&lt;p&gt;Просматривать файлы, разделив их на страницы, можно командами more и less(рис. [-@fig:018]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Просматривать файлы, разделив их на страницы, можно командами more и less(рис. 018 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -563,8 +563,8 @@
                height=&#34;363&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:018 width=70%}&lt;/p&gt;
-&lt;p&gt;Вывод последних 2х строк возможен командой tail с ключом -2 и названием файла(рис. [-@fig:019]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Вывод последних 2х строк возможен командой tail с ключом -2 и названием файла(рис. 019 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -592,8 +592,8 @@
                height=&#34;298&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:019 width=70%}&lt;/p&gt;
-&lt;p&gt;Для хранения своих персональных данных существует директория home(рис. [-@fig:020]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Для хранения своих персональных данных существует директория home(рис. 020 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -621,8 +621,8 @@
                height=&#34;319&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:020 width=70%}&lt;/p&gt;
-&lt;p&gt;Имена скрытых файлов всегда начинаются именно с символа точки(рис. [-@fig:021]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Имена скрытых файлов всегда начинаются именно с символа точки(рис. 021 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -650,8 +650,8 @@
                height=&#34;323&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:021 width=70%}&lt;/p&gt;
-&lt;p&gt;Для съемных устройств точкой монтирования является директория media(рис. [-@fig:022]).&lt;/p&gt;
+ 021&lt;/p&gt;
+&lt;p&gt;Для съемных устройств точкой монтирования является директория media(рис. 022 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -679,8 +679,8 @@
                height=&#34;338&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:022 width=70%}&lt;/p&gt;
-&lt;p&gt;Файлы конфигурации хранятся в etc(рис. [-@fig:023]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Файлы конфигурации хранятся в etc(рис. 023 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -708,8 +708,8 @@
                height=&#34;322&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:023 width=70%}&lt;/p&gt;
-&lt;p&gt;В свою очередь файлы устройства находятся в dev - device(рис. [-@fig:024]).&lt;/p&gt;
+ 023&lt;/p&gt;
+&lt;p&gt;В свою очередь файлы устройства находятся в dev - device(рис. 024 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -737,8 +737,8 @@
                height=&#34;333&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:024 width=70%}&lt;/p&gt;
-&lt;p&gt;Центральное хранилище журналов - var/log(рис. [-@fig:025]).&lt;/p&gt;
+ 024&lt;/p&gt;
+&lt;p&gt;Центральное хранилище журналов - var/log(рис. 025 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -766,8 +766,8 @@
                height=&#34;327&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:025 width=70%}&lt;/p&gt;
-&lt;p&gt;Из представленных вариантов кэшированные данные приложений могут содержаться в var/cache(рис. [-@fig:026]).&lt;/p&gt;
+ 025&lt;/p&gt;
+&lt;p&gt;Из представленных вариантов кэшированные данные приложений могут содержаться в var/cache(рис. 026 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -795,8 +795,8 @@
                height=&#34;321&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:026 width=70%}&lt;/p&gt;
-&lt;p&gt;Данна якоманда передает 4 аргумента -  4 пары одинарных кавычек(рис. [-@fig:027]).&lt;/p&gt;
+ 026&lt;/p&gt;
+&lt;p&gt;Данна якоманда передает 4 аргумента -  4 пары одинарных кавычек(рис. 027 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -824,8 +824,8 @@
                height=&#34;296&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:027 width=70%}&lt;/p&gt;
-&lt;p&gt;Количество пробелов сохраниться только если передавать всю строку целиком, с помощью одинарных или двойных кавычек(рис. [-@fig:028]).&lt;/p&gt;
+ 027&lt;/p&gt;
+&lt;p&gt;Количество пробелов сохраниться только если передавать всю строку целиком, с помощью одинарных или двойных кавычек(рис. 028 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -853,8 +853,8 @@
                height=&#34;368&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:028 width=70%}&lt;/p&gt;
-&lt;p&gt;Определить данное различие команд можно с помощью type(рис. [-@fig:029]).&lt;/p&gt;
+ 028&lt;/p&gt;
+&lt;p&gt;Определить данное различие команд можно с помощью type(рис. 029 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -882,8 +882,8 @@
                height=&#34;296&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:029 width=70%}&lt;/p&gt;
-&lt;p&gt;Для такого типа поиска используется команда which(рис. [-@fig:030]).&lt;/p&gt;
+ 029&lt;/p&gt;
+&lt;p&gt;Для такого типа поиска используется команда which(рис. 030 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -911,8 +911,8 @@
                height=&#34;248&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:030 width=70%}&lt;/p&gt;
-&lt;p&gt;Чтобы создать псевдоним используем alias и соответсвенно название и команду(рис. [-@fig:031]).&lt;/p&gt;
+ 030&lt;/p&gt;
+&lt;p&gt;Чтобы создать псевдоним используем alias и соответсвенно название и команду(рис. 031 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -940,8 +940,8 @@
                height=&#34;330&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:031 width=70%}&lt;/p&gt;
-&lt;p&gt;Из перечисленных команд встроеннымиявляются - alias, echo. Остальные к ним не относятся(рис. [-@fig:032]).&lt;/p&gt;
+ 031&lt;/p&gt;
+&lt;p&gt;Из перечисленных команд встроеннымиявляются - alias, echo. Остальные к ним не относятся(рис. 032 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -969,8 +969,8 @@
                height=&#34;416&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:032 width=70%}&lt;/p&gt;
-&lt;p&gt;Внешними являются все представленные команды кроме alias. Обратим внимание, что команда может одновременно относиться к обоим типам(рис. [-@fig:033]).&lt;/p&gt;
+ 032&lt;/p&gt;
+&lt;p&gt;Внешними являются все представленные команды кроме alias. Обратим внимание, что команда может одновременно относиться к обоим типам(рис. 033 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -998,13 +998,13 @@
                height=&#34;513&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:033 width=70%}&lt;/p&gt;
+ 033&lt;/p&gt;
 &lt;p&gt;Рассмотримсоотношение бинарных файлов и директирий
 alias -&lt;/p&gt;
 &lt;p&gt;route - sbin&lt;/p&gt;
 &lt;p&gt;rm - bin&lt;/p&gt;
 &lt;p&gt;tac - usr/bin
-(рис. [-@fig:034]).&lt;/p&gt;
+(рис. 034 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1032,8 +1032,8 @@ alias -&lt;/p&gt;
                height=&#34;309&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:034 width=70%}&lt;/p&gt;
-&lt;p&gt;Для последовательного выполнения команд, заданных одной строкой использюется знак ;(рис. [-@fig:035]).&lt;/p&gt;
+ 034&lt;/p&gt;
+&lt;p&gt;Для последовательного выполнения команд, заданных одной строкой использюется знак ;(рис. 035 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1061,8 +1061,8 @@ alias -&lt;/p&gt;
                height=&#34;282&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:035 width=70%}&lt;/p&gt;
-&lt;p&gt;При остутсствие необходимости ожидания заврешения работы  можно использовать &amp;amp;  и сразу ввводить новую команду(рис. [-@fig:036]).&lt;/p&gt;
+ 035&lt;/p&gt;
+&lt;p&gt;При остутсствие необходимости ожидания заврешения работы  можно использовать &amp;amp;  и сразу ввводить новую команду(рис. 036 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1090,9 +1090,9 @@ alias -&lt;/p&gt;
                height=&#34;258&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:036 width=70%}&lt;/p&gt;
+ 036&lt;/p&gt;
 &lt;p&gt;Логическо и - &amp;amp;&amp;amp;&lt;/p&gt;
-&lt;p&gt;Логическо или - ||(рис. [-@fig:037]).&lt;/p&gt;
+&lt;p&gt;Логическо или - ||(рис. 037 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1120,8 +1120,8 @@ alias -&lt;/p&gt;
                height=&#34;210&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:037 width=70%}&lt;/p&gt;
-&lt;p&gt;&amp;lsquo;#&amp;rsquo; - символ для последующего написания комментариев(рис. [-@fig:038]).&lt;/p&gt;
+ 037&lt;/p&gt;
+&lt;p&gt;&amp;lsquo;#&amp;rsquo; - символ для последующего написания комментариев(рис. 038 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1149,8 +1149,8 @@ alias -&lt;/p&gt;
                height=&#34;313&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:038 width=70%}&lt;/p&gt;
-&lt;p&gt;При необходимости вывод символа без его свойств используется обратный слэш - (рис. [-@fig:039]).&lt;/p&gt;
+ 038&lt;/p&gt;
+&lt;p&gt;При необходимости вывод символа без его свойств используется обратный слэш - (рис. 039 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1178,8 +1178,8 @@ alias -&lt;/p&gt;
                height=&#34;244&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:039 width=70%}&lt;/p&gt;
-&lt;p&gt;Узнать текущее местоположение и содержимое кталога можно введя  pwd; ls(рис. [-@fig:040]).&lt;/p&gt;
+ 039&lt;/p&gt;
+&lt;p&gt;Узнать текущее местоположение и содержимое кталога можно введя  pwd; ls(рис. 040 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1207,8 +1207,8 @@ alias -&lt;/p&gt;
                height=&#34;404&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:040 width=70%}&lt;/p&gt;
-&lt;p&gt;Данная строка удаляет файл и сообщает, успешно или нет выполнена команда(рис. [-@fig:041]).&lt;/p&gt;
+ 040&lt;/p&gt;
+&lt;p&gt;Данная строка удаляет файл и сообщает, успешно или нет выполнена команда(рис. 041 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1236,8 +1236,8 @@ alias -&lt;/p&gt;
                height=&#34;274&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:041 width=70%}&lt;/p&gt;
-&lt;p&gt;Переменные в оболочке обозначаются символом доллара $(рис. [-@fig:042]).&lt;/p&gt;
+ 041&lt;/p&gt;
+&lt;p&gt;Переменные в оболочке обозначаются символом доллара $(рис. 042 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1265,8 +1265,8 @@ alias -&lt;/p&gt;
                height=&#34;405&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:042 width=70%}&lt;/p&gt;
-&lt;p&gt;Присвоение значения происходит так: $Имя=Значение. Обратим внимание, на отсутствие пробелов(рис. [-@fig:043]).&lt;/p&gt;
+ 042&lt;/p&gt;
+&lt;p&gt;Присвоение значения происходит так: $Имя=Значение. Обратим внимание, на отсутствие пробелов(рис. 043 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1294,8 +1294,8 @@ alias -&lt;/p&gt;
                height=&#34;301&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:043 width=70%}&lt;/p&gt;
-&lt;p&gt;Список переменных можно увидеть с помощью команд set и env(рис. [-@fig:044]).&lt;/p&gt;
+ 043&lt;/p&gt;
+&lt;p&gt;Список переменных можно увидеть с помощью команд set и env(рис. 044 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1323,8 +1323,8 @@ alias -&lt;/p&gt;
                height=&#34;354&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:044 width=70%}&lt;/p&gt;
-&lt;p&gt;В выводе название переменной указано в кавычках, следовательно результатом будет просто название, а не значение(рис. [-@fig:045]).&lt;/p&gt;
+ 044&lt;/p&gt;
+&lt;p&gt;В выводе название переменной указано в кавычках, следовательно результатом будет просто название, а не значение(рис. 045 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1352,8 +1352,8 @@ alias -&lt;/p&gt;
                height=&#34;353&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:045 width=70%}&lt;/p&gt;
-&lt;p&gt;Здесь используются двойные кавычки, что дает компьютеру понять, что вывести надо значение переменной(рис. [-@fig:046]).&lt;/p&gt;
+ 045&lt;/p&gt;
+&lt;p&gt;Здесь используются двойные кавычки, что дает компьютеру понять, что вывести надо значение переменной(рис. 046 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1381,8 +1381,8 @@ alias -&lt;/p&gt;
                height=&#34;382&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:046 width=70%}&lt;/p&gt;
-&lt;p&gt;Для удаления переменной окружения использутеся unset(рис. [-@fig:047]).&lt;/p&gt;
+ 046&lt;/p&gt;
+&lt;p&gt;Для удаления переменной окружения использутеся unset(рис. 047 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1410,8 +1410,8 @@ alias -&lt;/p&gt;
                height=&#34;367&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:047 width=70%}&lt;/p&gt;
-&lt;p&gt;Это делает переменная $PATH(рис. [-@fig:048]).&lt;/p&gt;
+ 047&lt;/p&gt;
+&lt;p&gt;Это делает переменная $PATH(рис. 048 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1439,8 +1439,8 @@ alias -&lt;/p&gt;
                height=&#34;294&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:048 width=70%}&lt;/p&gt;
-&lt;p&gt;Данное действие осуществить с помощью доллара и скобок или же одинарных кавычек(рис. [-@fig:049]).&lt;/p&gt;
+ 048&lt;/p&gt;
+&lt;p&gt;Данное действие осуществить с помощью доллара и скобок или же одинарных кавычек(рис. 049 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1468,8 +1468,8 @@ alias -&lt;/p&gt;
                height=&#34;376&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:049 width=70%}&lt;/p&gt;
-&lt;p&gt;Многоуровневое встраиване делается за счет символа доллара и кавычек(рис. [-@fig:050]).&lt;/p&gt;
+ 049&lt;/p&gt;
+&lt;p&gt;Многоуровневое встраиване делается за счет символа доллара и кавычек(рис. 050 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1497,8 +1497,8 @@ alias -&lt;/p&gt;
                height=&#34;375&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:050 width=70%}&lt;/p&gt;
-&lt;p&gt;На скриншоте видно правильное соотношеие(рис. [-@fig:051]).&lt;/p&gt;
+ 050&lt;/p&gt;
+&lt;p&gt;На скриншоте видно правильное соотношеие(рис. 051 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1526,8 +1526,8 @@ alias -&lt;/p&gt;
                height=&#34;229&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:051 width=70%}&lt;/p&gt;
-&lt;p&gt;Пробел позволяет не сохранять команду в истории(рис. [-@fig:052]).&lt;/p&gt;
+ 051&lt;/p&gt;
+&lt;p&gt;Пробел позволяет не сохранять команду в истории(рис. 052 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1555,8 +1555,8 @@ alias -&lt;/p&gt;
                height=&#34;343&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:052 width=70%}&lt;/p&gt;
-&lt;p&gt;Сохранить определнное количество команд в истории возможно указав размер командой HISTSIZE(рис. [-@fig:053]).&lt;/p&gt;
+ 052&lt;/p&gt;
+&lt;p&gt;Сохранить определнное количество команд в истории возможно указав размер командой HISTSIZE(рис. 053 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1584,8 +1584,8 @@ alias -&lt;/p&gt;
                height=&#34;282&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:053 width=70%}&lt;/p&gt;
-&lt;p&gt;Соотношение потоков ввода-вывода и номеров представлено ниже(рис. [-@fig:054]).&lt;/p&gt;
+ 053&lt;/p&gt;
+&lt;p&gt;Соотношение потоков ввода-вывода и номеров представлено ниже(рис. 054 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1613,8 +1613,8 @@ alias -&lt;/p&gt;
                height=&#34;293&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:054 width=70%}&lt;/p&gt;
-&lt;p&gt;Содержимое будет удалено при использовании &amp;gt; (рис. [-@fig:055]).&lt;/p&gt;
+ 054&lt;/p&gt;
+&lt;p&gt;Содержимое будет удалено при использовании &amp;gt; (рис. 055 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1642,8 +1642,8 @@ alias -&lt;/p&gt;
                height=&#34;337&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:055 width=70%}&lt;/p&gt;
-&lt;p&gt;Сообщение не будет выводиться при перенаправлении потоков - в 1м и последнем случаях(рис. [-@fig:056]).&lt;/p&gt;
+ 055&lt;/p&gt;
+&lt;p&gt;Сообщение не будет выводиться при перенаправлении потоков - в 1м и последнем случаях(рис. 056 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1671,8 +1671,8 @@ alias -&lt;/p&gt;
                height=&#34;461&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:056 width=70%}&lt;/p&gt;
-&lt;p&gt;Активирование режима происходит командами set -o noclobber и  set -C(рис. [-@fig:057]).&lt;/p&gt;
+ 056&lt;/p&gt;
+&lt;p&gt;Активирование режима происходит командами set -o noclobber и  set -C(рис. 057 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1700,8 +1700,8 @@ alias -&lt;/p&gt;
                height=&#34;392&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:057 width=70%}&lt;/p&gt;
-&lt;p&gt;Да, параметр активирован, перезапись предотвращается(рис. [-@fig:058]).&lt;/p&gt;
+ 057&lt;/p&gt;
+&lt;p&gt;Да, параметр активирован, перезапись предотвращается(рис. 058 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1729,8 +1729,8 @@ alias -&lt;/p&gt;
                height=&#34;393&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:058 width=70%}&lt;/p&gt;
-&lt;p&gt;Два вывода имеется только у командаы tee(рис. [-@fig:059]).&lt;/p&gt;
+ 058&lt;/p&gt;
+&lt;p&gt;Два вывода имеется только у командаы tee(рис. 059 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1758,8 +1758,8 @@ alias -&lt;/p&gt;
                height=&#34;281&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:059 width=70%}&lt;/p&gt;
-&lt;p&gt;Команды и их функционал представлены на скриншоте (рис. [-@fig:060]).&lt;/p&gt;
+ 059&lt;/p&gt;
+&lt;p&gt;Команды и их функционал представлены на скриншоте (рис. 060 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1787,8 +1787,8 @@ alias -&lt;/p&gt;
                height=&#34;416&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:060 width=70%}&lt;/p&gt;
-&lt;p&gt;В пропуск, для подсчета строк, необходимо добавть wc(рис. [-@fig:061]).&lt;/p&gt;
+ 060&lt;/p&gt;
+&lt;p&gt;В пропуск, для подсчета строк, необходимо добавть wc(рис. 061 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1816,8 +1816,8 @@ alias -&lt;/p&gt;
                height=&#34;366&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:061 width=70%}&lt;/p&gt;
-&lt;p&gt;Для сортировки по второму столбцу используем ключ -k 2(рис. [-@fig:062]).&lt;/p&gt;
+ 061&lt;/p&gt;
+&lt;p&gt;Для сортировки по второму столбцу используем ключ -k 2(рис. 062 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1845,8 +1845,8 @@ alias -&lt;/p&gt;
                height=&#34;510&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:062 width=70%}&lt;/p&gt;
-&lt;p&gt;На скриншоте показано праавильное соотношение команд и того, для чего и когда они применяются(рис. [-@fig:063]).&lt;/p&gt;
+ 062&lt;/p&gt;
+&lt;p&gt;На скриншоте показано праавильное соотношение команд и того, для чего и когда они применяются(рис. 063 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1874,8 +1874,8 @@ alias -&lt;/p&gt;
                height=&#34;332&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:063 width=70%}&lt;/p&gt;
-&lt;p&gt;Для того, чтобы созданный файл можно было найти с помощью locate необходимо обновить базу данных - updatedb(рис. [-@fig:064]).&lt;/p&gt;
+ 063&lt;/p&gt;
+&lt;p&gt;Для того, чтобы созданный файл можно было найти с помощью locate необходимо обновить базу данных - updatedb(рис. 064 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1903,8 +1903,8 @@ alias -&lt;/p&gt;
                height=&#34;250&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:064 width=70%}&lt;/p&gt;
-&lt;p&gt;Найти все директории можно ключом -d. Также необходимо указать сам шаблон для поиска - &amp;ldquo;foo&amp;rdquo; (рис. [-@fig:065]).&lt;/p&gt;
+ 064&lt;/p&gt;
+&lt;p&gt;Найти все директории можно ключом -d. Также необходимо указать сам шаблон для поиска - &amp;ldquo;foo&amp;rdquo; (рис. 065 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1932,8 +1932,8 @@ alias -&lt;/p&gt;
                height=&#34;304&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:065 width=70%}&lt;/p&gt;
-&lt;p&gt;Поиск файлов рсуществялется с помощью указания f  и шаблона &amp;lsquo;*bar&amp;rsquo;(рис. [-@fig:066]).&lt;/p&gt;
+ 065&lt;/p&gt;
+&lt;p&gt;Поиск файлов рсуществялется с помощью указания f  и шаблона &amp;lsquo;*bar&amp;rsquo;(рис. 066 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1961,8 +1961,8 @@ alias -&lt;/p&gt;
                height=&#34;289&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:066 width=70%}&lt;/p&gt;
-&lt;p&gt;Для поиска и копирования файлов введем катаолг /etc, шаблон файлов и пропишем копирование(рис. [-@fig:067]).&lt;/p&gt;
+ 066&lt;/p&gt;
+&lt;p&gt;Для поиска и копирования файлов введем катаолг /etc, шаблон файлов и пропишем копирование(рис. 067 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -1990,8 +1990,8 @@ alias -&lt;/p&gt;
                height=&#34;218&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:067 width=70%}&lt;/p&gt;
-&lt;p&gt;На скриншоте представлено соответсвие сокращений с их расшифровками(рис. [-@fig:068]).&lt;/p&gt;
+ 067&lt;/p&gt;
+&lt;p&gt;На скриншоте представлено соответсвие сокращений с их расшифровками(рис. 068 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2019,8 +2019,8 @@ alias -&lt;/p&gt;
                height=&#34;341&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:068 width=70%}&lt;/p&gt;
-&lt;p&gt;При таком выводе могли использоваться только 2 и 6 команды с ключом G и E и таким синтаксисом(рис. [-@fig:069]).&lt;/p&gt;
+ 068&lt;/p&gt;
+&lt;p&gt;При таком выводе могли использоваться только 2 и 6 команды с ключом G и E и таким синтаксисом(рис. 069 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2048,8 +2048,8 @@ alias -&lt;/p&gt;
                height=&#34;573&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:069 width=70%}&lt;/p&gt;
-&lt;p&gt;Из Бельгии найти спортсменов можно используя ключ -i, то есть не учитывая регистр(рис. [-@fig:070]).&lt;/p&gt;
+ 069&lt;/p&gt;
+&lt;p&gt;Из Бельгии найти спортсменов можно используя ключ -i, то есть не учитывая регистр(рис. 070 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2077,8 +2077,8 @@ alias -&lt;/p&gt;
                height=&#34;409&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:070 width=70%}&lt;/p&gt;
-&lt;p&gt;Правильное соотношение маски с выводом представлено ниже(рис. [-@fig:071]).&lt;/p&gt;
+ 070&lt;/p&gt;
+&lt;p&gt;Правильное соотношение маски с выводом представлено ниже(рис. 071 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2106,8 +2106,8 @@ alias -&lt;/p&gt;
                height=&#34;556&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:071 width=70%}&lt;/p&gt;
-&lt;p&gt;Данный вывод возможен только при вводе команд 2 и 6 - обязательно не учитывается регистр и соответсвующий синтаксис(рис. [-@fig:072]).&lt;/p&gt;
+ 071&lt;/p&gt;
+&lt;p&gt;Данный вывод возможен только при вводе команд 2 и 6 - обязательно не учитывается регистр и соответсвующий синтаксис(рис. 072 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2135,8 +2135,8 @@ alias -&lt;/p&gt;
                height=&#34;476&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:072 width=70%}&lt;/p&gt;
-&lt;p&gt;Здесь  происходит замена &amp;ldquo;За&amp;rdquo; на &amp;ldquo;При&amp;rdquo;, получается Приморский(рис. [-@fig:073]).&lt;/p&gt;
+ 072&lt;/p&gt;
+&lt;p&gt;Здесь  происходит замена &amp;ldquo;За&amp;rdquo; на &amp;ldquo;При&amp;rdquo;, получается Приморский(рис. 073 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2164,8 +2164,8 @@ alias -&lt;/p&gt;
                height=&#34;290&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:073 width=70%}&lt;/p&gt;
-&lt;p&gt;В следующем примере заменилось &amp;ldquo;Заморский&amp;rdquo; на &amp;ldquo;Заморить&amp;rdquo;, следовательно заменили &amp;ldquo;ский&amp;rdquo; на &amp;ldquo;ить&amp;rdquo;(рис. [-@fig:074]).&lt;/p&gt;
+ 073&lt;/p&gt;
+&lt;p&gt;В следующем примере заменилось &amp;ldquo;Заморский&amp;rdquo; на &amp;ldquo;Заморить&amp;rdquo;, следовательно заменили &amp;ldquo;ский&amp;rdquo; на &amp;ldquo;ить&amp;rdquo;(рис. 074 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2193,8 +2193,8 @@ alias -&lt;/p&gt;
                height=&#34;98&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:074 width=70%}&lt;/p&gt;
-&lt;p&gt;В этом случае символы &amp;amp;&amp;amp; дублирует текст перед этим - получается послепослезавтра (рис. [-@fig:075]).&lt;/p&gt;
+ 074&lt;/p&gt;
+&lt;p&gt;В этом случае символы &amp;amp;&amp;amp; дублирует текст перед этим - получается послепослезавтра (рис. 075 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2222,8 +2222,8 @@ alias -&lt;/p&gt;
                height=&#34;318&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:075 width=70%}&lt;/p&gt;
-&lt;p&gt;Здесь происходит перестановка числа и месяца, также меняется символточки на слэш(рис. [-@fig:076]).&lt;/p&gt;
+ 075&lt;/p&gt;
+&lt;p&gt;Здесь происходит перестановка числа и месяца, также меняется символточки на слэш(рис. 076 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2251,8 +2251,8 @@ alias -&lt;/p&gt;
                height=&#34;307&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:076 width=70%}&lt;/p&gt;
-&lt;p&gt;Клавиша esc предназначена для перевода редактора в режим ввода команд, а вот для ввода текста используется insert(рис. [-@fig:077]).&lt;/p&gt;
+ 076&lt;/p&gt;
+&lt;p&gt;Клавиша esc предназначена для перевода редактора в режим ввода команд, а вот для ввода текста используется insert(рис. 077 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2280,8 +2280,8 @@ alias -&lt;/p&gt;
                height=&#34;375&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:077 width=70%}&lt;/p&gt;
-&lt;p&gt;Перейти в режим ввода текста можно командами a, i, o(рис. [-@fig:078]).&lt;/p&gt;
+ 077&lt;/p&gt;
+&lt;p&gt;Перейти в режим ввода текста можно командами a, i, o(рис. 078 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2309,8 +2309,8 @@ alias -&lt;/p&gt;
                height=&#34;367&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:078 width=70%}&lt;/p&gt;
-&lt;p&gt;w - write, сохранение, q - quit, завершение, также это можно сделать командой ZZ (рис. [-@fig:079]).&lt;/p&gt;
+ 078&lt;/p&gt;
+&lt;p&gt;w - write, сохранение, q - quit, завершение, также это можно сделать командой ZZ (рис. 079 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2338,8 +2338,8 @@ alias -&lt;/p&gt;
                height=&#34;471&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:079 width=70%}&lt;/p&gt;
-&lt;p&gt;Соотношение команд и их функцинала представлено на скриншоте(рис. [-@fig:080]).&lt;/p&gt;
+ 079&lt;/p&gt;
+&lt;p&gt;Соотношение команд и их функцинала представлено на скриншоте(рис. 080 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2367,8 +2367,8 @@ alias -&lt;/p&gt;
                height=&#34;262&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:080 width=70%}&lt;/p&gt;
-&lt;p&gt;yyp - комбинация для создания дупликата строки(рис. [-@fig:081]).&lt;/p&gt;
+ 080&lt;/p&gt;
+&lt;p&gt;yyp - комбинация для создания дупликата строки(рис. 081 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2396,8 +2396,8 @@ alias -&lt;/p&gt;
                height=&#34;245&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:081 width=70%}&lt;/p&gt;
-&lt;p&gt;Для смены строк местами необходимо использовать сочетание ddp(рис. [-@fig:082]).&lt;/p&gt;
+ 081&lt;/p&gt;
+&lt;p&gt;Для смены строк местами необходимо использовать сочетание ddp(рис. 082 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2425,8 +2425,8 @@ alias -&lt;/p&gt;
                height=&#34;219&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:082 width=70%}&lt;/p&gt;
-&lt;p&gt;Для выполнения этого действия надо сначала указать номера строк, затем где меняем и на что меняем(рис. [-@fig:083]).&lt;/p&gt;
+ 082&lt;/p&gt;
+&lt;p&gt;Для выполнения этого действия надо сначала указать номера строк, затем где меняем и на что меняем(рис. 083 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2454,8 +2454,8 @@ alias -&lt;/p&gt;
                height=&#34;242&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:083 width=70%}&lt;/p&gt;
-&lt;p&gt;she-bang - последовательность символом для запуска сценариев в оболочке(рис. [-@fig:084]).&lt;/p&gt;
+ 083&lt;/p&gt;
+&lt;p&gt;she-bang - последовательность символом для запуска сценариев в оболочке(рис. 084 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2483,8 +2483,8 @@ alias -&lt;/p&gt;
                height=&#34;265&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:084 width=70%}&lt;/p&gt;
-&lt;p&gt;Примеры she-bang должны включать в себя #! bin и оболочку - bash, csh и другие(рис. [-@fig:085]).&lt;/p&gt;
+ 084&lt;/p&gt;
+&lt;p&gt;Примеры she-bang должны включать в себя #! bin и оболочку - bash, csh и другие(рис. 085 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2512,8 +2512,8 @@ alias -&lt;/p&gt;
                height=&#34;402&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:085 width=70%}&lt;/p&gt;
-&lt;p&gt;Для запуска в оболочке Korn shell необходимо написать ее сокращение - ksh(рис. [-@fig:086]).&lt;/p&gt;
+ 085&lt;/p&gt;
+&lt;p&gt;Для запуска в оболочке Korn shell необходимо написать ее сокращение - ksh(рис. 086 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2541,8 +2541,8 @@ alias -&lt;/p&gt;
                height=&#34;327&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:086 width=70%}&lt;/p&gt;
-&lt;p&gt;На скриншоте прдеставлен написанный пример программы, читающей и выводящей различные переменные(рис. [-@fig:087]).&lt;/p&gt;
+ 086&lt;/p&gt;
+&lt;p&gt;На скриншоте прдеставлен написанный пример программы, читающей и выводящей различные переменные(рис. 087 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2570,8 +2570,8 @@ alias -&lt;/p&gt;
                height=&#34;225&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:087 width=70%}&lt;/p&gt;
-&lt;p&gt;Команде test эквивалентны символы [] (рис. [-@fig:088]).&lt;/p&gt;
+ 087&lt;/p&gt;
+&lt;p&gt;Команде test эквивалентны символы [] (рис. 088 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2599,8 +2599,8 @@ alias -&lt;/p&gt;
                height=&#34;383&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:088 width=70%}&lt;/p&gt;
-&lt;p&gt;На скриншоте представлено верное соотношение синтаксиса команды с тем, что она делает(рис. [-@fig:089]).&lt;/p&gt;
+ 088&lt;/p&gt;
+&lt;p&gt;На скриншоте представлено верное соотношение синтаксиса команды с тем, что она делает(рис. 089 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2628,8 +2628,8 @@ alias -&lt;/p&gt;
                height=&#34;403&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:089 width=70%}&lt;/p&gt;
-&lt;p&gt;Проанализировав представленный код, можно понять, что выводиться будет &amp;ldquo;мало&amp;rdquo; , так как выполнятеся условия else(11 меньше 42)(рис. [-@fig:090]).&lt;/p&gt;
+ 089&lt;/p&gt;
+&lt;p&gt;Проанализировав представленный код, можно понять, что выводиться будет &amp;ldquo;мало&amp;rdquo; , так как выполнятеся условия else(11 меньше 42)(рис. 090 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2657,8 +2657,8 @@ alias -&lt;/p&gt;
                height=&#34;548&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:090 width=70%}&lt;/p&gt;
-&lt;p&gt;При исполнении скрипта выводится 1: 4 - 3, так как выполняется первое условие(рис. [-@fig:091]).&lt;/p&gt;
+ 090&lt;/p&gt;
+&lt;p&gt;При исполнении скрипта выводится 1: 4 - 3, так как выполняется первое условие(рис. 091 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2686,8 +2686,8 @@ alias -&lt;/p&gt;
                height=&#34;495&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:091 width=70%}&lt;/p&gt;
-&lt;p&gt;Для последовательного вывода чисел необходимо просто прописать условие - 10..1(рис. [-@fig:092]).&lt;/p&gt;
+ 091&lt;/p&gt;
+&lt;p&gt;Для последовательного вывода чисел необходимо просто прописать условие - 10..1(рис. 092 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2715,8 +2715,8 @@ alias -&lt;/p&gt;
                height=&#34;310&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:092 width=70%}&lt;/p&gt;
-&lt;p&gt;Здесь также необходимо только прописать условие &amp;ldquo;пока i меньше или равно 11&amp;rdquo;(рис. [-@fig:093]).&lt;/p&gt;
+ 092&lt;/p&gt;
+&lt;p&gt;Здесь также необходимо только прописать условие &amp;ldquo;пока i меньше или равно 11&amp;rdquo;(рис. 093 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2744,8 +2744,8 @@ alias -&lt;/p&gt;
                height=&#34;450&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:093 width=70%}&lt;/p&gt;
-&lt;p&gt;Аналогично прописываем условия соотаетсвенно заданию - &amp;ldquo;пока не станет меньше 3&amp;rdquo;(рис. [-@fig:094]).&lt;/p&gt;
+ 093&lt;/p&gt;
+&lt;p&gt;Аналогично прописываем условия соотаетсвенно заданию - &amp;ldquo;пока не станет меньше 3&amp;rdquo;(рис. 094 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2773,8 +2773,8 @@ alias -&lt;/p&gt;
                height=&#34;389&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:094 width=70%}&lt;/p&gt;
-&lt;p&gt;Напишем скрипт, считывающий переменные и выводяший сумму от a до  b(рис. [-@fig:095]).&lt;/p&gt;
+ 094&lt;/p&gt;
+&lt;p&gt;Напишем скрипт, считывающий переменные и выводяший сумму от a до  b(рис. 095 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2802,8 +2802,8 @@ alias -&lt;/p&gt;
                height=&#34;294&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:095 width=70%}&lt;/p&gt;
-&lt;p&gt;На скриншоте представлено соотношение символа $ и доп символов с их обозначениями - номерами аргументов, их количеством и тд(рис. [-@fig:096]).&lt;/p&gt;
+ 095&lt;/p&gt;
+&lt;p&gt;На скриншоте представлено соотношение символа $ и доп символов с их обозначениями - номерами аргументов, их количеством и тд(рис. 096 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2831,8 +2831,8 @@ alias -&lt;/p&gt;
                height=&#34;337&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:096 width=70%}&lt;/p&gt;
-&lt;p&gt;Для получения параметром сценариев существует спциальная функция  getopts(рис. [-@fig:097]).&lt;/p&gt;
+ 096&lt;/p&gt;
+&lt;p&gt;Для получения параметром сценариев существует спциальная функция  getopts(рис. 097 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2860,8 +2860,8 @@ alias -&lt;/p&gt;
                height=&#34;340&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:097 width=70%}&lt;/p&gt;
-&lt;p&gt;В свою очередь параметры функционирования оболочки можно получить с  помощью shopt(рис. [-@fig:098]).&lt;/p&gt;
+ 097&lt;/p&gt;
+&lt;p&gt;В свою очередь параметры функционирования оболочки можно получить с  помощью shopt(рис. 098 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2889,8 +2889,8 @@ alias -&lt;/p&gt;
                height=&#34;311&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:098 width=70%}&lt;/p&gt;
-&lt;p&gt;Последовательный вывод аргументов с предварительной проверкой аргументов осуществляется циклом while  и передачей туда аргументов(рис. [-@fig:099]).&lt;/p&gt;
+ 098&lt;/p&gt;
+&lt;p&gt;Последовательный вывод аргументов с предварительной проверкой аргументов осуществляется циклом while  и передачей туда аргументов(рис. 099 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2918,8 +2918,8 @@ alias -&lt;/p&gt;
                height=&#34;386&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:099 width=70%}&lt;/p&gt;
-&lt;p&gt;Команда eval - evaluate позволяет интерпретировать аргументы в директивы сценария оболочки(рис. [-@fig:100]).&lt;/p&gt;
+ 099&lt;/p&gt;
+&lt;p&gt;Команда eval - evaluate позволяет интерпретировать аргументы в директивы сценария оболочки(рис. 100 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2947,8 +2947,8 @@ alias -&lt;/p&gt;
                height=&#34;256&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:100 width=70%}&lt;/p&gt;
-&lt;p&gt;Наличие двойных скобок позволяет сравнивать числовые значения(рис. [-@fig:101]).&lt;/p&gt;
+ 100&lt;/p&gt;
+&lt;p&gt;Наличие двойных скобок позволяет сравнивать числовые значения(рис. 101 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -2976,8 +2976,8 @@ alias -&lt;/p&gt;
                height=&#34;376&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:101 width=70%}&lt;/p&gt;
-&lt;p&gt;Вычисления значений в оболочке происходят командой let(рис. [-@fig:102]).&lt;/p&gt;
+ 101&lt;/p&gt;
+&lt;p&gt;Вычисления значений в оболочке происходят командой let(рис. 102 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3005,8 +3005,8 @@ alias -&lt;/p&gt;
                height=&#34;219&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:102 width=70%}&lt;/p&gt;
-&lt;p&gt;За имя учетной записи отвечает команда who am i(whoami), другие вариации невозможны(рис. [-@fig:103]).&lt;/p&gt;
+ 102&lt;/p&gt;
+&lt;p&gt;За имя учетной записи отвечает команда who am i(whoami), другие вариации невозможны(рис. 103 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3034,8 +3034,8 @@ alias -&lt;/p&gt;
                height=&#34;449&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:103 width=70%}&lt;/p&gt;
-&lt;p&gt;Входящих в системы, напротив, можно узнать командами who и w(рис. [-@fig:104]).&lt;/p&gt;
+ 103&lt;/p&gt;
+&lt;p&gt;Входящих в системы, напротив, можно узнать командами who и w(рис. 104 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3063,8 +3063,8 @@ alias -&lt;/p&gt;
                height=&#34;278&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:104 width=70%}&lt;/p&gt;
-&lt;p&gt;id - утилита для подробной информации об идентификаторе, группах и тд пользователя(рис. [-@fig:105]).&lt;/p&gt;
+ 104&lt;/p&gt;
+&lt;p&gt;id - утилита для подробной информации об идентификаторе, группах и тд пользователя(рис. 105 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3092,8 +3092,8 @@ alias -&lt;/p&gt;
                height=&#34;219&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:105 width=70%}&lt;/p&gt;
-&lt;p&gt;Запуск оболочки от лица суперпользователя осуществялется командой su (рис. [-@fig:106]).&lt;/p&gt;
+ 105&lt;/p&gt;
+&lt;p&gt;Запуск оболочки от лица суперпользователя осуществялется командой su (рис. 106 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3121,8 +3121,8 @@ alias -&lt;/p&gt;
                height=&#34;391&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:106 width=70%}&lt;/p&gt;
-&lt;p&gt;Команда по умолчанию не меняет переменные окружения оболочки(рис. [-@fig:107]).&lt;/p&gt;
+ 106&lt;/p&gt;
+&lt;p&gt;Команда по умолчанию не меняет переменные окружения оболочки(рис. 107 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3150,8 +3150,8 @@ alias -&lt;/p&gt;
                height=&#34;402&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:107 width=70%}&lt;/p&gt;
-&lt;p&gt;Команда su - позволяет работать в окружении оболочки целевого пользователя, а не обязательно исходного, как по умолчанию(рис. [-@fig:108]).&lt;/p&gt;
+ 107&lt;/p&gt;
+&lt;p&gt;Команда su - позволяет работать в окружении оболочки целевого пользователя, а не обязательно исходного, как по умолчанию(рис. 108 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3179,8 +3179,8 @@ alias -&lt;/p&gt;
                height=&#34;332&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:108 width=70%}&lt;/p&gt;
-&lt;p&gt;Не зная пароля, но введя команду sudo, можно выполнить команду от имени другого пользователя(рис. [-@fig:109]).&lt;/p&gt;
+ 108&lt;/p&gt;
+&lt;p&gt;Не зная пароля, но введя команду sudo, можно выполнить команду от имени другого пользователя(рис. 109 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3208,8 +3208,8 @@ alias -&lt;/p&gt;
                height=&#34;307&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:109 width=70%}&lt;/p&gt;
-&lt;p&gt;По умолчанию пароль от root не задается, это можно сделать самостоятельно в настройках(рис. [-@fig:110]).&lt;/p&gt;
+ 109&lt;/p&gt;
+&lt;p&gt;По умолчанию пароль от root не задается, это можно сделать самостоятельно в настройках(рис. 110 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3237,8 +3237,8 @@ alias -&lt;/p&gt;
                height=&#34;411&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:110 width=70%}&lt;/p&gt;
-&lt;p&gt;Вся локальная база даннных учетных записей нахоится в директории   passwd(рис. [-@fig:111]).&lt;/p&gt;
+ 110&lt;/p&gt;
+&lt;p&gt;Вся локальная база даннных учетных записей нахоится в директории   passwd(рис. 111 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3266,8 +3266,8 @@ alias -&lt;/p&gt;
                height=&#34;395&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:111 width=70%}&lt;/p&gt;
-&lt;p&gt;Больше всего полномочий иммет пользователь root или же суперпользователь(рис. [-@fig:112]).&lt;/p&gt;
+ 111&lt;/p&gt;
+&lt;p&gt;Больше всего полномочий иммет пользователь root или же суперпользователь(рис. 112 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3295,8 +3295,8 @@ alias -&lt;/p&gt;
                height=&#34;418&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:112 width=70%}&lt;/p&gt;
-&lt;p&gt;На скриншоте представлено верное соотношения утилит и функций(рис. [-@fig:113]).&lt;/p&gt;
+ 112&lt;/p&gt;
+&lt;p&gt;На скриншоте представлено верное соотношения утилит и функций(рис. 113 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3324,8 +3324,8 @@ alias -&lt;/p&gt;
                height=&#34;334&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:113 width=70%}&lt;/p&gt;
-&lt;p&gt;Директория skel - директория-шаблон домашней директории(рис. [-@fig:114]).&lt;/p&gt;
+ 113&lt;/p&gt;
+&lt;p&gt;Директория skel - директория-шаблон домашней директории(рис. 114 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3353,8 +3353,8 @@ alias -&lt;/p&gt;
                height=&#34;320&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:114 width=70%}&lt;/p&gt;
-&lt;p&gt;Именно в зашифрованном виде пароли хранятся в каталогу shadow(рис. [-@fig:115]).&lt;/p&gt;
+ 114&lt;/p&gt;
+&lt;p&gt;Именно в зашифрованном виде пароли хранятся в каталогу shadow(рис. 115 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3382,8 +3382,8 @@ alias -&lt;/p&gt;
                height=&#34;437&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:115 width=70%}&lt;/p&gt;
-&lt;p&gt;Утилиты openssl и passwd позволяют шифровать фразу для создания пароля, друние утилиты для этого не подходят(рис. [-@fig:116]).&lt;/p&gt;
+ 115&lt;/p&gt;
+&lt;p&gt;Утилиты openssl и passwd позволяют шифровать фразу для создания пароля, друние утилиты для этого не подходят(рис. 116 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3411,8 +3411,8 @@ alias -&lt;/p&gt;
                height=&#34;405&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:116 width=70%}&lt;/p&gt;
-&lt;p&gt;Данная утилита обладает большим функционалом, в частности она позволяет устанавливать различные даты и сроки действия паролей(рис. [-@fig:117]).&lt;/p&gt;
+ 116&lt;/p&gt;
+&lt;p&gt;Данная утилита обладает большим функционалом, в частности она позволяет устанавливать различные даты и сроки действия паролей(рис. 117 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3440,8 +3440,8 @@ alias -&lt;/p&gt;
                height=&#34;386&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:117 width=70%}&lt;/p&gt;
-&lt;p&gt;наличие ! перед кэшем свидельствует о блокировке записи (рис. [-@fig:118]).&lt;/p&gt;
+ 117&lt;/p&gt;
+&lt;p&gt;наличие ! перед кэшем свидельствует о блокировке записи (рис. 118 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3469,8 +3469,8 @@ alias -&lt;/p&gt;
                height=&#34;349&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:118 width=70%}&lt;/p&gt;
-&lt;p&gt;Необходим файл, находящийся в каталоге etc(рис. [-@fig:119]).&lt;/p&gt;
+ 118&lt;/p&gt;
+&lt;p&gt;Необходим файл, находящийся в каталоге etc(рис. 119 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3498,8 +3498,8 @@ alias -&lt;/p&gt;
                height=&#34;291&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:119 width=70%}&lt;/p&gt;
-&lt;p&gt;В целом, подходят все представленные варианты(рис. [-@fig:120]).&lt;/p&gt;
+ 119&lt;/p&gt;
+&lt;p&gt;В целом, подходят все представленные варианты(рис. 120 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3527,8 +3527,8 @@ alias -&lt;/p&gt;
                height=&#34;388&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:120 width=70%}&lt;/p&gt;
-&lt;p&gt;Название утилиты gropadd указывает на то, что она создает новую группу(рис. [-@fig:121]).&lt;/p&gt;
+ 120&lt;/p&gt;
+&lt;p&gt;Название утилиты gropadd указывает на то, что она создает новую группу(рис. 121 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3556,8 +3556,8 @@ alias -&lt;/p&gt;
                height=&#34;365&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:121 width=70%}&lt;/p&gt;
-&lt;p&gt;Принадлежность пользователей к группам содержится в папке group(рис. [-@fig:122]).&lt;/p&gt;
+ 121&lt;/p&gt;
+&lt;p&gt;Принадлежность пользователей к группам содержится в папке group(рис. 122 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3585,8 +3585,8 @@ alias -&lt;/p&gt;
                height=&#34;355&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:122 width=70%}&lt;/p&gt;
-&lt;p&gt;Groups - команда, показывающая принадлежность пользователя к группам(рис. [-@fig:123]).&lt;/p&gt;
+ 122&lt;/p&gt;
+&lt;p&gt;Groups - команда, показывающая принадлежность пользователя к группам(рис. 123 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3614,8 +3614,8 @@ alias -&lt;/p&gt;
                height=&#34;360&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:123 width=70%}&lt;/p&gt;
-&lt;p&gt;Usermod - команда, позволящая изменить членство пользователя. Остальные команды были рассмотрены ранее(groupmod - изменение имени)(рис. [-@fig:124]).&lt;/p&gt;
+ 123&lt;/p&gt;
+&lt;p&gt;Usermod - команда, позволящая изменить членство пользователя. Остальные команды были рассмотрены ранее(groupmod - изменение имени)(рис. 124 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3643,8 +3643,8 @@ alias -&lt;/p&gt;
                height=&#34;316&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:124 width=70%}&lt;/p&gt;
-&lt;p&gt;Для этого существует ключ а(рис. [-@fig:125]).&lt;/p&gt;
+ 124&lt;/p&gt;
+&lt;p&gt;Для этого существует ключ а(рис. 125 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3672,8 +3672,8 @@ alias -&lt;/p&gt;
                height=&#34;278&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:125 width=70%}&lt;/p&gt;
-&lt;p&gt;Groupmod - утилита для изменения названия, аналогична usermod(рис. [-@fig:126]).&lt;/p&gt;
+ 125&lt;/p&gt;
+&lt;p&gt;Groupmod - утилита для изменения названия, аналогична usermod(рис. 126 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3701,8 +3701,8 @@ alias -&lt;/p&gt;
                height=&#34;373&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:126 width=70%}&lt;/p&gt;
-&lt;p&gt;А вот утилита chown позволяет менять и имя группы, и пользователя владеющими файлом(рис. [-@fig:127]).&lt;/p&gt;
+ 126&lt;/p&gt;
+&lt;p&gt;А вот утилита chown позволяет менять и имя группы, и пользователя владеющими файлом(рис. 127 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3730,8 +3730,8 @@ alias -&lt;/p&gt;
                height=&#34;384&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:127 width=70%}&lt;/p&gt;
-&lt;p&gt;Chgrp - изменение имени группы, владеющей файлом(рис. [-@fig:128]).&lt;/p&gt;
+ 127&lt;/p&gt;
+&lt;p&gt;Chgrp - изменение имени группы, владеющей файлом(рис. 128 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3759,8 +3759,8 @@ alias -&lt;/p&gt;
                height=&#34;301&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:128 width=70%}&lt;/p&gt;
-&lt;p&gt;Утилита chmod  отвечает за права доступа к файлу(не путать с chown(рис. [-@fig:129]).&lt;/p&gt;
+ 128&lt;/p&gt;
+&lt;p&gt;Утилита chmod  отвечает за права доступа к файлу(не путать с chown(рис. 129 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3788,8 +3788,8 @@ alias -&lt;/p&gt;
                height=&#34;294&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:129 width=70%}&lt;/p&gt;
-&lt;p&gt;Заменить имя пользователя позволит команда chown с указанием на кого менять и каталога(рис. [-@fig:130]).&lt;/p&gt;
+ 129&lt;/p&gt;
+&lt;p&gt;Заменить имя пользователя позволит команда chown с указанием на кого менять и каталога(рис. 130 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3817,8 +3817,8 @@ alias -&lt;/p&gt;
                height=&#34;277&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:130 width=70%}&lt;/p&gt;
-&lt;p&gt;Для замены группы воспользуемся командой chgrp, остальное аналогичнопримеру выше(рис. [-@fig:131]).&lt;/p&gt;
+ 130&lt;/p&gt;
+&lt;p&gt;Для замены группы воспользуемся командой chgrp, остальное аналогичнопримеру выше(рис. 131 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3846,8 +3846,8 @@ alias -&lt;/p&gt;
                height=&#34;313&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:131 width=70%}&lt;/p&gt;
-&lt;p&gt;Для замены и группы и владельца необходима команда chown и запись через двоеточие(рис. [-@fig:132]).&lt;/p&gt;
+ 131&lt;/p&gt;
+&lt;p&gt;Для замены и группы и владельца необходима команда chown и запись через двоеточие(рис. 132 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3875,8 +3875,8 @@ alias -&lt;/p&gt;
                height=&#34;229&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:132 width=70%}&lt;/p&gt;
-&lt;p&gt;Соответсвие обозначений и расшифровки представлено ниже(рис. [-@fig:133]).&lt;/p&gt;
+ 132&lt;/p&gt;
+&lt;p&gt;Соответсвие обозначений и расшифровки представлено ниже(рис. 133 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3904,8 +3904,8 @@ alias -&lt;/p&gt;
                height=&#34;351&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:133 width=70%}&lt;/p&gt;
-&lt;p&gt;Ниже представлено сопоставление прав доступа и их сокращений(рис. [-@fig:134]).&lt;/p&gt;
+ 133&lt;/p&gt;
+&lt;p&gt;Ниже представлено сопоставление прав доступа и их сокращений(рис. 134 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3933,8 +3933,8 @@ alias -&lt;/p&gt;
                height=&#34;311&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:134 width=70%}&lt;/p&gt;
-&lt;p&gt;Для каждого пользователя отведено по ___, соответственно владельцу доступны вход и чтение, остальным только доступ(рис. [-@fig:135]).&lt;/p&gt;
+ 134&lt;/p&gt;
+&lt;p&gt;Для каждого пользователя отведено по ___, соответственно владельцу доступны вход и чтение, остальным только доступ(рис. 135 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3962,8 +3962,8 @@ alias -&lt;/p&gt;
                height=&#34;406&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:135 width=70%}&lt;/p&gt;
-&lt;p&gt;Основываясь на команде, можно понять, что у владельца есть право на все, его группа имеет право на чтение и исполнение, у остальных пользователей только чтение, также, по дальнейшей информации, видно, что это файл(рис. [-@fig:136]).&lt;/p&gt;
+ 135&lt;/p&gt;
+&lt;p&gt;Основываясь на команде, можно понять, что у владельца есть право на все, его группа имеет право на чтение и исполнение, у остальных пользователей только чтение, также, по дальнейшей информации, видно, что это файл(рис. 136 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -3991,8 +3991,8 @@ alias -&lt;/p&gt;
                height=&#34;399&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:136 width=70%}&lt;/p&gt;
-&lt;p&gt;Основываясь на таблице соответствий легко перевести права в виде строки в численное значение - 755(рис. [-@fig:137]).&lt;/p&gt;
+ 136&lt;/p&gt;
+&lt;p&gt;Основываясь на таблице соответствий легко перевести права в виде строки в численное значение - 755(рис. 137 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4020,8 +4020,8 @@ alias -&lt;/p&gt;
                height=&#34;378&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:137 width=70%}&lt;/p&gt;
-&lt;p&gt;рис. [-@fig:138]).&lt;/p&gt;
+ 137&lt;/p&gt;
+&lt;p&gt;рис. 138 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4049,8 +4049,8 @@ alias -&lt;/p&gt;
                height=&#34;378&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:138 width=70%}&lt;/p&gt;
-&lt;p&gt;Аналогично получим 740((рис. [-@fig:139]).&lt;/p&gt;
+ 138&lt;/p&gt;
+&lt;p&gt;Аналогично получим 740((рис. 139 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4078,8 +4078,8 @@ alias -&lt;/p&gt;
                height=&#34;330&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:139 width=70%}&lt;/p&gt;
-&lt;p&gt;Переведем в двоичную систему - пропуск=ноль, буква=1(рис. [-@fig:140]).&lt;/p&gt;
+ 139&lt;/p&gt;
+&lt;p&gt;Переведем в двоичную систему - пропуск=ноль, буква=1(рис. 140 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4107,8 +4107,8 @@ alias -&lt;/p&gt;
                height=&#34;344&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:140 width=70%}&lt;/p&gt;
-&lt;p&gt;Функция sticky заключается в предотвращении удаления файлов пользователей не владельцев(рис. [-@fig:141]).&lt;/p&gt;
+ 140&lt;/p&gt;
+&lt;p&gt;Функция sticky заключается в предотвращении удаления файлов пользователей не владельцев(рис. 141 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4136,8 +4136,8 @@ alias -&lt;/p&gt;
                height=&#34;278&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:141 width=70%}&lt;/p&gt;
-&lt;p&gt;Описание использование бита описано в последнем варианте(рис. [-@fig:142]).&lt;/p&gt;
+ 141&lt;/p&gt;
+&lt;p&gt;Описание использование бита описано в последнем варианте(рис. 142 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4165,8 +4165,8 @@ alias -&lt;/p&gt;
                height=&#34;314&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:142 width=70%}&lt;/p&gt;
-&lt;p&gt;Описание использование бита описано во втором варианте - используется для повышения прав(рис. [-@fig:143]).&lt;/p&gt;
+ 142&lt;/p&gt;
+&lt;p&gt;Описание использование бита описано во втором варианте - используется для повышения прав(рис. 143 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4194,8 +4194,8 @@ alias -&lt;/p&gt;
                height=&#34;300&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:143 width=70%}&lt;/p&gt;
-&lt;p&gt;Утилита getfacl позволяет читать списки контроля доступа, а вот модификации и запись осуществить не получится(рис. [-@fig:144]).&lt;/p&gt;
+ 143&lt;/p&gt;
+&lt;p&gt;Утилита getfacl позволяет читать списки контроля доступа, а вот модификации и запись осуществить не получится(рис. 144 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4223,8 +4223,8 @@ alias -&lt;/p&gt;
                height=&#34;284&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:144 width=70%}&lt;/p&gt;
-&lt;p&gt;Зато следующая утилита как ра-таки позволяет выполнить все эти операции - запись, удаление и модификация(рис. [-@fig:145]).&lt;/p&gt;
+ 144&lt;/p&gt;
+&lt;p&gt;Зато следующая утилита как ра-таки позволяет выполнить все эти операции - запись, удаление и модификация(рис. 145 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4252,8 +4252,8 @@ alias -&lt;/p&gt;
                height=&#34;430&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:145 width=70%}&lt;/p&gt;
-&lt;p&gt;Inode - сьруктура данных, содержащая метаданные файла(рис. [-@fig:146]).&lt;/p&gt;
+ 145&lt;/p&gt;
+&lt;p&gt;Inode - сьруктура данных, содержащая метаданные файла(рис. 146 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4281,8 +4281,8 @@ alias -&lt;/p&gt;
                height=&#34;354&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:146 width=70%}&lt;/p&gt;
-&lt;p&gt;ls -li  команда для просмотра идентификаторов структуры(рис. [-@fig:147]).&lt;/p&gt;
+ 146&lt;/p&gt;
+&lt;p&gt;ls -li  команда для просмотра идентификаторов структуры(рис. 147 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4310,8 +4310,8 @@ alias -&lt;/p&gt;
                height=&#34;464&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:147 width=70%}&lt;/p&gt;
-&lt;p&gt;Жесткие ссылки ограничены своими разделами дисков, имеют те же права, что и файл и связаны с inode. Права доступа имеют значение,они также указывают на структуры inode и не могут указывать на файлы из других систем (рис. [-@fig:148]).&lt;/p&gt;
+ 147&lt;/p&gt;
+&lt;p&gt;Жесткие ссылки ограничены своими разделами дисков, имеют те же права, что и файл и связаны с inode. Права доступа имеют значение,они также указывают на структуры inode и не могут указывать на файлы из других систем (рис. 148 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4339,8 +4339,8 @@ alias -&lt;/p&gt;
                height=&#34;371&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:148 width=70%}&lt;/p&gt;
-&lt;p&gt;Симвоилческие ссылки противоположны жестким по своей сути(рис. [-@fig:149]).&lt;/p&gt;
+ 148&lt;/p&gt;
+&lt;p&gt;Симвоилческие ссылки противоположны жестким по своей сути(рис. 149 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4368,8 +4368,8 @@ alias -&lt;/p&gt;
                height=&#34;390&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:149 width=70%}&lt;/p&gt;
-&lt;p&gt;Ниже представлено соотношение файлов в каталогах с их содержимым(рис. [-@fig:150]).&lt;/p&gt;
+ 149&lt;/p&gt;
+&lt;p&gt;Ниже представлено соотношение файлов в каталогах с их содержимым(рис. 150 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4397,8 +4397,8 @@ alias -&lt;/p&gt;
                height=&#34;450&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:150 width=70%}&lt;/p&gt;
-&lt;p&gt;Ниже представлено верное соотношение утилит с их значением(рис. [-@fig:151]).&lt;/p&gt;
+ 150&lt;/p&gt;
+&lt;p&gt;Ниже представлено верное соотношение утилит с их значением(рис. 151 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4426,10 +4426,10 @@ alias -&lt;/p&gt;
                height=&#34;278&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:151 width=70%}&lt;/p&gt;
+ 151&lt;/p&gt;
 &lt;p&gt;Завершение курса&lt;/p&gt;
 &lt;p&gt;К сожалению, в процессе выполнения курса пришлось столкнуться с проблемой невозможности получения баллов за некоторые задания в связи с настройками авторов, тем не менее пройдено 92% материала и выполнены все задания.&lt;/p&gt;
-&lt;p&gt;(рис. [-@fig:152]).&lt;/p&gt;
+&lt;p&gt;(рис. 152 ).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4457,7 +4457,7 @@ alias -&lt;/p&gt;
                height=&#34;462&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:152 width=70%}&lt;/p&gt;
+ 152&lt;/p&gt;
 &lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
 &lt;p&gt;В отчете представлено прохождение курса &amp;ldquo;Основы Linux&amp;rdquo; на платформе Stepik. В ходе работы былы получены знания по работе с операционной системы, изучены различные тонкости и нюансы, написано несколько скриптов и выполнено определенное количество заданий&lt;/p&gt;
 </description>
@@ -5083,7 +5083,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-453679128&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-786351249&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -5093,7 +5093,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-453679128&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-786351249&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
