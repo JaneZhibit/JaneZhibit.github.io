@@ -4758,6 +4758,7 @@ alias -&lt;/li&gt;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
  152&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://rutube.ru/plst/669682&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ссылка на плейлист со скринкастом прохождения курса&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
 &lt;p&gt;В отчете представлено прохождение курса &amp;ldquo;Основы Linux&amp;rdquo; на платформе Stepik. В ходе работы былы получены знания по работе с операционной системой, изучены различные тонкости и нюансы, написано несколько скриптов и выполнено определенное количество заданий&lt;/p&gt;
 </description>
@@ -5383,7 +5384,7 @@ data.head()
 
 
 
-&lt;div id=&#34;chart-549317268&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-328694517&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -5393,7 +5394,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-549317268&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-328694517&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
