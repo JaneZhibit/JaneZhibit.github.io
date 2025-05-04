@@ -345,30 +345,10 @@
     <loc>https://example.com/ru/tag/demo/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/tag/demo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.com/ru/tag/demo/"
-                />
   </url><url>
     <loc>https://example.com/ru/project/external-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="https://example.com/project/external-project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ru-ru"
-                href="https://example.com/ru/project/external-project/"
-                />
   </url><url>
     <loc>https://example.com/ru/project/example/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
