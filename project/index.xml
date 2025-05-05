@@ -4472,15 +4472,15 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;1&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/1_huc295c8ae487a8fa7c6134ebb04022db7_32124_f931ef2425d8084deb432e0a06054017.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/1_huc295c8ae487a8fa7c6134ebb04022db7_32124_514eb2681d9885fdb3738d92c47c97ba.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/1_huc295c8ae487a8fa7c6134ebb04022db7_32124_ada54c2e1a8db77d3495e4c157e56c65.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/1_huc295c8ae487a8fa7c6134ebb04022db7_32124_7fa870fe7b91ea17e2de2d2182dac7a3.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/1_huc295c8ae487a8fa7c6134ebb04022db7_32124_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/1_huc295c8ae487a8fa7c6134ebb04022db7_32124_f931ef2425d8084deb432e0a06054017.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/1_huc295c8ae487a8fa7c6134ebb04022db7_32124_ada54c2e1a8db77d3495e4c157e56c65.webp&#34;
                width=&#34;760&#34;
                height=&#34;462&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:001 width=70%}&lt;/p&gt;
+&lt;/p&gt;
 &lt;p&gt;Протоко TSP работает на транспортном уровне  и необходим для передачи пакетов
 (рис. [-@fig:002]).&lt;/p&gt;
 &lt;p&gt;
@@ -4502,15 +4502,15 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;2&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/2_huaac197a25e61642b6bf5a001d17333ec_33611_d1114e9fd06397a13323628d4e9bcd79.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/2_huaac197a25e61642b6bf5a001d17333ec_33611_928e8d4102bd25e9b708f374bce5f696.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/2_huaac197a25e61642b6bf5a001d17333ec_33611_a6b9a20ce874b417f0360700beff973d.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/2_huaac197a25e61642b6bf5a001d17333ec_33611_f6d507f8be4b384354f733c1d27671b9.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/2_huaac197a25e61642b6bf5a001d17333ec_33611_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/2_huaac197a25e61642b6bf5a001d17333ec_33611_d1114e9fd06397a13323628d4e9bcd79.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/2_huaac197a25e61642b6bf5a001d17333ec_33611_a6b9a20ce874b417f0360700beff973d.webp&#34;
                width=&#34;609&#34;
                height=&#34;471&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:002 width=70%}&lt;/p&gt;
+&lt;/p&gt;
 &lt;p&gt;Корректные адреса должны быть в пределе 1-255(рис. [-@fig:003]).&lt;/p&gt;
 &lt;p&gt;
 
@@ -4531,15 +4531,15 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;3&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/3_hu25b721818cf55aa9ee3833f6bfb9ad94_73536_883945636f6bd36c7aa0782059499eec.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/3_hu25b721818cf55aa9ee3833f6bfb9ad94_73536_ea44bb587ad36a7365a8c1173771afda.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/3_hu25b721818cf55aa9ee3833f6bfb9ad94_73536_cb6f9a66f2e0f47d4c3fd844ba571cd1.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/3_hu25b721818cf55aa9ee3833f6bfb9ad94_73536_fb59a5013519a681014d71ca38e6067b.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/3_hu25b721818cf55aa9ee3833f6bfb9ad94_73536_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/3_hu25b721818cf55aa9ee3833f6bfb9ad94_73536_883945636f6bd36c7aa0782059499eec.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/3_hu25b721818cf55aa9ee3833f6bfb9ad94_73536_cb6f9a66f2e0f47d4c3fd844ba571cd1.webp&#34;
                width=&#34;760&#34;
                height=&#34;385&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:003 width=70%}&lt;/p&gt;
+&lt;/p&gt;
 &lt;p&gt;Система доменных имен  необходима для сопоставление  IP - и доменных имен(рис. [-@fig:004]).&lt;/p&gt;
 &lt;p&gt;
 
@@ -4560,16 +4560,18 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;4&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/4_hua7cc7de21aa16826823bccdcc997d429_51280_2aab4a35a5fd9d080c1587a7c1dc0452.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/4_hua7cc7de21aa16826823bccdcc997d429_51280_16d846a33886f3bbce42a0fe4736e2c3.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/4_hua7cc7de21aa16826823bccdcc997d429_51280_2c8fbacd3e3f0c8a145fd6e566204542.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/4_hua7cc7de21aa16826823bccdcc997d429_51280_6ddfafc7519e857b218c4193b1e08923.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/4_hua7cc7de21aa16826823bccdcc997d429_51280_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/4_hua7cc7de21aa16826823bccdcc997d429_51280_2aab4a35a5fd9d080c1587a7c1dc0452.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/4_hua7cc7de21aa16826823bccdcc997d429_51280_2c8fbacd3e3f0c8a145fd6e566204542.webp&#34;
                width=&#34;760&#34;
                height=&#34;330&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:004 width=70%}&lt;/p&gt;
-&lt;p&gt;С помощью утилиты ls можно посмотреть списко всего содержимого директории. Другие варианты этим функцмоналом не обладают(рис. [-@fig:005]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;OSI система:&lt;/p&gt;
+&lt;p&gt;Физический - канальный - сетевой - транспортный - представительский - прикладной
+(рис. [-@fig:005]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4589,16 +4591,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;5&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/5_hu634cd5bb04bedbcffd66bc335af5ab4b_66600_07aca4593511c7b03a8cde0058ee612d.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/5_hu634cd5bb04bedbcffd66bc335af5ab4b_66600_7a995f5b3d4d49e577c60505e91f3a7a.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/5_hu634cd5bb04bedbcffd66bc335af5ab4b_66600_0bbf0694f64281a6bdc2e15a8b1b3674.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/5_hu634cd5bb04bedbcffd66bc335af5ab4b_66600_41c6bbe93648c328f3fa1d53cafb06c5.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/5_hu634cd5bb04bedbcffd66bc335af5ab4b_66600_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/5_hu634cd5bb04bedbcffd66bc335af5ab4b_66600_07aca4593511c7b03a8cde0058ee612d.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/5_hu634cd5bb04bedbcffd66bc335af5ab4b_66600_0bbf0694f64281a6bdc2e15a8b1b3674.webp&#34;
                width=&#34;760&#34;
                height=&#34;334&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 {#fig:005 width=70%}&lt;/p&gt;
-&lt;p&gt;Параметр -а позволяет увидеть всю информацию, даже скрытых файлов(рис. [-@fig:006]).&lt;/p&gt;
+&lt;p&gt;Данный протокол имеет ровно две фазы, описанные ниже(рис. [-@fig:006]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4618,16 +4620,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;6&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/6_huf0acc5ad7c5561dc169bb436cf1a8fb3_62959_488cf65e7e6875ddfaabe109e4438fff.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/6_huf0acc5ad7c5561dc169bb436cf1a8fb3_62959_df777cf5afedffc57c2df50360f89bad.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/6_huf0acc5ad7c5561dc169bb436cf1a8fb3_62959_e4f37ee9d45b3803cc777da09774147b.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/6_huf0acc5ad7c5561dc169bb436cf1a8fb3_62959_754e4900071ff4ed6739a790ee717b3b.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/6_huf0acc5ad7c5561dc169bb436cf1a8fb3_62959_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/6_huf0acc5ad7c5561dc169bb436cf1a8fb3_62959_488cf65e7e6875ddfaabe109e4438fff.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/6_huf0acc5ad7c5561dc169bb436cf1a8fb3_62959_e4f37ee9d45b3803cc777da09774147b.webp&#34;
                width=&#34;760&#34;
                height=&#34;333&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:006 width=70%}&lt;/p&gt;
-&lt;p&gt;Ключ -а позволяет увидеть всю информацию, даже скрытых файлов(рис. [-@fig:007]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Протокол http передает данные открыто, а https в зашифрованном виде(рис. [-@fig:007]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4647,16 +4649,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;7&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/7_hua142c1603827fbe2ec1f52ad626d0f7c_50285_4cf7795d4270cd1110eba3fbb2cf08e9.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/7_hua142c1603827fbe2ec1f52ad626d0f7c_50285_6c8c1430b9174fd8bb0b5f2fc4df93d7.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/7_hua142c1603827fbe2ec1f52ad626d0f7c_50285_2d428df602d4b0761d69abdfd612fb67.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/7_hua142c1603827fbe2ec1f52ad626d0f7c_50285_051c6a7c82cd1c24d457d513decc326c.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/7_hua142c1603827fbe2ec1f52ad626d0f7c_50285_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/7_hua142c1603827fbe2ec1f52ad626d0f7c_50285_4cf7795d4270cd1110eba3fbb2cf08e9.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/7_hua142c1603827fbe2ec1f52ad626d0f7c_50285_2d428df602d4b0761d69abdfd612fb67.webp&#34;
                width=&#34;760&#34;
                height=&#34;300&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:007 width=70%}&lt;/p&gt;
-&lt;p&gt;Ключ  -р или же parent позволяет создавать сразу вложенные директории(рис. [-@fig:008]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Верия протокола определяется и сервером, и клиентом при соединении(рис. [-@fig:008]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4676,16 +4678,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;8&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/8_hu15e476900421379f069909d5dcf7b02f_47002_04dbb5fc92b1ba52c848eb8a1febcb64.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/8_hu15e476900421379f069909d5dcf7b02f_47002_e095df353dc8eb50925de1dbe92d18ba.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/8_hu15e476900421379f069909d5dcf7b02f_47002_1e6673d6431f3415eff433a0bb800efd.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/8_hu15e476900421379f069909d5dcf7b02f_47002_cd7ef96a5c00926baa20a9a911ead0b0.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/8_hu15e476900421379f069909d5dcf7b02f_47002_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/8_hu15e476900421379f069909d5dcf7b02f_47002_04dbb5fc92b1ba52c848eb8a1febcb64.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/8_hu15e476900421379f069909d5dcf7b02f_47002_1e6673d6431f3415eff433a0bb800efd.webp&#34;
                width=&#34;760&#34;
                height=&#34;317&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:008 width=70%}&lt;/p&gt;
-&lt;p&gt;Находясь внутри директории, чтобы она создалась раньше необходимо прописать чуть более подробный путь, также используя ключ р(рис. [-@fig:009]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;TLS (рис. [-@fig:009]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4705,16 +4707,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;9&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/9_hu8f7dbdc68728b429795e9d40a5219bfa_57146_bb96691b827b9a7bacdf2252af5eb0b0.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/9_hu8f7dbdc68728b429795e9d40a5219bfa_57146_8c838614ab64bdebdf9184981556d7d9.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/9_hu8f7dbdc68728b429795e9d40a5219bfa_57146_b788548fef151e25aeed8cb6ce6e1055.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/9_hu8f7dbdc68728b429795e9d40a5219bfa_57146_8058ca9258b8b9ed658d29c239caedce.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/9_hu8f7dbdc68728b429795e9d40a5219bfa_57146_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/9_hu8f7dbdc68728b429795e9d40a5219bfa_57146_bb96691b827b9a7bacdf2252af5eb0b0.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/9_hu8f7dbdc68728b429795e9d40a5219bfa_57146_b788548fef151e25aeed8cb6ce6e1055.webp&#34;
                width=&#34;760&#34;
                height=&#34;276&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:009 width=70%}&lt;/p&gt;
-&lt;p&gt;Утилита file используется для определения типа файлов. Остальные команды нужны для удаления и создания файлов, просмотра содержимого (рис. [-@fig:010]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Куки всегда генерируется сервером, клиент к этому не имеет никакого отношения (рис. [-@fig:010]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4734,16 +4736,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;10&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/10_hu9582e3132dc6c07813017c67c9a255f4_27248_f86f471467c1f0c86deb606b2d310cd4.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/10_hu9582e3132dc6c07813017c67c9a255f4_27248_e77d96b52ce09c5b994341985944216a.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/10_hu9582e3132dc6c07813017c67c9a255f4_27248_4eec1fc4ff20241c71ed8237088d07a4.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/10_hu9582e3132dc6c07813017c67c9a255f4_27248_81b87edf2affbfdac83f8a9303c42fd7.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/10_hu9582e3132dc6c07813017c67c9a255f4_27248_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/10_hu9582e3132dc6c07813017c67c9a255f4_27248_f86f471467c1f0c86deb606b2d310cd4.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/10_hu9582e3132dc6c07813017c67c9a255f4_27248_4eec1fc4ff20241c71ed8237088d07a4.webp&#34;
                width=&#34;760&#34;
                height=&#34;279&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:010 width=70%}&lt;/p&gt;
-&lt;p&gt;Утилита touch создает пустой файл, отсальные уоманды этим функционалом не обладают(рис. [-@fig:011]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Они никак не связаны с соеднинением и используются для работы с информацией, данными(рис. [-@fig:011]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4763,16 +4765,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;11&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/11_hu724becdae827eb2880af04ccb64ea0e1_42761_04dbfe35f14f915c679ddc37f75b9ecf.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/11_hu724becdae827eb2880af04ccb64ea0e1_42761_38a29ae268a92836d0516761cdca9efc.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/11_hu724becdae827eb2880af04ccb64ea0e1_42761_b27fedc40e56c5d04a9943a1c68a1310.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/11_hu724becdae827eb2880af04ccb64ea0e1_42761_d272a3b48eb3ad4ec4b5d97eb723718d.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/11_hu724becdae827eb2880af04ccb64ea0e1_42761_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/11_hu724becdae827eb2880af04ccb64ea0e1_42761_04dbfe35f14f915c679ddc37f75b9ecf.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/11_hu724becdae827eb2880af04ccb64ea0e1_42761_b27fedc40e56c5d04a9943a1c68a1310.webp&#34;
                width=&#34;760&#34;
                height=&#34;359&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:011 width=70%}&lt;/p&gt;
-&lt;p&gt;Команда rm удаляет файлы навсегда, восстановить их невозможно(рис. [-@fig:012]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Куки хранят информацию о пользователе, сессии(рис. [-@fig:012]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4792,16 +4794,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;12&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/12_hubfeabd987b1ff6b989db4430e1e52cbc_67512_2f8719fa498bc7436e9bf3dce12eb39a.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/12_hubfeabd987b1ff6b989db4430e1e52cbc_67512_7d7566ec97c37864484764cea0b7d3ff.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/12_hubfeabd987b1ff6b989db4430e1e52cbc_67512_1fb5c1c5ae8aee3eb43574756e663146.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/12_hubfeabd987b1ff6b989db4430e1e52cbc_67512_80decc5f0058aaf9b686f651c4979613.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/12_hubfeabd987b1ff6b989db4430e1e52cbc_67512_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/12_hubfeabd987b1ff6b989db4430e1e52cbc_67512_2f8719fa498bc7436e9bf3dce12eb39a.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/12_hubfeabd987b1ff6b989db4430e1e52cbc_67512_1fb5c1c5ae8aee3eb43574756e663146.webp&#34;
                width=&#34;760&#34;
                height=&#34;393&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:012 width=70%}&lt;/p&gt;
-&lt;p&gt;В данной ОС имена файлов зависят от регистра - файлы с маленькой и с большой буквы разные(рис. [-@fig:013]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;TOR имеет 3 промежуточных узла(рис. [-@fig:013]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4821,16 +4823,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;13&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/13_hu235733dac554fa4107b1f9d4139b8278_33108_1a750439a2433a63c0c3c95085b54418.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/13_hu235733dac554fa4107b1f9d4139b8278_33108_4c997459c3ce5859330e9581bc5e09bd.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/13_hu235733dac554fa4107b1f9d4139b8278_33108_54282e3f9abfb28754b43b3b83da922d.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/13_hu235733dac554fa4107b1f9d4139b8278_33108_5cf787629435d70839f4305e75e3ecd7.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/13_hu235733dac554fa4107b1f9d4139b8278_33108_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/13_hu235733dac554fa4107b1f9d4139b8278_33108_1a750439a2433a63c0c3c95085b54418.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/13_hu235733dac554fa4107b1f9d4139b8278_33108_54282e3f9abfb28754b43b3b83da922d.webp&#34;
                width=&#34;760&#34;
                height=&#34;284&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:013 width=70%}&lt;/p&gt;
-&lt;p&gt;Ключ -r recursive необходим для выполнения копирования рекурсивно(рис. [-@fig:014]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;TOR имеет 3 промежуточных узла(рис. [-@fig:014]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4850,16 +4852,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;14&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/14_hu19a859df7f7989107a0bb09799f1ac47_44411_12e9f94987f12fc7e150673e211506fb.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/14_hu19a859df7f7989107a0bb09799f1ac47_44411_2be55ce27610c5269f52bffec37c101d.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/14_hu19a859df7f7989107a0bb09799f1ac47_44411_7a45ceff1113c446ed39142fa93f96be.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/14_hu19a859df7f7989107a0bb09799f1ac47_44411_54f3e71dd9f0c4b6c204de3d3cdd4ae3.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/14_hu19a859df7f7989107a0bb09799f1ac47_44411_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/14_hu19a859df7f7989107a0bb09799f1ac47_44411_12e9f94987f12fc7e150673e211506fb.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/14_hu19a859df7f7989107a0bb09799f1ac47_44411_7a45ceff1113c446ed39142fa93f96be.webp&#34;
                width=&#34;760&#34;
                height=&#34;301&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:014 width=70%}&lt;/p&gt;
-&lt;p&gt;Для полного удаления используем rf - recirsive and force(рис. [-@fig:015]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;IP - адрес известен и отправителю, и получателю(рис. [-@fig:015]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4879,16 +4881,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;15&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/15_hu1801c9f3ed36639c55423ef63a3408b9_50273_c8a665c1f05cc43db72575c2e330e0be.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/15_hu1801c9f3ed36639c55423ef63a3408b9_50273_8d1129d93f726ea24e99df8264682894.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/15_hu1801c9f3ed36639c55423ef63a3408b9_50273_82b5a0d805ba1433e82d099e26389a52.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/15_hu1801c9f3ed36639c55423ef63a3408b9_50273_91ae29aa80fc584ed4a2f776e823b06e.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/15_hu1801c9f3ed36639c55423ef63a3408b9_50273_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/15_hu1801c9f3ed36639c55423ef63a3408b9_50273_c8a665c1f05cc43db72575c2e330e0be.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/15_hu1801c9f3ed36639c55423ef63a3408b9_50273_82b5a0d805ba1433e82d099e26389a52.webp&#34;
                width=&#34;760&#34;
                height=&#34;369&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:015 width=70%}&lt;/p&gt;
-&lt;p&gt;Вывести начальные строки позволяет комадна head. Это возможно сделать и по-другому, но с уточнениями(рис. [-@fig:016]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Секретный ключ формируется со всеми участниками обмена(рис. [-@fig:016]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4908,16 +4910,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;16&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/16_hu5ab1920ca77a5ccc58f1671b6e5e957e_39461_c54463a3964a56fef5bf38bea51e5a3a.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/16_hu5ab1920ca77a5ccc58f1671b6e5e957e_39461_b3bffedb7ae0b7ca92270f88d9d2ba73.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/16_hu5ab1920ca77a5ccc58f1671b6e5e957e_39461_56660ed5568ff68f835d549d53fccdab.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/16_hu5ab1920ca77a5ccc58f1671b6e5e957e_39461_ad7d59db83d9c6cbcf6ef3741e7acd54.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/16_hu5ab1920ca77a5ccc58f1671b6e5e957e_39461_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/16_hu5ab1920ca77a5ccc58f1671b6e5e957e_39461_c54463a3964a56fef5bf38bea51e5a3a.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/16_hu5ab1920ca77a5ccc58f1671b6e5e957e_39461_56660ed5568ff68f835d549d53fccdab.webp&#34;
                width=&#34;760&#34;
                height=&#34;307&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:016 width=70%}&lt;/p&gt;
-&lt;p&gt;Вывести конечные строки позволяет комадна head. Это возможно сделать и по-другому, но с более подробным синтаксисом(рис. [-@fig:017]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Ответ на скриншоте(рис. [-@fig:017]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4937,16 +4939,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;17&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/17_hu52cc79e324a0268e07283d7aaa61ef1b_38814_6f7712b774856eb0ded3ed01dacf24bc.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/17_hu52cc79e324a0268e07283d7aaa61ef1b_38814_2783d9be97f2330dc313802ae33656a0.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/17_hu52cc79e324a0268e07283d7aaa61ef1b_38814_e6a2f0a17ef2ea27104f049bfbdc0405.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/17_hu52cc79e324a0268e07283d7aaa61ef1b_38814_f130bb8eb1430cb3e25ce1f7c1d654ec.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/17_hu52cc79e324a0268e07283d7aaa61ef1b_38814_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/17_hu52cc79e324a0268e07283d7aaa61ef1b_38814_6f7712b774856eb0ded3ed01dacf24bc.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/17_hu52cc79e324a0268e07283d7aaa61ef1b_38814_e6a2f0a17ef2ea27104f049bfbdc0405.webp&#34;
                width=&#34;760&#34;
                height=&#34;305&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:017 width=70%}&lt;/p&gt;
-&lt;p&gt;Просматривать файлы, разделив их на страницы, можно командами more и less(рис. [-@fig:018]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Максимально точное определение технологии - 2(рис. [-@fig:018]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4966,16 +4968,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;18&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/18_hu9512bada7f013880af20880bf1b8310c_44402_1faffcc59dbebf03c6f0cd33650728da.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/18_hu9512bada7f013880af20880bf1b8310c_44402_fc34e31100cc05219ca0ab9e26d6be7e.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/18_hu9512bada7f013880af20880bf1b8310c_44402_1072dcb03745eb3d93e5cf3a8e3e8855.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/18_hu9512bada7f013880af20880bf1b8310c_44402_c57e733e4145e484ff49b6a8fd371321.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/18_hu9512bada7f013880af20880bf1b8310c_44402_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/18_hu9512bada7f013880af20880bf1b8310c_44402_1faffcc59dbebf03c6f0cd33650728da.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/18_hu9512bada7f013880af20880bf1b8310c_44402_1072dcb03745eb3d93e5cf3a8e3e8855.webp&#34;
                width=&#34;760&#34;
                height=&#34;327&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:018 width=70%}&lt;/p&gt;
-&lt;p&gt;Вывод последних 2х строк возможен командой tail с ключом -2 и названием файла(рис. [-@fig:019]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Wi-fi  принадлежит 2 уровню системы - канальномуWEP(рис. [-@fig:019]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -4995,16 +4997,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;19&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/19_hu5a63c2c6f30da935e51bbfc566ad29a8_32962_3405a2001e125d2aa7f83ab7674d4664.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/19_hu5a63c2c6f30da935e51bbfc566ad29a8_32962_e4afea451666ade3db2de80688fefe52.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/19_hu5a63c2c6f30da935e51bbfc566ad29a8_32962_90fb4b5b985c10a2083e60e1d6a0527a.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/19_hu5a63c2c6f30da935e51bbfc566ad29a8_32962_d7f7919b5053e05927e317f88d0c1786.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/19_hu5a63c2c6f30da935e51bbfc566ad29a8_32962_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/19_hu5a63c2c6f30da935e51bbfc566ad29a8_32962_3405a2001e125d2aa7f83ab7674d4664.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/19_hu5a63c2c6f30da935e51bbfc566ad29a8_32962_90fb4b5b985c10a2083e60e1d6a0527a.webp&#34;
                width=&#34;760&#34;
                height=&#34;293&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:019 width=70%}&lt;/p&gt;
-&lt;p&gt;Для хранения своих персональных данных существует директория home(рис. [-@fig:020]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;WEP  не обеспечивает безопасность аутентификации(рис. [-@fig:020]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5024,16 +5026,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;20&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/20_huf25f295f4e686946bd97ec5fa84301d7_35294_4387f24613b8feaa3b1e2895d6cc885c.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/20_huf25f295f4e686946bd97ec5fa84301d7_35294_603a1d7ae1409a8138759f2f5b821d35.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/20_huf25f295f4e686946bd97ec5fa84301d7_35294_dda93e9371194019b0af8bc0df5016cc.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/20_huf25f295f4e686946bd97ec5fa84301d7_35294_7329b2710927521d47a5c13d442701d0.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/20_huf25f295f4e686946bd97ec5fa84301d7_35294_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/20_huf25f295f4e686946bd97ec5fa84301d7_35294_4387f24613b8feaa3b1e2895d6cc885c.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/20_huf25f295f4e686946bd97ec5fa84301d7_35294_dda93e9371194019b0af8bc0df5016cc.webp&#34;
                width=&#34;760&#34;
                height=&#34;338&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:020 width=70%}&lt;/p&gt;
-&lt;p&gt;Имена скрытых файлов всегда начинаются именно с символа точки(рис. [-@fig:021]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Personal - для домашней сети, enterprise - нет(рис. [-@fig:021]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5053,16 +5055,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;21&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/21_hu204b63789f1cfbb834682aaabf320779_31277_5318f936cc4dedc27d678f0d0c05de5f.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/21_hu204b63789f1cfbb834682aaabf320779_31277_3aec42059899b954cb472ad49020d731.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/21_hu204b63789f1cfbb834682aaabf320779_31277_5711f15cb8a5195fb03f39533f69d803.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/21_hu204b63789f1cfbb834682aaabf320779_31277_7f24375024b2fcb5750ca902db3a50db.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/21_hu204b63789f1cfbb834682aaabf320779_31277_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/21_hu204b63789f1cfbb834682aaabf320779_31277_5318f936cc4dedc27d678f0d0c05de5f.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/21_hu204b63789f1cfbb834682aaabf320779_31277_5711f15cb8a5195fb03f39533f69d803.webp&#34;
                width=&#34;760&#34;
                height=&#34;275&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:021 width=70%}&lt;/p&gt;
-&lt;p&gt;Для съемных устройств точкой монтирования является директория media(рис. [-@fig:022]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Загрузочный сектор подлежит шифрованию(рис. [-@fig:022]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5082,16 +5084,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;22&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/22_hue4fa9ad0eadb267376035e9ef08d160b_28905_82e4023482beb154d1f58fa3bdac5288.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/22_hue4fa9ad0eadb267376035e9ef08d160b_28905_25904236c0b6c67a9e3b33cee4212e3c.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/22_hue4fa9ad0eadb267376035e9ef08d160b_28905_1b56206eaf58d443d4582afd2c003886.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/22_hue4fa9ad0eadb267376035e9ef08d160b_28905_749d8e1a3de1f87ea291142b8b128593.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/22_hue4fa9ad0eadb267376035e9ef08d160b_28905_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/22_hue4fa9ad0eadb267376035e9ef08d160b_28905_82e4023482beb154d1f58fa3bdac5288.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/22_hue4fa9ad0eadb267376035e9ef08d160b_28905_1b56206eaf58d443d4582afd2c003886.webp&#34;
                width=&#34;760&#34;
                height=&#34;286&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:022 width=70%}&lt;/p&gt;
-&lt;p&gt;Файлы конфигурации хранятся в etc(рис. [-@fig:023]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;И это можно осуществить с помощью симметричного шифрования(рис. [-@fig:023]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5111,16 +5113,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;23&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/23_hub69650e785267e08ac22a4757b0a4223_32185_6dd5ffe1a8bdfacc2d6a143d7f9544ec.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/23_hub69650e785267e08ac22a4757b0a4223_32185_b8f898a710834969a662e1ad1a8cb001.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/23_hub69650e785267e08ac22a4757b0a4223_32185_d62a5954a45a4e847361a0cbbae2d1b0.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/23_hub69650e785267e08ac22a4757b0a4223_32185_df344112b859b0c8f685cb2f6e9a8f0c.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/23_hub69650e785267e08ac22a4757b0a4223_32185_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/23_hub69650e785267e08ac22a4757b0a4223_32185_6dd5ffe1a8bdfacc2d6a143d7f9544ec.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/23_hub69650e785267e08ac22a4757b0a4223_32185_d62a5954a45a4e847361a0cbbae2d1b0.webp&#34;
                width=&#34;760&#34;
                height=&#34;297&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:023 width=70%}&lt;/p&gt;
-&lt;p&gt;В свою очередь файлы устройства находятся в dev - device(рис. [-@fig:024]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Ответ на скриншоте(рис. [-@fig:024]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5140,16 +5142,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;24&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/24_hue398a3dd7d6914da9545751b6fc85b19_47479_b3bcbbc547aa2fabedc2bd0b6f87dc55.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/24_hue398a3dd7d6914da9545751b6fc85b19_47479_f4e665ae007164685d96d64602fd923b.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/24_hue398a3dd7d6914da9545751b6fc85b19_47479_3bb79c47fba23f2397fef4d56087f575.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/24_hue398a3dd7d6914da9545751b6fc85b19_47479_150a1beff50738a7e60abca9b5e2078b.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/24_hue398a3dd7d6914da9545751b6fc85b19_47479_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/24_hue398a3dd7d6914da9545751b6fc85b19_47479_b3bcbbc547aa2fabedc2bd0b6f87dc55.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/24_hue398a3dd7d6914da9545751b6fc85b19_47479_3bb79c47fba23f2397fef4d56087f575.webp&#34;
                width=&#34;760&#34;
                height=&#34;357&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:024 width=70%}&lt;/p&gt;
-&lt;p&gt;Центральное хранилище журналов - var/log(рис. [-@fig:025]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Менеджер паролей - самое надежное место для хранения паролей(рис. [-@fig:025]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5169,16 +5171,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;25&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/25_hudaeadb1afb78be2c598b645057c30de1_37384_0f3d12f746bd512231da7b54e9dd6c64.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/25_hudaeadb1afb78be2c598b645057c30de1_37384_323a6f2988ff465cfad5e5e42208bbee.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/25_hudaeadb1afb78be2c598b645057c30de1_37384_bc81bd2f36058087fccd9d5c74a9c62e.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/25_hudaeadb1afb78be2c598b645057c30de1_37384_8dfac24ad3bf906cb5d804b2d5574962.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/25_hudaeadb1afb78be2c598b645057c30de1_37384_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/25_hudaeadb1afb78be2c598b645057c30de1_37384_0f3d12f746bd512231da7b54e9dd6c64.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/25_hudaeadb1afb78be2c598b645057c30de1_37384_bc81bd2f36058087fccd9d5c74a9c62e.webp&#34;
                width=&#34;760&#34;
                height=&#34;320&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:025 width=70%}&lt;/p&gt;
-&lt;p&gt;Из представленных вариантов кэшированные данные приложений могут содержаться в var/cache(рис. [-@fig:026]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Капча - проверка и защита от ботов и нежелательных вторжений(рис. [-@fig:026]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5198,16 +5200,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;26&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/26_hu9f7984e851738345d809bc1316eee4b2_40589_d63e913c5a966160d7cefb7c3abfaa64.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/26_hu9f7984e851738345d809bc1316eee4b2_40589_e0f273ca91ff605007dcd5b92ea4c28e.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/26_hu9f7984e851738345d809bc1316eee4b2_40589_29a289169fab8cc220a524ec71b12fbe.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/26_hu9f7984e851738345d809bc1316eee4b2_40589_b4c8b8796557e7a0e4bd18dbccca54d6.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/26_hu9f7984e851738345d809bc1316eee4b2_40589_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/26_hu9f7984e851738345d809bc1316eee4b2_40589_d63e913c5a966160d7cefb7c3abfaa64.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/26_hu9f7984e851738345d809bc1316eee4b2_40589_29a289169fab8cc220a524ec71b12fbe.webp&#34;
                width=&#34;760&#34;
                height=&#34;297&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:026 width=70%}&lt;/p&gt;
-&lt;p&gt;Данна якоманда передает 4 аргумента -  4 пары одинарных кавычек(рис. [-@fig:027]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Соль в данном случае не поможет(рис. [-@fig:027]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5227,16 +5229,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;27&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/27_hub3d8a9c949376b60c40e60dfeeef748a_37802_e83c906253a8d54b4ba76ba3632e6172.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/27_hub3d8a9c949376b60c40e60dfeeef748a_37802_4b605945b3fbd6ddc4d4663de723e2e3.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/27_hub3d8a9c949376b60c40e60dfeeef748a_37802_606eac14f2d54efd7dcec96528814390.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/27_hub3d8a9c949376b60c40e60dfeeef748a_37802_4d6c07b4368abae236e6c2415088366d.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/27_hub3d8a9c949376b60c40e60dfeeef748a_37802_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/27_hub3d8a9c949376b60c40e60dfeeef748a_37802_e83c906253a8d54b4ba76ba3632e6172.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/27_hub3d8a9c949376b60c40e60dfeeef748a_37802_606eac14f2d54efd7dcec96528814390.webp&#34;
                width=&#34;760&#34;
                height=&#34;323&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:027 width=70%}&lt;/p&gt;
-&lt;p&gt;Количество пробелов сохраниться только если передавать всю строку целиком, с помощью одинарных или двойных кавычек(рис. [-@fig:028]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Все предложенные меры эффеективны в боррьбе с утечками данных(рис. [-@fig:028]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5256,16 +5258,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;28&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/28_hu72fb4105cddf19e89648be15a8cd4a99_53006_b3549f4c1d38367a8b847212d396b939.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/28_hu72fb4105cddf19e89648be15a8cd4a99_53006_353a9fcf943d134bfece552b7f505926.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/28_hu72fb4105cddf19e89648be15a8cd4a99_53006_3430268b110c8cff28fb40529568a07f.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/28_hu72fb4105cddf19e89648be15a8cd4a99_53006_b53826d0b3e1290acfda96533ce9e81e.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/28_hu72fb4105cddf19e89648be15a8cd4a99_53006_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/28_hu72fb4105cddf19e89648be15a8cd4a99_53006_b3549f4c1d38367a8b847212d396b939.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/28_hu72fb4105cddf19e89648be15a8cd4a99_53006_3430268b110c8cff28fb40529568a07f.webp&#34;
                width=&#34;760&#34;
                height=&#34;371&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:028 width=70%}&lt;/p&gt;
-&lt;p&gt;Определить данное различие команд можно с помощью type(рис. [-@fig:029]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Хэширование - технология скрытия данных для дальнейшего хранения в зашифрованном видерис. [-@fig:029]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5285,16 +5287,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;29&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/29_hu87b702ab779181260393ed0c68fcf255_43765_85f85ed91713c94abc2fb3bd6d46e2c7.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/29_hu87b702ab779181260393ed0c68fcf255_43765_ef2aedfcc69078f0a1563cdd0efb0838.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/29_hu87b702ab779181260393ed0c68fcf255_43765_9ac896ae1b2f373156f4b2ade1fa903a.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/29_hu87b702ab779181260393ed0c68fcf255_43765_eeb2b6ee7f3373042641f169d65b16f6.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/29_hu87b702ab779181260393ed0c68fcf255_43765_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/29_hu87b702ab779181260393ed0c68fcf255_43765_85f85ed91713c94abc2fb3bd6d46e2c7.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/29_hu87b702ab779181260393ed0c68fcf255_43765_9ac896ae1b2f373156f4b2ade1fa903a.webp&#34;
                width=&#34;760&#34;
                height=&#34;326&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:029 width=70%}&lt;/p&gt;
-&lt;p&gt;Для такого типа поиска используется команда which(рис. [-@fig:030]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Наименее читабельные, лишенные смысла и длинные пароли являются самыми надежными(рис. [-@fig:030]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5314,16 +5316,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;30&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/30_hua9b863d480ccdf1571becbadbecf34e3_31312_0cc6da030d3b4e7db5f44172f8c9a983.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/30_hua9b863d480ccdf1571becbadbecf34e3_31312_02364187d789b098dd4588a7248e9bc1.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/30_hua9b863d480ccdf1571becbadbecf34e3_31312_2823680061d94d4d716b5d9f89256990.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/30_hua9b863d480ccdf1571becbadbecf34e3_31312_a6dc858883d0e76fe222349713bb9431.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/30_hua9b863d480ccdf1571becbadbecf34e3_31312_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/30_hua9b863d480ccdf1571becbadbecf34e3_31312_0cc6da030d3b4e7db5f44172f8c9a983.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/30_hua9b863d480ccdf1571becbadbecf34e3_31312_2823680061d94d4d716b5d9f89256990.webp&#34;
                width=&#34;760&#34;
                height=&#34;316&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:030 width=70%}&lt;/p&gt;
-&lt;p&gt;Чтобы создать псевдоним используем alias и соответсвенно название и команду(рис. [-@fig:031]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;К сожалению, фишинговые сообщения могут придти даже со знакомых адресов(рис. [-@fig:031]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5343,16 +5345,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;31&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/31_hue4a538cb1825cdc5033315b8e93968a1_33728_f1629e13bb630bfcfea42dd1a8d6886e.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/31_hue4a538cb1825cdc5033315b8e93968a1_33728_d9c013ca2b6539aa206e481e3172147f.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/31_hue4a538cb1825cdc5033315b8e93968a1_33728_24a5e81959894ab6c9d4b454858d1525.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/31_hue4a538cb1825cdc5033315b8e93968a1_33728_fc53c13ed12c91af642baeb1675ead97.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/31_hue4a538cb1825cdc5033315b8e93968a1_33728_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/31_hue4a538cb1825cdc5033315b8e93968a1_33728_f1629e13bb630bfcfea42dd1a8d6886e.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/31_hue4a538cb1825cdc5033315b8e93968a1_33728_24a5e81959894ab6c9d4b454858d1525.webp&#34;
                width=&#34;760&#34;
                height=&#34;299&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:031 width=70%}&lt;/p&gt;
-&lt;p&gt;Из перечисленных команд встроеннымиявляются - alias, echo. Остальные к ним не относятся(рис. [-@fig:032]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Ответ на скриншоте(рис. [-@fig:032]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5372,16 +5374,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;32&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/32_hu735f60bbdae1bf419196f38000eb1ad1_74321_76f71b76f0a27de1caada16692c8f72c.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/32_hu735f60bbdae1bf419196f38000eb1ad1_74321_551349c404bb7d5ffae8e425e28d6682.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/32_hu735f60bbdae1bf419196f38000eb1ad1_74321_ff975c4f5de70258fba0af27dfb8a4c4.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/32_hu735f60bbdae1bf419196f38000eb1ad1_74321_94da1a64011d26b3e8c3c3d87880ac02.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/32_hu735f60bbdae1bf419196f38000eb1ad1_74321_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/32_hu735f60bbdae1bf419196f38000eb1ad1_74321_76f71b76f0a27de1caada16692c8f72c.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/32_hu735f60bbdae1bf419196f38000eb1ad1_74321_ff975c4f5de70258fba0af27dfb8a4c4.webp&#34;
                width=&#34;760&#34;
                height=&#34;382&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:032 width=70%}&lt;/p&gt;
-&lt;p&gt;Внешними являются все представленные команды кроме alias. Обратим внимание, что команда может одновременно относиться к обоим типам(рис. [-@fig:033]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Спуффинг атаки - это атаки подмена настоящих имен на похожие(рис. [-@fig:033]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5401,21 +5403,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;33&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/33_hu03ec92edb46a7d201a6b85abb4cfb17b_39351_83a58eb879d0cbbf084b4df402520788.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/33_hu03ec92edb46a7d201a6b85abb4cfb17b_39351_40834aa286731856dc3494be9a43218b.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/33_hu03ec92edb46a7d201a6b85abb4cfb17b_39351_7c9ce7290acf8454ae77c8acfddc2d66.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/33_hu03ec92edb46a7d201a6b85abb4cfb17b_39351_2d2a5d0071f268736a0d298cca2f87e3.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/33_hu03ec92edb46a7d201a6b85abb4cfb17b_39351_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/33_hu03ec92edb46a7d201a6b85abb4cfb17b_39351_83a58eb879d0cbbf084b4df402520788.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/33_hu03ec92edb46a7d201a6b85abb4cfb17b_39351_7c9ce7290acf8454ae77c8acfddc2d66.webp&#34;
                width=&#34;760&#34;
                height=&#34;358&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:033 width=70%}&lt;/p&gt;
-&lt;p&gt;Рассмотримсоотношение бинарных файлов и директирий
-alias -&lt;/p&gt;
-&lt;p&gt;route - sbin&lt;/p&gt;
-&lt;p&gt;rm - bin&lt;/p&gt;
-&lt;p&gt;tac - usr/bin
-(рис. [-@fig:034]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Ответ на скриншоте(рис. [-@fig:034]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5435,16 +5432,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;34&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/34_hufd2030b13aee2975ffa18e9f2d34245a_38824_72e1f95b7e42e6e286ecfdd27096fdd2.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/34_hufd2030b13aee2975ffa18e9f2d34245a_38824_abdb9ebdeb9f763b2bdbc12dec8a37d2.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/34_hufd2030b13aee2975ffa18e9f2d34245a_38824_7a4f47c6cfe81057d96510afd5e11a27.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/34_hufd2030b13aee2975ffa18e9f2d34245a_38824_957a02dbe7d512153c5e7ee57902b019.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/34_hufd2030b13aee2975ffa18e9f2d34245a_38824_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/34_hufd2030b13aee2975ffa18e9f2d34245a_38824_72e1f95b7e42e6e286ecfdd27096fdd2.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/34_hufd2030b13aee2975ffa18e9f2d34245a_38824_7a4f47c6cfe81057d96510afd5e11a27.webp&#34;
                width=&#34;760&#34;
                height=&#34;328&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:034 width=70%}&lt;/p&gt;
-&lt;p&gt;Для последовательного выполнения команд, заданных одной строкой использюется знак ;(рис. [-@fig:035]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Ключ формируется при генерации самого первого сообщения(рис. [-@fig:035]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5464,16 +5461,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;35&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/35_huf813a8e3efe400cdb82df5382b2b0520_45529_abf17bed8548cc8f4fded53ca027e4aa.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/35_huf813a8e3efe400cdb82df5382b2b0520_45529_b817a02bbaf78abb039cf7d00b5636bc.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/35_huf813a8e3efe400cdb82df5382b2b0520_45529_37e2d51f44885a9b205fff0f0e332efc.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/35_huf813a8e3efe400cdb82df5382b2b0520_45529_50ff160996872033cca21f85cad781e5.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/35_huf813a8e3efe400cdb82df5382b2b0520_45529_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/35_huf813a8e3efe400cdb82df5382b2b0520_45529_abf17bed8548cc8f4fded53ca027e4aa.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/35_huf813a8e3efe400cdb82df5382b2b0520_45529_37e2d51f44885a9b205fff0f0e332efc.webp&#34;
                width=&#34;760&#34;
                height=&#34;341&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:035 width=70%}&lt;/p&gt;
-&lt;p&gt;При остутсствие необходимости ожидания заврешения работы  можно использовать &amp;amp;  и сразу ввводить новую команду(рис. [-@fig:036]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Cквозное шифрование обеспечивает целостность данных путем передачи по узлам связи(рис. [-@fig:036]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5493,17 +5490,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;36&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/36_hu2b64e47b9ed9d11d3fab6bf577ef6e00_57249_6f2f585a32c8683e0e70aa22a2677749.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/36_hu2b64e47b9ed9d11d3fab6bf577ef6e00_57249_e8a08177c5d5b6d7d5c43427a64a0b32.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/36_hu2b64e47b9ed9d11d3fab6bf577ef6e00_57249_99be575b8c719e551f6b9a0045e4f801.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/36_hu2b64e47b9ed9d11d3fab6bf577ef6e00_57249_ef87626291f6a27ae80951dc85cb8c85.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/36_hu2b64e47b9ed9d11d3fab6bf577ef6e00_57249_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/36_hu2b64e47b9ed9d11d3fab6bf577ef6e00_57249_6f2f585a32c8683e0e70aa22a2677749.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/36_hu2b64e47b9ed9d11d3fab6bf577ef6e00_57249_99be575b8c719e551f6b9a0045e4f801.webp&#34;
                width=&#34;760&#34;
                height=&#34;347&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 {#fig:036 width=70%}&lt;/p&gt;
-&lt;p&gt;Логическо и - &amp;amp;&amp;amp;&lt;/p&gt;
-&lt;p&gt;Логическо или - ||(рис. [-@fig:037]).&lt;/p&gt;
+&lt;p&gt;Ассимитричное шифрование предполагает разные наборы ключей у сторон(рис. [-@fig:037]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5523,16 +5519,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;37&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/37_hu6041ecb5fef17e660534e9c1ecc843a0_48676_f10217a8d1954babdae9d0e1507f9002.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/37_hu6041ecb5fef17e660534e9c1ecc843a0_48676_7e950ca0950642bfce8f9ac878b475f9.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/37_hu6041ecb5fef17e660534e9c1ecc843a0_48676_aa767a0ea1985b22a5cc11e96fe36e86.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/37_hu6041ecb5fef17e660534e9c1ecc843a0_48676_c07b8fb8ae2d2254d35cc200268a7ddf.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/37_hu6041ecb5fef17e660534e9c1ecc843a0_48676_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/37_hu6041ecb5fef17e660534e9c1ecc843a0_48676_f10217a8d1954babdae9d0e1507f9002.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/37_hu6041ecb5fef17e660534e9c1ecc843a0_48676_aa767a0ea1985b22a5cc11e96fe36e86.webp&#34;
                width=&#34;760&#34;
                height=&#34;328&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:037 width=70%}&lt;/p&gt;
-&lt;p&gt;&amp;lsquo;#&amp;rsquo; - символ для последующего написания комментариев(рис. [-@fig:038]).&lt;/p&gt;
+{&lt;/p&gt;
+&lt;p&gt;Отличительные черты хэш-функций представлены ниже(рис. [-@fig:038]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5552,16 +5548,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;38&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/38_huac8967e6a8b2989e52e59f7771c716b3_61137_88e58a584839b096149342a908ccc0de.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/38_huac8967e6a8b2989e52e59f7771c716b3_61137_baa1ee0559f693a37049b999b6a88cc8.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/38_huac8967e6a8b2989e52e59f7771c716b3_61137_88e521065cfa53bac474e9aad52b7114.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/38_huac8967e6a8b2989e52e59f7771c716b3_61137_ab29bbc9eb540bf0d0722e9dd9a3bbee.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/38_huac8967e6a8b2989e52e59f7771c716b3_61137_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/38_huac8967e6a8b2989e52e59f7771c716b3_61137_88e58a584839b096149342a908ccc0de.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/38_huac8967e6a8b2989e52e59f7771c716b3_61137_88e521065cfa53bac474e9aad52b7114.webp&#34;
                width=&#34;760&#34;
                height=&#34;367&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:038 width=70%}&lt;/p&gt;
-&lt;p&gt;При необходимости вывод символа без его свойств используется обратный слэш - (рис. [-@fig:039]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Основной алгоритм ЦП - RSA, однако существует и ГОСТ и другие(рис. [-@fig:039]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5581,16 +5577,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;39&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/39_hu77b1d696de78adbc03d3d78e25ae7bc8_52967_e8c985f6ae48db53900d26ef5f684405.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/39_hu77b1d696de78adbc03d3d78e25ae7bc8_52967_e7baeefaf22680451dca67f0b0de6829.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/39_hu77b1d696de78adbc03d3d78e25ae7bc8_52967_77a577b5b1b1f65327a314b6f6f49564.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/39_hu77b1d696de78adbc03d3d78e25ae7bc8_52967_90130a10a2ac9fe20b3316fe3a9b134b.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/39_hu77b1d696de78adbc03d3d78e25ae7bc8_52967_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/39_hu77b1d696de78adbc03d3d78e25ae7bc8_52967_e8c985f6ae48db53900d26ef5f684405.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/39_hu77b1d696de78adbc03d3d78e25ae7bc8_52967_77a577b5b1b1f65327a314b6f6f49564.webp&#34;
                width=&#34;760&#34;
                height=&#34;413&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:039 width=70%}&lt;/p&gt;
-&lt;p&gt;Узнать текущее местоположение и содержимое кталога можно введя  pwd; ls(рис. [-@fig:040]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Верное определение указано на скриншоте(рис. [-@fig:040]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5610,16 +5606,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;40&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/40_hu3165abb3b0f09a5b33963679c50a8343_44199_ab9f971165daf93a7e62dd5e25f3aa5f.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/40_hu3165abb3b0f09a5b33963679c50a8343_44199_b784b80de85d503fc2eedf23218496ae.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/40_hu3165abb3b0f09a5b33963679c50a8343_44199_74121b685bcf0f3ca2a9e1332d306d73.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/40_hu3165abb3b0f09a5b33963679c50a8343_44199_1991c9de1e645b6c88ed57f96572715f.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/40_hu3165abb3b0f09a5b33963679c50a8343_44199_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/40_hu3165abb3b0f09a5b33963679c50a8343_44199_ab9f971165daf93a7e62dd5e25f3aa5f.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/40_hu3165abb3b0f09a5b33963679c50a8343_44199_74121b685bcf0f3ca2a9e1332d306d73.webp&#34;
                width=&#34;760&#34;
                height=&#34;305&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:040 width=70%}&lt;/p&gt;
-&lt;p&gt;Данная строка удаляет файл и сообщает, успешно или нет выполнена команда(рис. [-@fig:041]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Цифровая подпись осуществляется посредством хэширования и открытых ключей(рис. [-@fig:041]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5639,16 +5635,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;41&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/41_hu0cff87c0a25f106835b1316ec0f3ea87_35332_dbbdadd57cdd6b32724294f9e46c5127.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/41_hu0cff87c0a25f106835b1316ec0f3ea87_35332_51909dd58aa718d019fbc74dca38a20a.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/41_hu0cff87c0a25f106835b1316ec0f3ea87_35332_982dc60aed0716c5e5332ce433c51383.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/41_hu0cff87c0a25f106835b1316ec0f3ea87_35332_68913489a68576ee7a1ac0e3854e9654.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/41_hu0cff87c0a25f106835b1316ec0f3ea87_35332_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/41_hu0cff87c0a25f106835b1316ec0f3ea87_35332_dbbdadd57cdd6b32724294f9e46c5127.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/41_hu0cff87c0a25f106835b1316ec0f3ea87_35332_982dc60aed0716c5e5332ce433c51383.webp&#34;
                width=&#34;760&#34;
                height=&#34;291&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:041 width=70%}&lt;/p&gt;
-&lt;p&gt;Переменные в оболочке обозначаются символом доллара $(рис. [-@fig:042]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;ЦП требует наличие самой подписи, открытого ключа и сообщения - без этого технология невозможна$(рис. [-@fig:042]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5668,16 +5664,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;42&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/42_hu2531def59612c7752ef839240f0c5b0e_45433_a6f61c023ad87531c116da8c9f58ca70.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/42_hu2531def59612c7752ef839240f0c5b0e_45433_3f6ac3130eb797d2e7dbcc5ede8c5e6e.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/42_hu2531def59612c7752ef839240f0c5b0e_45433_994c9caa5c59a7a8d7ffa6e5cec17dce.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/42_hu2531def59612c7752ef839240f0c5b0e_45433_33023fe1b88cafd764fb25a1f9a388c6.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/42_hu2531def59612c7752ef839240f0c5b0e_45433_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/42_hu2531def59612c7752ef839240f0c5b0e_45433_a6f61c023ad87531c116da8c9f58ca70.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/42_hu2531def59612c7752ef839240f0c5b0e_45433_994c9caa5c59a7a8d7ffa6e5cec17dce.webp&#34;
                width=&#34;760&#34;
                height=&#34;373&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:042 width=70%}&lt;/p&gt;
-&lt;p&gt;Присвоение значения происходит так: $Имя=Значение. Обратим внимание, на отсутствие пробелов(рис. [-@fig:043]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Цифровая подпись также не обеспечивает конфиденциальность данных, она гарантирует только их целостность(рис. [-@fig:043]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5697,16 +5693,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;43&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/43_hu591ad69dfb319459758dff501d09ec70_32455_aa6939860b87be2b6f15f997aa799288.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/43_hu591ad69dfb319459758dff501d09ec70_32455_2071e881ab4866c3763282decaa60818.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/43_hu591ad69dfb319459758dff501d09ec70_32455_7a19e438d7372deaf38a56bf6c6164e7.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/43_hu591ad69dfb319459758dff501d09ec70_32455_8cc374bd365d411d9d0999d0c1a24905.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/43_hu591ad69dfb319459758dff501d09ec70_32455_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/43_hu591ad69dfb319459758dff501d09ec70_32455_aa6939860b87be2b6f15f997aa799288.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/43_hu591ad69dfb319459758dff501d09ec70_32455_7a19e438d7372deaf38a56bf6c6164e7.webp&#34;
                width=&#34;760&#34;
                height=&#34;299&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:043 width=70%}&lt;/p&gt;
-&lt;p&gt;Список переменных можно увидеть с помощью команд set и env(рис. [-@fig:044]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;В данном случае данные особо важны, поэтому используется усиленный тип (рис. [-@fig:044]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5726,16 +5722,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;44&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/44_hu7571d6731eeb545fbe716eb1169d935a_39196_4483a9ccbf865f73b687e161db05617c.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/44_hu7571d6731eeb545fbe716eb1169d935a_39196_c131b5aa1b388e9100f45de69ad6fc10.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/44_hu7571d6731eeb545fbe716eb1169d935a_39196_826daeb67736471928b741808e36b620.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/44_hu7571d6731eeb545fbe716eb1169d935a_39196_1023737f690c0cb6071c839fc5567110.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/44_hu7571d6731eeb545fbe716eb1169d935a_39196_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/44_hu7571d6731eeb545fbe716eb1169d935a_39196_4483a9ccbf865f73b687e161db05617c.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/44_hu7571d6731eeb545fbe716eb1169d935a_39196_826daeb67736471928b741808e36b620.webp&#34;
                width=&#34;760&#34;
                height=&#34;304&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:044 width=70%}&lt;/p&gt;
-&lt;p&gt;В выводе название переменной указано в кавычках, следовательно результатом будет просто название, а не значение(рис. [-@fig:045]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Ответ на скриншоте(рис. [-@fig:045]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5755,16 +5751,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;45&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/45_hu4bf31c31565d32ea0674720333ac7b22_35838_c28df38438f84cba6cf75a9a953d47a5.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/45_hu4bf31c31565d32ea0674720333ac7b22_35838_cb215e57d2703723c36c50f3f46105fa.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/45_hu4bf31c31565d32ea0674720333ac7b22_35838_f5a3ee79d3bfcc5d217f63636de45dd3.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/45_hu4bf31c31565d32ea0674720333ac7b22_35838_d00ffb7bdfab60937f7ae258376b48aa.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/45_hu4bf31c31565d32ea0674720333ac7b22_35838_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/45_hu4bf31c31565d32ea0674720333ac7b22_35838_c28df38438f84cba6cf75a9a953d47a5.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/45_hu4bf31c31565d32ea0674720333ac7b22_35838_f5a3ee79d3bfcc5d217f63636de45dd3.webp&#34;
                width=&#34;760&#34;
                height=&#34;244&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:045 width=70%}&lt;/p&gt;
-&lt;p&gt;Здесь используются двойные кавычки, что дает компьютеру понять, что вывести надо значение переменной(рис. [-@fig:046]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Все платежные системы отмечены на скриншоте(рис. [-@fig:046]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5784,16 +5780,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;46&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/46_hud2456dfd8315bc248d2763a226a8f2bb_52319_ace3b39f1c37262219d04b456123649d.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/46_hud2456dfd8315bc248d2763a226a8f2bb_52319_82b366cd3db749e45d756501acd3ff5f.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/46_hud2456dfd8315bc248d2763a226a8f2bb_52319_365141a7c3a7cedb920c6c3d049630cf.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/46_hud2456dfd8315bc248d2763a226a8f2bb_52319_bbd0aad6daf528002b03ce3e39c548a5.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/46_hud2456dfd8315bc248d2763a226a8f2bb_52319_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/46_hud2456dfd8315bc248d2763a226a8f2bb_52319_ace3b39f1c37262219d04b456123649d.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/46_hud2456dfd8315bc248d2763a226a8f2bb_52319_365141a7c3a7cedb920c6c3d049630cf.webp&#34;
                width=&#34;760&#34;
                height=&#34;369&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:046 width=70%}&lt;/p&gt;
-&lt;p&gt;Для удаления переменной окружения использутеся unset(рис. [-@fig:047]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Для того, чтобы выполнялся фактор многофакторности, необходимо наличие хотя бы двух атрибутов разных типов проверки - пароль и код, код и отпечаток пальца(рис. [-@fig:047]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5813,16 +5809,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;47&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/47_hu98a2c2562eb9e7395c86f6cdbb038a85_61055_606279a63d08ec256f9a8389b6d13c69.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/47_hu98a2c2562eb9e7395c86f6cdbb038a85_61055_8308b5d8afca98f9da04e17fe458ddf3.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/47_hu98a2c2562eb9e7395c86f6cdbb038a85_61055_7e7319aaabe29a1e80744cd853db4b66.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/47_hu98a2c2562eb9e7395c86f6cdbb038a85_61055_e1c6dedd27d213b05fef29bc9ba33d92.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/47_hu98a2c2562eb9e7395c86f6cdbb038a85_61055_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/47_hu98a2c2562eb9e7395c86f6cdbb038a85_61055_606279a63d08ec256f9a8389b6d13c69.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/47_hu98a2c2562eb9e7395c86f6cdbb038a85_61055_7e7319aaabe29a1e80744cd853db4b66.webp&#34;
                width=&#34;760&#34;
                height=&#34;340&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:047 width=70%}&lt;/p&gt;
-&lt;p&gt;Это делает переменная $PATH(рис. [-@fig:048]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Для усиления безопасности при платежах используется многофакторная система(рис. [-@fig:048]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5842,16 +5838,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;48&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/48_hu5ab1920ca77a5ccc58f1671b6e5e957e_53291_28589e8513a3cac197bf5025b5811525.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/48_hu5ab1920ca77a5ccc58f1671b6e5e957e_53291_5e3b15749c8ab044f508e2c0cced5f97.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/48_hu5ab1920ca77a5ccc58f1671b6e5e957e_53291_9736dcb756b9e80c1ba7ac0140bdcca0.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/48_hu5ab1920ca77a5ccc58f1671b6e5e957e_53291_19508936e6e1656e178dd28d02786612.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/48_hu5ab1920ca77a5ccc58f1671b6e5e957e_53291_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/48_hu5ab1920ca77a5ccc58f1671b6e5e957e_53291_28589e8513a3cac197bf5025b5811525.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/48_hu5ab1920ca77a5ccc58f1671b6e5e957e_53291_9736dcb756b9e80c1ba7ac0140bdcca0.webp&#34;
                width=&#34;760&#34;
                height=&#34;328&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:048 width=70%}&lt;/p&gt;
-&lt;p&gt;Данное действие осуществить с помощью доллара и скобок или же одинарных кавычек(рис. [-@fig:049]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Важное преимущество хэш-функций это практически невозможность восстановить данные по ее результату(рис. [-@fig:049]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5871,16 +5867,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;49&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/49_hue8b88e47d53b7340b520a8aa54043e30_40881_694f17458185a53b8c9cdc05d6bf2f35.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/49_hue8b88e47d53b7340b520a8aa54043e30_40881_0c9e7c6008167a38340883e5fe3537ec.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/49_hue8b88e47d53b7340b520a8aa54043e30_40881_f6efca82eb475c3b0c71b710141e6e0e.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/49_hue8b88e47d53b7340b520a8aa54043e30_40881_cd62abce44ffebcd961dc2ef3df1bc17.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/49_hue8b88e47d53b7340b520a8aa54043e30_40881_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/49_hue8b88e47d53b7340b520a8aa54043e30_40881_694f17458185a53b8c9cdc05d6bf2f35.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/49_hue8b88e47d53b7340b520a8aa54043e30_40881_f6efca82eb475c3b0c71b710141e6e0e.webp&#34;
                width=&#34;760&#34;
                height=&#34;335&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:049 width=70%}&lt;/p&gt;
-&lt;p&gt;Многоуровневое встраиване делается за счет символа доллара и кавычек(рис. [-@fig:050]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Он обладает всеми перечисленными свойствами(рис. [-@fig:050]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5900,15 +5896,15 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;50&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/50_hu618d0fbfe991d859eb36a9cff9bacf9e_49716_823703e00177d4e3748557c2b85a4417.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/50_hu618d0fbfe991d859eb36a9cff9bacf9e_49716_31b1942330fe5a84a3e789d5a76453e6.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/50_hu618d0fbfe991d859eb36a9cff9bacf9e_49716_714966d5a73f8955ea32d3742fb93fef.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/50_hu618d0fbfe991d859eb36a9cff9bacf9e_49716_e9753c28e69dd16a23bc16f7a5ee0ee2.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/50_hu618d0fbfe991d859eb36a9cff9bacf9e_49716_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/50_hu618d0fbfe991d859eb36a9cff9bacf9e_49716_823703e00177d4e3748557c2b85a4417.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/50_hu618d0fbfe991d859eb36a9cff9bacf9e_49716_714966d5a73f8955ea32d3742fb93fef.webp&#34;
                width=&#34;760&#34;
                height=&#34;338&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:050 width=70%}&lt;/p&gt;
+&lt;/p&gt;
 &lt;p&gt;На скриншоте видно правильное соотношеие(рис. [-@fig:051]).&lt;/p&gt;
 &lt;p&gt;
 
@@ -5929,16 +5925,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;51&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/51_hub848a661ba65a57bef800f47b4592d5d_35313_cb9afc1ac71ba3bae1553ba11cd08069.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/51_hub848a661ba65a57bef800f47b4592d5d_35313_76ba699ff1e8b459dc357a5c4c7c4827.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/51_hub848a661ba65a57bef800f47b4592d5d_35313_e4a388bc5253980bdabe8f3858ac32b1.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/51_hub848a661ba65a57bef800f47b4592d5d_35313_5e4a9966bf11e150a886b2ec22ae7b88.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/51_hub848a661ba65a57bef800f47b4592d5d_35313_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/51_hub848a661ba65a57bef800f47b4592d5d_35313_cb9afc1ac71ba3bae1553ba11cd08069.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/51_hub848a661ba65a57bef800f47b4592d5d_35313_e4a388bc5253980bdabe8f3858ac32b1.webp&#34;
                width=&#34;760&#34;
                height=&#34;330&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:051 width=70%}&lt;/p&gt;
-&lt;p&gt;Пробел позволяет не сохранять команду в истории(рис. [-@fig:052]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Ответ на скриншоте(рис. [-@fig:052]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5958,16 +5954,16 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;52&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/52_hu4dd083567ea95e386f9bd55ae57d2d49_34602_388bfe9fdb40fdfce2ebfe125df02143.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/52_hu4dd083567ea95e386f9bd55ae57d2d49_34602_adf980a93e0476680f0fadf0763edbfa.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/52_hu4dd083567ea95e386f9bd55ae57d2d49_34602_50989b526a469f6f0f14268f74c64bbb.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/52_hu4dd083567ea95e386f9bd55ae57d2d49_34602_1e0da69ab98ca1501486a2979d8eb91b.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/52_hu4dd083567ea95e386f9bd55ae57d2d49_34602_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/52_hu4dd083567ea95e386f9bd55ae57d2d49_34602_388bfe9fdb40fdfce2ebfe125df02143.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/52_hu4dd083567ea95e386f9bd55ae57d2d49_34602_50989b526a469f6f0f14268f74c64bbb.webp&#34;
                width=&#34;760&#34;
                height=&#34;304&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:052 width=70%}&lt;/p&gt;
-&lt;p&gt;Сохранить определнное количество команд в истории возможно указав размер командой HISTSIZE(рис. [-@fig:053]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Данные с роутера всегда передаются в зашифрованном виде, но после аутентификаци(рис. [-@fig:053]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -5987,16 +5983,18 @@ alias -&lt;/p&gt;
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;53&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/53_hud3c196b21a73d4477a7e1768b1de5594_45722_489128a10272a0ec0715f3182e469d0b.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/53_hud3c196b21a73d4477a7e1768b1de5594_45722_0bf0f3efd57d32c6b48b08ede80a93a1.webp 760w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/53_hud3c196b21a73d4477a7e1768b1de5594_45722_15863b599f3d9ac8bdd83316f862380b.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/53_hud3c196b21a73d4477a7e1768b1de5594_45722_288594b32d6064e26f5b6bbf492c3e26.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/53_hud3c196b21a73d4477a7e1768b1de5594_45722_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/53_hud3c196b21a73d4477a7e1768b1de5594_45722_489128a10272a0ec0715f3182e469d0b.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/53_hud3c196b21a73d4477a7e1768b1de5594_45722_15863b599f3d9ac8bdd83316f862380b.webp&#34;
                width=&#34;760&#34;
                height=&#34;325&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:053 width=70%}&lt;/p&gt;
-&lt;p&gt;Соотношение потоков ввода-вывода и номеров представлено ниже(рис. [-@fig:054]).&lt;/p&gt;
+&lt;/p&gt;
+&lt;p&gt;Завершение курса&lt;/p&gt;
+&lt;p&gt;К сожалению, в процессе выполнения курса пришлось столкнуться с проблемой невозможности получения сертификата, тем не менее пройдено 92% материала и выполнены все задания.&lt;/p&gt;
+&lt;p&gt;(рис. [-@fig:54]).&lt;/p&gt;
 &lt;p&gt;
 
 
@@ -6015,2176 +6013,18 @@ alias -&lt;/p&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;54&#34; srcset=&#34;
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/54_hu36238228075cc4735de8dddaa17ee0bc_52797_963d0c36140beb6a7bfac4e7605af1a2.webp 400w,
-               /project/%D0%BA%D1%83%D1%80%D1%81/image/54_hu36238228075cc4735de8dddaa17ee0bc_52797_64fea7003f047753bc83a1c5d2901802.webp 760w,
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Завершение курса&#34; srcset=&#34;
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/54_hu36238228075cc4735de8dddaa17ee0bc_52797_058a70b75980c640a77760975ce3dd26.webp 400w,
+               /project/%D0%BA%D1%83%D1%80%D1%81/image/54_hu36238228075cc4735de8dddaa17ee0bc_52797_62ee0fd82e40cd23f1e0e55edf4e5cd5.webp 760w,
                /project/%D0%BA%D1%83%D1%80%D1%81/image/54_hu36238228075cc4735de8dddaa17ee0bc_52797_1200x1200_fit_q75_h2_lanczos.webp 1200w&#34;
-               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/54_hu36238228075cc4735de8dddaa17ee0bc_52797_963d0c36140beb6a7bfac4e7605af1a2.webp&#34;
+               src=&#34;https://example.com/project/%D0%BA%D1%83%D1%80%D1%81/image/54_hu36238228075cc4735de8dddaa17ee0bc_52797_058a70b75980c640a77760975ce3dd26.webp&#34;
                width=&#34;760&#34;
                height=&#34;404&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
-{#fig:054 width=70%}&lt;/p&gt;
-&lt;p&gt;Содержимое будет удалено при использовании &amp;gt; (рис. [-@fig:055]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/55.jpg&#34; alt=&#34;55&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:055 width=70%}&lt;/p&gt;
-&lt;p&gt;Сообщение не будет выводиться при перенаправлении потоков - в 1м и последнем случаях(рис. [-@fig:056]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/56.jpg&#34; alt=&#34;56&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:056 width=70%}&lt;/p&gt;
-&lt;p&gt;Активирование режима происходит командами set -o noclobber и  set -C(рис. [-@fig:057]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/57.jpg&#34; alt=&#34;57&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:057 width=70%}&lt;/p&gt;
-&lt;p&gt;Да, параметр активирован, перезапись предотвращается(рис. [-@fig:058]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/58.jpg&#34; alt=&#34;58&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:058 width=70%}&lt;/p&gt;
-&lt;p&gt;Два вывода имеется только у командаы tee(рис. [-@fig:059]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/59.jpg&#34; alt=&#34;59&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:059 width=70%}&lt;/p&gt;
-&lt;p&gt;Команды и их функционал представлены на скриншоте (рис. [-@fig:060]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/60.jpg&#34; alt=&#34;60&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:060 width=70%}&lt;/p&gt;
-&lt;p&gt;В пропуск, для подсчета строк, необходимо добавть wc(рис. [-@fig:061]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/61.jpg&#34; alt=&#34;61&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:061 width=70%}&lt;/p&gt;
-&lt;p&gt;Для сортировки по второму столбцу используем ключ -k 2(рис. [-@fig:062]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/62.jpg&#34; alt=&#34;62&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:062 width=70%}&lt;/p&gt;
-&lt;p&gt;На скриншоте показано праавильное соотношение команд и того, для чего и когда они применяются(рис. [-@fig:063]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/63.jpg&#34; alt=&#34;63&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:063 width=70%}&lt;/p&gt;
-&lt;p&gt;Для того, чтобы созданный файл можно было найти с помощью locate необходимо обновить базу данных - updatedb(рис. [-@fig:064]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/64.jpg&#34; alt=&#34;64&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:064 width=70%}&lt;/p&gt;
-&lt;p&gt;Найти все директории можно ключом -d. Также необходимо указать сам шаблон для поиска - &amp;ldquo;foo&amp;rdquo; (рис. [-@fig:065]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/65.jpg&#34; alt=&#34;65&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:065 width=70%}&lt;/p&gt;
-&lt;p&gt;Поиск файлов рсуществялется с помощью указания f  и шаблона &amp;lsquo;*bar&amp;rsquo;(рис. [-@fig:066]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/66.jpg&#34; alt=&#34;66&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:066 width=70%}&lt;/p&gt;
-&lt;p&gt;Для поиска и копирования файлов введем катаолг /etc, шаблон файлов и пропишем копирование(рис. [-@fig:067]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/67.jpg&#34; alt=&#34;67&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:067 width=70%}&lt;/p&gt;
-&lt;p&gt;На скриншоте представлено соответсвие сокращений с их расшифровками(рис. [-@fig:068]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/68.jpg&#34; alt=&#34;68&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:068 width=70%}&lt;/p&gt;
-&lt;p&gt;При таком выводе могли использоваться только 2 и 6 команды с ключом G и E и таким синтаксисом(рис. [-@fig:069]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/69.jpg&#34; alt=&#34;69&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:069 width=70%}&lt;/p&gt;
-&lt;p&gt;Из Бельгии найти спортсменов можно используя ключ -i, то есть не учитывая регистр(рис. [-@fig:070]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/70.jpg&#34; alt=&#34;70&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:070 width=70%}&lt;/p&gt;
-&lt;p&gt;Правильное соотношение маски с выводом представлено ниже(рис. [-@fig:071]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/71.jpg&#34; alt=&#34;71&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:071 width=70%}&lt;/p&gt;
-&lt;p&gt;Данный вывод возможен только при вводе команд 2 и 6 - обязательно не учитывается регистр и соответсвующий синтаксис(рис. [-@fig:072]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/72.jpg&#34; alt=&#34;72&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:072 width=70%}&lt;/p&gt;
-&lt;p&gt;Здесь  происходит замена &amp;ldquo;За&amp;rdquo; на &amp;ldquo;При&amp;rdquo;, получается Приморский(рис. [-@fig:073]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/73.jpg&#34; alt=&#34;73&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:073 width=70%}&lt;/p&gt;
-&lt;p&gt;В следующем примере заменилось &amp;ldquo;Заморский&amp;rdquo; на &amp;ldquo;Заморить&amp;rdquo;, следовательно заменили &amp;ldquo;ский&amp;rdquo; на &amp;ldquo;ить&amp;rdquo;(рис. [-@fig:074]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/74.jpg&#34; alt=&#34;74&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:074 width=70%}&lt;/p&gt;
-&lt;p&gt;В этом случае символы &amp;amp;&amp;amp; дублирует текст перед этим - получается послепослезавтра (рис. [-@fig:075]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/75.jpg&#34; alt=&#34;75&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:075 width=70%}&lt;/p&gt;
-&lt;p&gt;Здесь происходит перестановка числа и месяца, также меняется символточки на слэш(рис. [-@fig:076]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/76.jpg&#34; alt=&#34;76&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:076 width=70%}&lt;/p&gt;
-&lt;p&gt;Клавиша esc предназначена для перевода редактора в режим ввода команд, а вот для ввода текста используется insert(рис. [-@fig:077]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/77.jpg&#34; alt=&#34;77&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:077 width=70%}&lt;/p&gt;
-&lt;p&gt;Перейти в режим ввода текста можно командами a, i, o(рис. [-@fig:078]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/78.jpg&#34; alt=&#34;78&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:078 width=70%}&lt;/p&gt;
-&lt;p&gt;w - write, сохранение, q - quit, завершение, также это можно сделать командой ZZ (рис. [-@fig:079]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/79.jpg&#34; alt=&#34;79&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:079 width=70%}&lt;/p&gt;
-&lt;p&gt;Соотношение команд и их функцинала представлено на скриншоте(рис. [-@fig:080]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/80.jpg&#34; alt=&#34;80&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:080 width=70%}&lt;/p&gt;
-&lt;p&gt;yyp - комбинация для создания дупликата строки(рис. [-@fig:081]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/81.jpg&#34; alt=&#34;81&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:081 width=70%}&lt;/p&gt;
-&lt;p&gt;Для смены строк местами необходимо использовать сочетание ddp(рис. [-@fig:082]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/82.jpg&#34; alt=&#34;82&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:082 width=70%}&lt;/p&gt;
-&lt;p&gt;Для выполнения этого действия надо сначала указать номера строк, затем где меняем и на что меняем(рис. [-@fig:083]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/83.jpg&#34; alt=&#34;83&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:083 width=70%}&lt;/p&gt;
-&lt;p&gt;she-bang - последовательность символом для запуска сценариев в оболочке(рис. [-@fig:084]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/84.jpg&#34; alt=&#34;84&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:084 width=70%}&lt;/p&gt;
-&lt;p&gt;Примеры she-bang должны включать в себя #! bin и оболочку - bash, csh и другие(рис. [-@fig:085]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/85.jpg&#34; alt=&#34;85&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:085 width=70%}&lt;/p&gt;
-&lt;p&gt;Для запуска в оболочке Korn shell необходимо написать ее сокращение - ksh(рис. [-@fig:086]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/86.jpg&#34; alt=&#34;86&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:086 width=70%}&lt;/p&gt;
-&lt;p&gt;На скриншоте прдеставлен написанный пример программы, читающей и выводящей различные переменные(рис. [-@fig:087]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/87.jpg&#34; alt=&#34;87&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:087 width=70%}&lt;/p&gt;
-&lt;p&gt;Команде test эквивалентны символы [] (рис. [-@fig:088]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/88.jpg&#34; alt=&#34;88&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:088 width=70%}&lt;/p&gt;
-&lt;p&gt;На скриншоте представлено верное соотношение синтаксиса команды с тем, что она делает(рис. [-@fig:089]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/89.jpg&#34; alt=&#34;89&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:089 width=70%}&lt;/p&gt;
-&lt;p&gt;Проанализировав представленный код, можно понять, что выводиться будет &amp;ldquo;мало&amp;rdquo; , так как выполнятеся условия else(11 меньше 42)(рис. [-@fig:090]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/90.jpg&#34; alt=&#34;90&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:090 width=70%}&lt;/p&gt;
-&lt;p&gt;При исполнении скрипта выводится 1: 4 - 3, так как выполняется первое условие(рис. [-@fig:091]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/91.jpg&#34; alt=&#34;91&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:091 width=70%}&lt;/p&gt;
-&lt;p&gt;Для последовательного вывода чисел необходимо просто прописать условие - 10..1(рис. [-@fig:092]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/92.jpg&#34; alt=&#34;92&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:092 width=70%}&lt;/p&gt;
-&lt;p&gt;Здесь также необходимо только прописать условие &amp;ldquo;пока i меньше или равно 11&amp;rdquo;(рис. [-@fig:093]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/93.jpg&#34; alt=&#34;93&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:093 width=70%}&lt;/p&gt;
-&lt;p&gt;Аналогично прописываем условия соотаетсвенно заданию - &amp;ldquo;пока не станет меньше 3&amp;rdquo;(рис. [-@fig:094]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/94.jpg&#34; alt=&#34;94&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:094 width=70%}&lt;/p&gt;
-&lt;p&gt;Напишем скрипт, считывающий переменные и выводяший сумму от a до  b(рис. [-@fig:095]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/95.jpg&#34; alt=&#34;95&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:095 width=70%}&lt;/p&gt;
-&lt;p&gt;На скриншоте представлено соотношение символа $ и доп символов с их обозначениями - номерами аргументов, их количеством и тд(рис. [-@fig:096]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/96.jpg&#34; alt=&#34;96&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:096 width=70%}&lt;/p&gt;
-&lt;p&gt;Для получения параметром сценариев существует спциальная функция  getopts(рис. [-@fig:097]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/97.jpg&#34; alt=&#34;97&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:097 width=70%}&lt;/p&gt;
-&lt;p&gt;В свою очередь параметры функционирования оболочки можно получить с  помощью shopt(рис. [-@fig:098]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/98.jpg&#34; alt=&#34;98&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:098 width=70%}&lt;/p&gt;
-&lt;p&gt;Последовательный вывод аргументов с предварительной проверкой аргументов осуществляется циклом while  и передачей туда аргументов(рис. [-@fig:099]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/99.jpg&#34; alt=&#34;99&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:099 width=70%}&lt;/p&gt;
-&lt;p&gt;Команда eval - evaluate позволяет интерпретировать аргументы в директивы сценария оболочки(рис. [-@fig:100]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/100.jpg&#34; alt=&#34;100&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:100 width=70%}&lt;/p&gt;
-&lt;p&gt;Наличие двойных скобок позволяет сравнивать числовые значения(рис. [-@fig:101]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/101.jpg&#34; alt=&#34;101&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:101 width=70%}&lt;/p&gt;
-&lt;p&gt;Вычисления значений в оболочке происходят командой let(рис. [-@fig:102]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/102.jpg&#34; alt=&#34;102&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:102 width=70%}&lt;/p&gt;
-&lt;p&gt;За имя учетной записи отвечает команда who am i(whoami), другие вариации невозможны(рис. [-@fig:103]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/103.jpg&#34; alt=&#34;103&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:103 width=70%}&lt;/p&gt;
-&lt;p&gt;Входящих в системы, напротив, можно узнать командами who и w(рис. [-@fig:104]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/104.jpg&#34; alt=&#34;104&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:104 width=70%}&lt;/p&gt;
-&lt;p&gt;id - утилита для подробной информации об идентификаторе, группах и тд пользователя(рис. [-@fig:105]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/105.jpg&#34; alt=&#34;105&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:105 width=70%}&lt;/p&gt;
-&lt;p&gt;Запуск оболочки от лица суперпользователя осуществялется командой su (рис. [-@fig:106]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/106.jpg&#34; alt=&#34;106&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:106 width=70%}&lt;/p&gt;
-&lt;p&gt;Команда по умолчанию не меняет переменные окружения оболочки(рис. [-@fig:107]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/107.jpg&#34; alt=&#34;107&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:107 width=70%}&lt;/p&gt;
-&lt;p&gt;Команда su - позволяет работать в окружении оболочки целевого пользователя, а не обязательно исходного, как по умолчанию(рис. [-@fig:108]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/108.jpg&#34; alt=&#34;108&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:108 width=70%}&lt;/p&gt;
-&lt;p&gt;Не зная пароля, но введя команду sudo, можно выполнить команду от имени другого пользователя(рис. [-@fig:109]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/109.jpg&#34; alt=&#34;109&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:109 width=70%}&lt;/p&gt;
-&lt;p&gt;По умолчанию пароль от root не задается, это можно сделать самостоятельно в настройках(рис. [-@fig:110]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/110.jpg&#34; alt=&#34;110&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:110 width=70%}&lt;/p&gt;
-&lt;p&gt;Вся локальная база даннных учетных записей нахоится в директории   passwd(рис. [-@fig:111]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/111.jpg&#34; alt=&#34;111&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:111 width=70%}&lt;/p&gt;
-&lt;p&gt;Больше всего полномочий иммет пользователь root или же суперпользователь(рис. [-@fig:112]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/112.jpg&#34; alt=&#34;112&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:112 width=70%}&lt;/p&gt;
-&lt;p&gt;На скриншоте представлено верное соотношения утилит и функций(рис. [-@fig:113]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/113.jpg&#34; alt=&#34;113&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:113 width=70%}&lt;/p&gt;
-&lt;p&gt;Директория skel - директория-шаблон домашней директории(рис. [-@fig:114]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/114.jpg&#34; alt=&#34;114&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:114 width=70%}&lt;/p&gt;
-&lt;p&gt;Именно в зашифрованном виде пароли хранятся в каталогу shadow(рис. [-@fig:115]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/115.jpg&#34; alt=&#34;115&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:115 width=70%}&lt;/p&gt;
-&lt;p&gt;Утилиты openssl и passwd позволяют шифровать фразу для создания пароля, друние утилиты для этого не подходят(рис. [-@fig:116]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/116.jpg&#34; alt=&#34;116&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:116 width=70%}&lt;/p&gt;
-&lt;p&gt;Данная утилита обладает большим функционалом, в частности она позволяет устанавливать различные даты и сроки действия паролей(рис. [-@fig:117]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/117.jpg&#34; alt=&#34;117&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:117 width=70%}&lt;/p&gt;
-&lt;p&gt;наличие ! перед кэшем свидельствует о блокировке записи (рис. [-@fig:118]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/118.jpg&#34; alt=&#34;118&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:118 width=70%}&lt;/p&gt;
-&lt;p&gt;Необходим файл, находящийся в каталоге etc(рис. [-@fig:119]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/119.jpg&#34; alt=&#34;119&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:119 width=70%}&lt;/p&gt;
-&lt;p&gt;В целом, подходят все представленные варианты(рис. [-@fig:120]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/120.jpg&#34; alt=&#34;120&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:120 width=70%}&lt;/p&gt;
-&lt;p&gt;Название утилиты gropadd указывает на то, что она создает новую группу(рис. [-@fig:121]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/121.jpg&#34; alt=&#34;121&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:121 width=70%}&lt;/p&gt;
-&lt;p&gt;Принадлежность пользователей к группам содержится в папке group(рис. [-@fig:122]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/122.jpg&#34; alt=&#34;122&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:122 width=70%}&lt;/p&gt;
-&lt;p&gt;Groups - команда, показывающая принадлежность пользователя к группам(рис. [-@fig:123]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/123.jpg&#34; alt=&#34;123&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:123 width=70%}&lt;/p&gt;
-&lt;p&gt;Usermod - команда, позволящая изменить членство пользователя. Остальные команды были рассмотрены ранее(groupmod - изменение имени)(рис. [-@fig:124]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/124.jpg&#34; alt=&#34;124&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:124 width=70%}&lt;/p&gt;
-&lt;p&gt;Для этого существует ключ а(рис. [-@fig:125]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/125.jpg&#34; alt=&#34;125&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:125 width=70%}&lt;/p&gt;
-&lt;p&gt;Groupmod - утилита для изменения названия, аналогична usermod(рис. [-@fig:126]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/126.jpg&#34; alt=&#34;126&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:126 width=70%}&lt;/p&gt;
-&lt;p&gt;А вот утилита chown позволяет менять и имя группы, и пользователя владеющими файлом(рис. [-@fig:127]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/127.jpg&#34; alt=&#34;127&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:127 width=70%}&lt;/p&gt;
-&lt;p&gt;Chgrp - изменение имени группы, владеющей файлом(рис. [-@fig:128]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/128.jpg&#34; alt=&#34;128&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:128 width=70%}&lt;/p&gt;
-&lt;p&gt;Утилита chmod  отвечает за права доступа к файлу(не путать с chown(рис. [-@fig:129]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/129.jpg&#34; alt=&#34;129&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:129 width=70%}&lt;/p&gt;
-&lt;p&gt;Заменить имя пользователя позволит команда chown с указанием на кого менять и каталога(рис. [-@fig:130]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/130.jpg&#34; alt=&#34;130&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:130 width=70%}&lt;/p&gt;
-&lt;p&gt;Для замены группы воспользуемся командой chgrp, остальное аналогичнопримеру выше(рис. [-@fig:131]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/131.jpg&#34; alt=&#34;131&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:131 width=70%}&lt;/p&gt;
-&lt;p&gt;Для замены и группы и владельца необходима команда chown и запись через двоеточие(рис. [-@fig:132]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/132.jpg&#34; alt=&#34;132&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:132 width=70%}&lt;/p&gt;
-&lt;p&gt;Соответсвие обозначений и расшифровки представлено ниже(рис. [-@fig:133]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/133.jpg&#34; alt=&#34;133&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:133 width=70%}&lt;/p&gt;
-&lt;p&gt;Ниже представлено сопоставление прав доступа и их сокращений(рис. [-@fig:134]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/134.jpg&#34; alt=&#34;134&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:134 width=70%}&lt;/p&gt;
-&lt;p&gt;Для каждого пользователя отведено по ___, соответственно владельцу доступны вход и чтение, остальным только доступ(рис. [-@fig:135]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/135.jpg&#34; alt=&#34;135&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:135 width=70%}&lt;/p&gt;
-&lt;p&gt;Основываясь на команде, можно понять, что у владельца есть право на все, его группа имеет право на чтение и исполнение, у остальных пользователей только чтение, также, по дальнейшей информации, видно, что это файл(рис. [-@fig:136]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/136.jpg&#34; alt=&#34;136&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:136 width=70%}&lt;/p&gt;
-&lt;p&gt;Основываясь на таблице соответствий легко перевести права в виде строки в численное значение - 755(рис. [-@fig:137]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/137.jpg&#34; alt=&#34;137&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:137 width=70%}&lt;/p&gt;
-&lt;p&gt;рис. [-@fig:138]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/137.jpg&#34; alt=&#34;138&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:138 width=70%}&lt;/p&gt;
-&lt;p&gt;Аналогично получим 740((рис. [-@fig:139]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/139.jpg&#34; alt=&#34;139&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:139 width=70%}&lt;/p&gt;
-&lt;p&gt;Переведем в двоичную систему - пропуск=ноль, буква=1(рис. [-@fig:140]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/140.jpg&#34; alt=&#34;140&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:140 width=70%}&lt;/p&gt;
-&lt;p&gt;Функция sticky заключается в предотвращении удаления файлов пользователей не владельцев(рис. [-@fig:141]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/141.jpg&#34; alt=&#34;141&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:141 width=70%}&lt;/p&gt;
-&lt;p&gt;Описание использование бита описано в последнем варианте(рис. [-@fig:142]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/142.jpg&#34; alt=&#34;142&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:142 width=70%}&lt;/p&gt;
-&lt;p&gt;Описание использование бита описано во втором варианте - используется для повышения прав(рис. [-@fig:143]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/143.jpg&#34; alt=&#34;143&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:143 width=70%}&lt;/p&gt;
-&lt;p&gt;Утилита getfacl позволяет читать списки контроля доступа, а вот модификации и запись осуществить не получится(рис. [-@fig:144]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/144.jpg&#34; alt=&#34;144&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:144 width=70%}&lt;/p&gt;
-&lt;p&gt;Зато следующая утилита как ра-таки позволяет выполнить все эти операции - запись, удаление и модификация(рис. [-@fig:145]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/145.jpg&#34; alt=&#34;145&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:145 width=70%}&lt;/p&gt;
-&lt;p&gt;Inode - сьруктура данных, содержащая метаданные файла(рис. [-@fig:146]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/146.jpg&#34; alt=&#34;146&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:146 width=70%}&lt;/p&gt;
-&lt;p&gt;ls -li  команда для просмотра идентификаторов структуры(рис. [-@fig:147]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/147.jpg&#34; alt=&#34;147&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:147 width=70%}&lt;/p&gt;
-&lt;p&gt;Жесткие ссылки ограничены своими разделами дисков, имеют те же права, что и файл и связаны с inode. Права доступа имеют значение,они также указывают на структуры inode и не могут указывать на файлы из других систем (рис. [-@fig:148]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/148.jpg&#34; alt=&#34;148&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:148 width=70%}&lt;/p&gt;
-&lt;p&gt;Симвоилческие ссылки противоположны жестким по своей сути(рис. [-@fig:149]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/149.jpg&#34; alt=&#34;149&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:149 width=70%}&lt;/p&gt;
-&lt;p&gt;Ниже представлено соотношение файлов в каталогах с их содержимым(рис. [-@fig:150]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/150.jpg&#34; alt=&#34;150&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:150 width=70%}&lt;/p&gt;
-&lt;p&gt;Ниже представлено верное соотношение утилит с их значением(рис. [-@fig:151]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/151.jpg&#34; alt=&#34;151&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:151 width=70%}&lt;/p&gt;
-&lt;p&gt;Завершение курса&lt;/p&gt;
-&lt;p&gt;К сожалению, в процессе выполнения курса пришлось столкнуться с проблемой невозможности получения баллов за некоторые задания в связи с настройками авторов, тем не менее пройдено 92% материала и выполнены все задания.&lt;/p&gt;
-&lt;p&gt;(рис. [-@fig:152]).&lt;/p&gt;
-&lt;p&gt;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-&lt;figure  &gt;
-  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;image/152.jpg&#34; alt=&#34;152&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
-  &lt;/div&gt;&lt;/figure&gt;
-{#fig:152 width=70%}&lt;/p&gt;
+{#fig:54 width=70%}&lt;/p&gt;
 &lt;h1 id=&#34;выводы&#34;&gt;Выводы&lt;/h1&gt;
-&lt;p&gt;В отчете представлено прохождение курса &amp;ldquo;Основы Linux&amp;rdquo; на платформе Stepik. В ходе работы былы получены знания по работе с операционной системы, изучены различные тонкости и нюансы, написано несколько скриптов и выполнено определенное количество заданий&lt;/p&gt;
+&lt;p&gt;В отчете представлено прохождение курса &amp;ldquo;Основы кибербезопасности&amp;rdquo; на платформе Stepik. В ходе работы былы получены знания по организации безопасности, шифрованию данных, вирусах и не только.&lt;/p&gt;
 </description>
     </item>
     
